@@ -136,7 +136,7 @@
 "DND5E.ActionSave": "Tiro Salvezza",
 "DND5E.ActionSumm": "Evocazione",
 "DND5E.ActionUtil": "Utilità",
-"DND5E.ActionWarningNoItem": "L'oggetto richiesto {item} non esiste più sul personaggio {name}",
+"DND5E.ActionWarningNoItem": "L'oggetto richiesto {item} non esiste più su {name}",
 "DND5E.ActionWarningNoToken": "Devi controllare uno o più Token per poter usare questa opzione.",
 
 "DND5E.ACTIVATION": {
@@ -892,7 +892,7 @@
   "Configuration": {
     "Name": "Bastioni",
     "Label": "Configura Bastioni",
-    "Hint": "Varie opzioni di configurazione per il sistema Bastione come presentato nella DMG 2024."
+    "Hint": "Varie opzioni di configurazione per il sistema dei Bastioni come da Guida del Dungeon Master del 2024."
   },
   "Confirm": "Avanzare il bastione di un turno?",
   "Duration": {
@@ -1240,10 +1240,10 @@
     }
   },
   "Sources": {
-    "Name": "Fonti del Browser del Compendio",
-    "Label": "Configura le Fonti",
+    "Name": "Fonti del Compendio",
+    "Label": "Configura Fonti",
     "FilterPackages": "Filtra i Pacchetti",
-    "Hint": "Configura quali pacchetti di compendio rendono disponibili i loro contenuti nel browser del compendio."
+    "Hint": "Configura quali pacchetti rendere disponibili nel browser del compendio."
   },
   "Tabs": {
     "Feat.other": "Talenti",
@@ -2338,16 +2338,16 @@
     "Label": "Caratteristica di Classe",
     "ArcaneShot": "Tiro Arcano",
     "ArtificerInfusion": "Infusione dell'Artefice",
-    "ChannelDivinity": "Canalizzazione Divina",
+    "ChannelDivinity": "Incanalare Deivinità",
     "DefensiveTactic": "Tattica Difensiva",
-    "EldritchInvocation": "Invocazione Eldritch",
+    "EldritchInvocation": "Supplica Occulta",
     "ElementalDiscipline": "Disciplina Elementale",
     "FightingStyle": "Stile di Combattimento",
     "HuntersPrey": "Preda del Cacciatore",
-    "Ki": "Capacità Ki",
+    "Ki": "Ki",
     "Maneuver": "Manovra",
-    "Metamagic": "Opzione Metamagica",
-    "Multiattack": "Attacco Multiplo",
+    "Metamagic": "Metamagia",
+    "Multiattack": "Multiattacco",
     "PactBoon": "Dono del Patto",
     "PsionicPower": "Potere Psionico",
     "Rune": "Runa",
@@ -2454,12 +2454,12 @@
 "DND5E.FlagsInstructions": "Configura caratteristiche e tratti del personaggio che affinano il comportamento del sistema D&D Quinta Edizione.",
 "DND5E.FlagsSave": "Aggiorna Tratti Speciali",
 "DND5E.FlagsTitle": "Configura Tratti Speciali",
-"DND5E.FlagsDiamondSoul": "Anima di Diamante",
+"DND5E.FlagsDiamondSoul": "Anima Adamantina",
 "DND5E.FlagsDiamondSoulHint": "Ottieni competenza in tutti i tiri salvezza.",
-"DND5E.FlagsPowerfulBuild": "Corporatura Possente",
-"DND5E.FlagsPowerfulBuildHint": "Fornisce una capacità di carico aumentata.",
+"DND5E.FlagsPowerfulBuild": "Costituzione Robusta",
+"DND5E.FlagsPowerfulBuildHint": "Fornisce una capacità di carico e di spinta aumentata.",
 "DND5E.FlagsElvenAccuracy": "Precisione Elfica",
-"DND5E.FlagsElvenAccuracyHint": "Tira un d20 extra con vantaggio per Destrezza, Intelligenza, Saggezza o Carisma.",
+"DND5E.FlagsElvenAccuracyHint": "Ogni volta che il personaggio dispone di vantaggio a un tiro per colpire che usa Destrezza, Intelligenza, Saggezza o Carisma, può ripetere il tiro di un dado una volta.",
 "DND5E.FlagsHalflingLucky": "Fortuna degli Halfling",
 "DND5E.FlagsHalflingLuckyHint": "Ritira i risultati di 1 nei tiri con d20.",
 "DND5E.FlagsInitiativeAdv": "Vantaggio all'Iniziativa",
@@ -2471,8 +2471,8 @@
 "DND5E.FlagsJOATHint": "Mezza competenza alle prove di abilità in cui non sei già competente.",
 "DND5E.FlagsObservant": "Talento Osservatore",
 "DND5E.FlagsObservantHint": "Fornisce un +5 alla Percezione e Investigazione passiva.",
-"DND5E.FlagsTavernBrawler": "Talento Rissaiolo da Taverna",
-"DND5E.FlagsTavernBrawlerHint": "Competente con armi improvvisate.",
+"DND5E.FlagsTavernBrawler": "Talento Lottatore da Taverna",
+"DND5E.FlagsTavernBrawlerHint": "Competenza nelle armi improvvisate.",
 "DND5E.FlagsReliableTalent": "Talento Affidabile",
 "DND5E.FlagsReliableTalentHint": "Caratteristica del Ladro: Talento Affidabile.",
 "DND5E.FlagsRemarkableAthlete": "Atleta Straordinario",
@@ -2912,13 +2912,13 @@
 "DND5E.Maximum": "Massimo",
 "DND5E.Minimum": "Minimo",
 "DND5E.Modifier": "Modificatore",
-"DND5E.ModuleArtConfigH": "Configura quale arte fornita dai moduli deve essere utilizzata.",
-"DND5E.ModuleArtConfigL": "Configura Arte",
-"DND5E.ModuleArtConfigN": "Arte fornita dal Modulo",
+"DND5E.ModuleArtConfigH": "Configura quale immagine dei moduli deve essere utilizzata.",
+"DND5E.ModuleArtConfigL": "Configura Immagini",
+"DND5E.ModuleArtConfigN": "Immagine fornita dal Modulo",
 "DND5E.ModuleArtConfigPortraits": "Ritratti",
 "DND5E.ModuleArtConfigTokens": "Token",
 "DND5E.ModuleArtPriorityDecrease": "Diminuisci Priorità",
-"DND5E.ModuleArtPriorityHint": "Usa le frecce per regolare la priorità delle fonti artistiche. Quando un singolo Attore ha arte fornita da più fonti, verrà utilizzata quella con la priorità più alta.",
+"DND5E.ModuleArtPriorityHint": "Usa le frecce per regolare la priorità delle fonti artistiche. Quando un singolo Attore ha un'immagine fornita da più fonti, verrà utilizzata quella con la priorità più alta.",
 "DND5E.ModuleArtPriorityIncrease": "Aumenta Priorità",
 "DND5E.Multiple": "Multiplo",
 "DND5E.Multiplier": "Moltiplicatore",
@@ -4862,13 +4862,13 @@
 
 "SETTINGS.5eAutoCollapseCardL": "Comprimi automaticamente le descrizioni delle Schede Oggetto nel Registro Chat",
 "SETTINGS.5eAutoCollapseCardN": "Comprimi Schede Oggetto nella Chat",
-"SETTINGS.5eAutoSpellTemplateL": "Quando viene lanciato un incantesimo, avvia automaticamente la creazione del Modello Misurato corrispondente, se previsto (richiede ruolo di GIOCATORE AFFIDABILE o superiore)",
+"SETTINGS.5eAutoSpellTemplateL": "Quando viene lanciato un incantesimo, avvia automaticamente la creazione del Modello di Misurazione corrispondente, se previsto (richiede ruolo di GIOCATORE AFFIDABILE o superiore)",
 "SETTINGS.5eAutoSpellTemplateN": "Posiziona sempre il Modello Incantesimo",
 "SETTINGS.5eNoAdvancementsN": "Disattiva automazione del passaggio di livello",
 "SETTINGS.5eNoAdvancementsL": "Non mostrare richieste per il passaggio di livello o la creazione del personaggio.",
 "SETTINGS.5eNoConcentrationN": "Disattiva tracciamento della concentrazione",
 "SETTINGS.5eNoConcentrationL": "Disattiva il tracciamento automatico della concentrazione da parte del sistema.",
-"SETTINGS.5eGridAlignedSquareTemplatesL": "Quando vengono creati modelli quadrati come risultato del lancio di un incantesimo o dell’uso di un oggetto, saranno allineati alla griglia e non potranno essere ruotati.",
+"SETTINGS.5eGridAlignedSquareTemplatesL": "Quando vengono creati modelli quadrati di tracciamento come risultato del lancio di un incantesimo o dell’uso di un oggetto, saranno allineati alla griglia e non potranno essere ruotati.",
 "SETTINGS.5eGridAlignedSquareTemplatesN": "Modelli Quadrati Allineati alla Griglia",
 "SETTINGS.DND5E": {
   "BLOODIED": {
@@ -4886,19 +4886,19 @@
     "Never": "Espandi Tutto"
   },
   "COMBAT": {
-    "Hint": "Varie opzioni di configurazione che influenzano il combattimento.",
+    "Hint": "Opzioni di configurazione che influenzano il combattimento.",
     "Label": "Configura Combattimento",
     "Name": "Combattimento",
     "DexTiebreaker": {
-      "Name": "Spareggio con Destrezza",
-      "Hint": "Aggiungi il punteggio grezzo di Destrezza per risolvere i pareggi nell’Iniziativa."
+      "Name": "Spareggio di Destrezza",
+      "Hint": "Aggiungi il valore di Destrezza per risolvere i pareggi nell’Iniziativa."
     },
     "InitiativeScore": {
       "Name": "Punteggio di Iniziativa",
       "Hint": "Usa il punteggio di iniziativa della creatura (10 + bonus) invece di tirare.",
-      "All": "Usa il punteggio per tutti",
+      "All": "Usa il punteggio di inizaitiva per tutti",
       "None": "Tira sempre per l’iniziativa",
-      "NPCs": "Usa il punteggio solo per PNG del GM"
+      "NPCs": "Usa il punteggio di iniziativa solo per PNG controllati dal GM"
     }
   },
   "CRITICAL": {
@@ -4914,7 +4914,7 @@
   },
   "DEFAULTSKILLS": {
     "Name": "Abilità Predefinite",
-    "Hint": "Le abilità predefinite che appaiono nelle schede PNG indipendentemente dal livello di competenza."
+    "Hint": "Le abilità predefinite appaiono nelle schede PNG, indipendentemente dal livello di competenza."
   },
   "General": "Generale",
   "LOYALTY": {
@@ -4932,21 +4932,21 @@
     },
     "WeightUnits": {
       "Name": "Usa Unità Metriche di Peso",
-      "Hint": "Sostituisce i riferimenti alle libbre con i chilogrammi e aggiorna il calcolo del carico."
+      "Hint": "Sostituisce i riferimenti alle libbre con i chilogrammi e aggiorna il calcolo dell'ingombro."
     }
   },
   "NPCS": {
   "Name": "PNG",
   "AutoRecharge": {
     "Name": "Ricarica Abilità",
-    "Hint": "Tira per ricaricare automaticamente le abilità del PNG all'inizio del suo turno.",
+    "Hint": "Lanciare i dadi per ricaricare automaticamente le abilità del PNG all'inizio del suo turno.",
     "No": "Non ricaricare automaticamente",
     "Silent": "Ricarica senza creare scheda nella chat",
     "Yes": "Ricarica e mostra scheda nella chat"
   },
     "AutoRollNPCHP": {
   "Name": "Punti Ferita",
-  "Hint": "Configura se tirare i punti ferita massimi del PNG ogni volta che viene creato un nuovo token.",
+  "Hint": "Configura se lanciare i dadi per determinare i punti ferita massimi del PNG ogni volta che viene creato un nuovo token.",
   "No": "Non tirare",
   "Silent": "Tira senza creare scheda nella chat",
   "Yes": "Tira e crea scheda nella chat"
@@ -4954,7 +4954,7 @@
   },
   "THEME": {
   "Name": "Tema",
-  "Hint": "Tema che verrà applicato all'interfaccia e a tutte le schede per impostazione predefinita. Automatico sarà determinato dalle impostazioni del browser o del sistema operativo."
+  "Hint": "L'aspetto grafico che verrà applicato all'interfaccia e a tutte le schede come impostazione predefinita. Automatico sarà determinato dalle impostazioni del browser o del sistema operativo."
   },
   "PERMISSIONS": {
   "AllowSummoning": {
@@ -4962,13 +4962,13 @@
     "Name": "Permetti Evocazione"
   },
   "AllowTransformation": {
-    "Hint": "Permetti ai giocatori di trasformare i propri attori. I giocatori devono anche avere il permesso base di Creare Attore.",
-    "Name": "Permetti Trasformazione"
+    "Hint": "Permetti ai giocatori di modificare i propri personaggi. I giocatori devono anche avere il permesso base di Creare Attore.",
+    "Name": "Permetti Modifica"
    }
   },
   "RULESVERSION": {
-  "Name": "Versione delle Regole",
-  "Hint": "Modifica la gestione di varie regole tra le edizioni 2024 e 2014.",
+  "Name": "Versione del Regolamento",
+  "Hint": "Modifica la gestione del regolamento base di D&D tra le edizioni 2024 e 2014.",
   "Legacy": "Regole Classiche 2014",
   "Modern": "Regole Moderne 2024"
   },
@@ -4977,7 +4977,7 @@
   "Label": "Configura Regole Varianti",
   "Name": "Regole Varianti",
   "AllowFeats": {
-    "Hint": "Permetti ai giocatori di scegliere un talento invece di un incremento di punteggio durante l’avanzamento di classe con le regole classiche.",
+    "Hint": "Permetti ai giocatori di scegliere un talento invece dell'incremento di punteggio durante l’avanzamento di classe con le regole classiche.",
     "Name": "Permetti Talenti"
   },
   "CurrencyWeight": {
@@ -4985,27 +4985,27 @@
     "Name": "Traccia Peso della Valuta"
   },
   "Encumbrance": {
-    "Hint": "Abilita il tracciamento automatico del carico e l’applicazione di effetti di stato per personaggi sovraccarichi.",
-    "Name": "Tracciamento del Carico",
+    "Hint": "Abilita il tracciamento automatico dell'ingombro e l’applicazione di effetti di stato per personaggi ingombrati.",
+    "Name": "Tracciamento dell'Ingombro",
     "None": "Nessuno",
     "Normal": "Normale capacità massima di carico",
     "Variant": "Variante appesantito e fortemente appesantito"
   },
   "HonorScore": {
-    "Hint": "Abilita l’uso del punteggio facoltativo Onore.",
+    "Hint": "Abilita l’uso del punteggio facoltativo di Onore.",
     "Name": "Punteggio di Onore"
   },
   "LevelingMode": {
     "Hint": "Determina come i giocatori avanzano di livello.",
     "Name": "Modalità di Avanzamento",
-    "NoXP": "Avanzamento senza Esperienza",
+    "NoXP": "Avanzamento senza Esperienza (Milestones)",
     "XP": "Punti Esperienza",
     "XPBoons": "Esperienza con Ricompense Epiche"
   },
   "ProficiencyModifier": {
     "Bonus": "Manuale del Giocatore Bonus più 2 più 3 più 4 più 5 più 6",
     "Dice": "Guida del DM Dadi 1d4 1d6 1d8 1d10 1d12",
-    "Hint": "Configura il modificatore di competenza per usare un bonus fisso o un tiro di dado.",
+    "Hint": "Configura il modificatore di competenza usando un bonus fisso o un tiro di dado.",
     "Name": "Variante Competenza"
   },
   "Rest": {
@@ -5016,12 +5016,12 @@
     "Normal": "Manuale del Giocatore riposo lungo 8 ore riposo breve 1 ora"
   },
   "SanityScore": {
-    "Hint": "Abilita l’uso del punteggio facoltativo Sanità Mentale.",
+    "Hint": "Abilita l’uso del punteggio facoltativo di Sanità Mentale.",
     "Name": "Punteggio di Sanità Mentale"
   }
  },
   "VISIBILITY": {
-  "Hint": "Varie opzioni di configurazione che influenzano la visibilità di alcune informazioni per i giocatori che il DM potrebbe voler mantenere segrete.",
+  "Hint": "Varie opzioni di configurazione che influenzano la visibilità di alcune informazioni per i giocatori e che il DM potrebbe voler mantenere segrete.",
   "Label": "Configura Visibilità",
   "Name": "Visibilità",
   "Attack": {
