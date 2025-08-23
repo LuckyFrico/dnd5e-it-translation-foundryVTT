@@ -1,4 +1,4 @@
-# dnd52-it-translation-foundryVTT
+# dnd5e-it-translation-foundryVTT
 Traduzione italiana per il sistema D&amp;D 5e in Foundry VTT
 
 ## Installazione
