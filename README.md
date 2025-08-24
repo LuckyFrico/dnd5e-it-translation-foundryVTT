@@ -10,6 +10,8 @@ Traduzione italiana per il sistema D&amp;D 5e in Foundry VTT
 ## Sistemi supportati
 * [D&D5e](https://foundryvtt.com/packages/dnd5e/)
 
+verificato per la versione 5.1.2
+
 ## Supporto
 Se ti piace questo modulo e vorresti dare un contributo, suggerire l'aggiunta di una traduzione o hai trovato un errore contattami su discord @LuckyFrico o [crea un issue](https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT/issues) qui su GitHub.
 
