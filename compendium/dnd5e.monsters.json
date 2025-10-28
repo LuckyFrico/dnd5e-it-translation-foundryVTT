@@ -1,0 +1,1340 @@
+{
+  "label": "Mostri (SRD)",
+  "mapping": {
+    "alignment": {
+      "path": "data.details.alignment",
+      "converter": "alignement"
+    },
+    "senses": {
+      "path": "data.traits.senses",
+      "converter": "senses"
+    },
+    "movement": {
+      "path": "data.attributes.movement",
+      "converter": "movement"
+    },
+    "languages": {
+      "path": "data.traits.languages.custom",
+      "converter": "languages"
+    },
+    "di": {
+      "path": "data.traits.di.custom",
+      "converter": "di"
+    },
+    "dr": {
+      "path": "data.traits.dr.custom",
+      "converter": "di"
+    },
+    "token": {
+      "path": "token",
+      "converter": "token"
+    },
+    "image": {
+      "path": "img",
+      "converter": "img"
+    }
+  },
+  "entries": [
+    {
+      "id": "Acolyte",
+      "name": "Accolito",
+      "description": "<blockquote><p>Avvolti in una fantastica filigrana d'oro con incenso che turbinava nell'atrio, i pilastri del Solarium scintillavano, immersi nel calore della luce del Signore del Sole. Da un singolare buco scavato nel soffitto a cupola del tempio, la luce del sole si riversava come fosse una cascata impetuosa destinata ad affogarci tutti nella corona luminosa. Mi allontanai dal mio mentore, un prete di mezza et&agrave; con una voce dolce e un anello di capelli grigi chiazzati attorno a una testa calva, per avvicinarmi a una statua messa da parte in un'alcova ombreggiata. Raffigurava il nostro dio nella sua forma umanoide, un uomo anziano in piedi rigorosamente sull'attenti, i capelli selvaggi pendenti fino alla barba lunga fino al petto, un bastone sormontato da un sole severo dalla faccia stretta in mano. Mi sono inginocchiato, ancora solo quattordici anni, davanti a questa statua e ho iniziato a pregare proprio allora. I successivi sei anni del mio addestramento all'accolito non sarebbero stati altro che una benedizione, lo sapevo.</p><p>&ldquo;The Gleaming Star&rdquo;, di Mons. Bernard Portis</p></blockquote><p>Gli accoliti sono quei devoti seguaci di una particolare dea o dio che hanno deciso di vestire il mantello del clero per servire meglio la divinit&agrave; scelta. Spesso non pi&ugrave; grandi degli adolescenti (anche se alcuni accoliti iniziano pi&ugrave; tardi nella loro vita) gli accoliti vengono addestrati per un certo numero di anni (in genere tra i tre e i dieci) a seconda delle restrizioni delle dottrine della loro divinit&agrave;. Durante il loro tempo memorizzano e studiano tutto il materiale scritto relativo alla loro divinit&agrave; e ai loro insegnamenti, imparano le magie (siano esse curative o dannose) donate agli accoliti dalle loro divinit&agrave;, e spesso escono nella loro comunit&agrave; per fornire aiuto a chi &egrave; nel bisogno o nella prostituzione le parole della loro dea o dio. Sebbene non tutti gli accoliti scalino le fila fino al sacerdozio a tutti gli effetti, molti rimangono fortemente dedicati alla chiesa e rimangono per servire come accoliti per tutta la vita che lavorano a stretto contatto con la comunit&agrave; laica fuori dalle mura del tempio.</p><p>Ricorda che gli accoliti sono addestrati nei modi arcani delle divinit&agrave; scelte. Stando cos&igrave; le cose, gli accoliti raramente ricevono un addestramento marziale sufficiente rispetto ai ranghi paladini del tempio (a meno che non sia espressamente dettato diversamente dagli insegnamenti dei loro deitie). Stando cos&igrave; le cose, l'accolito &egrave; in grado di scatenare qualche magia divina di base al fine di difendere se stesso e gli alleati o di invocare la loro divinit&agrave; protettrice in aiuto delle parti ferite. Espulso in genere in una pioggia scintillante di scintille dorate e luci abbaglianti vibranti, la magia degli dei &egrave; davvero qualcosa di speciale, anche a una natura cos&igrave; bassa. Incantesimi come Cure Wounds, Sacred Flame o Sanctuary sono tutti praticati dagli accoliti nelle prime fasi dei loro studi divini. Gli accoliti possono diventare utili alleati se dovessi aver bisogno della protezione divina o di un medico di campo per un connazionale ferito. Assicurati di badare bene al tuo accolito, tuttavia, poich&eacute; il loro incantesimo pu&ograve; essere facilmente interrotto se sono costretti a combattere in mischia con una band di gnoll in schiavit&ugrave;.&nbsp;</p><ul style=\"box-sizing: border-box; user-select: text; font-size: 13px; color: #111111;\"><li style=\"box-sizing: border-box; user-select: text;\"><em style=\"box-sizing: border-box; user-select: text;\">Token artwork by Forgotten Adventures.</em></li><li style=\"box-sizing: border-box; user-select: text;\"><em style=\"box-sizing: border-box; user-select: text;\">Bestiary entry by Penelope (Vyrnali).</em></li></ul>"
+    },
+    {
+      "id": "Aboleth",
+      "name": "Aboleth"
+    },
+    {
+      "id": "Awakened Tree",
+      "name": "Albero Risvegliato"
+    },
+    {
+      "id": "Elk",
+      "name": "Alce"
+    },
+    {
+      "id": "Giant Elk",
+      "name": "Alce Gigante"
+    },
+    {
+      "id": "Ochre Jelly",
+      "name": "Ameba Paglierina"
+    },
+    {
+      "id": "Androsphinx",
+      "name": "Androsfinge"
+    },
+    {
+      "id": "Ankheg",
+      "name": "Ankheg"
+    },
+    {
+      "id": "Eagle",
+      "name": "Aquila"
+    },
+    {
+      "id": "Giant Eagle",
+      "name": "Aquila Gigante"
+    },
+    {
+      "id": "Archmage",
+      "name": "Arcimago"
+    },
+    {
+      "id": "Animated Armor",
+      "name": "Armatura Animata"
+    },
+    {
+      "id": "Harpy",
+      "name": "Arpia"
+    },
+    {
+      "id": "Assassin",
+      "name": "Assassino"
+    },
+    {
+      "id": "Avatar of Death",
+      "name": "Avatar of Death"
+    },
+    {
+      "id": "Vulture",
+      "name": "Avvoltoio"
+    },
+    {
+      "id": "Giant Vulture",
+      "name": "Avvoltoio Gigante"
+    },
+    {
+      "id": "Azer",
+      "name": "Azer"
+    },
+    {
+      "id": "Baboon",
+      "name": "Babbuino"
+    },
+    {
+      "id": "Balor",
+      "name": "Balor"
+    },
+    {
+      "id": "Bandit",
+      "name": "Bandito"
+    },
+    {
+      "id": "Basilisk",
+      "name": "Basilisco"
+    },
+    {
+      "id": "Axe Beak",
+      "name": "Beccoaguzzo"
+    },
+    {
+      "id": "Behir",
+      "name": "Behir"
+    },
+    {
+      "id": "Berserker",
+      "name": "Berserker"
+    },
+    {
+      "id": "Shrieker",
+      "name": "Boleto Stridente"
+    },
+    {
+      "id": "Bugbear",
+      "name": "Bugbear"
+    },
+    {
+      "id": "Bulette",
+      "name": "Bulette"
+    },
+    {
+      "id": "Invisible Stalker",
+      "name": "Cacciatore Invisibile"
+    },
+    {
+      "id": "Camel",
+      "name": "Cammello"
+    },
+    {
+      "id": "Death Dog",
+      "name": "Cane della Morte"
+    },
+    {
+      "id": "Blink Dog",
+      "name": "Cane Intermittente"
+    },
+    {
+      "id": "Bandit Captain",
+      "name": "Capitano dei Banditi"
+    },
+    {
+      "id": "Goat",
+      "name": "Capra"
+    },
+    {
+      "id": "Giant Goat",
+      "name": "Capra Gigante"
+    },
+    {
+      "id": "Knight",
+      "name": "Cavaliere"
+    },
+    {
+      "id": "Warhorse",
+      "name": "Cavallo da Guerra"
+    },
+    {
+      "id": "Draft Horse",
+      "name": "Cavallo da Tiro"
+    },
+    {
+      "id": "Nightmare",
+      "name": "Cavallo degli Incubi"
+    },
+    {
+      "id": "Sea Horse",
+      "name": "Cavalluccio Marino"
+    },
+    {
+      "id": "Giant Sea Horse",
+      "name": "Cavalluccio Marino Gigante"
+    },
+    {
+      "id": "Centaur",
+      "name": "Centauro"
+    },
+    {
+      "id": "Awakened Shrub",
+      "name": "Cespuglio Risvegliato"
+    },
+    {
+      "id": "Chimera",
+      "name": "Chimera"
+    },
+    {
+      "id": "Chuul",
+      "name": "Chuul"
+    },
+    {
+      "id": "Boar",
+      "name": "Cinghiale"
+    },
+    {
+      "id": "Giant Boar",
+      "name": "Cinghiale Gigante"
+    },
+    {
+      "id": "Wereboar",
+      "name": "Cinghiale Mannaro"
+    },
+    {
+      "id": "Kobold",
+      "name": "Coboldo"
+    },
+    {
+      "id": "Crocodile",
+      "name": "Coccodrillo"
+    },
+    {
+      "id": "Giant Crocodile",
+      "name": "Coccodrillo Gigante"
+    },
+    {
+      "id": "Cockatrice",
+      "name": "Cockatrice"
+    },
+    {
+      "id": "Raven",
+      "name": "Corvo"
+    },
+    {
+      "id": "Couatl",
+      "name": "Couatl"
+    },
+    {
+      "id": "Gelatinous Cube",
+      "name": "Cubo Gelatinoso"
+    },
+    {
+      "id": "Cultist",
+      "name": "Cultista"
+    },
+    {
+      "id": "Shambling Mound",
+      "name": "Cumulo Strisciante"
+    },
+    {
+      "id": "Deer",
+      "name": "Daino"
+    },
+    {
+      "id": "Deva",
+      "name": "Deva"
+    },
+    {
+      "id": "Bearded Devil",
+      "name": "Diavolo Barbuto"
+    },
+    {
+      "id": "Horned Devil",
+      "name": "Diavolo Cornuto"
+    },
+    {
+      "id": "Bone Devil",
+      "name": "Diavolo d'Ossa"
+    },
+    {
+      "id": "Ice Devil",
+      "name": "Diavolo del Ghiaccio"
+    },
+    {
+      "id": "Pit Fiend",
+      "name": "Diavolo della Fossa"
+    },
+    {
+      "id": "Chain Devil",
+      "name": "Diavolo delle Catene"
+    },
+    {
+      "id": "Barbed Devil",
+      "name": "Diavolo Uncinato"
+    },
+    {
+      "id": "Djinni",
+      "name": "Djinni"
+    },
+    {
+      "id": "Weasel",
+      "name": "Donnola"
+    },
+    {
+      "id": "Giant Weasel",
+      "name": "Donnola Gigante"
+    },
+    {
+      "id": "Doppelganger",
+      "name": "Doppelganger"
+    },
+    {
+      "id": "Adult Blue Dracolich",
+      "name": "Dracolich Blu Adulto"
+    },
+    {
+      "id": "Adult White Dragon",
+      "name": "Drago Bianco Adulto"
+    },
+    {
+      "id": "Ancient White Dragon",
+      "name": "Drago Bianco Antico"
+    },
+    {
+      "id": "White Dragon Wyrmling",
+      "name": "Drago Bianco Cucciolo"
+    },
+    {
+      "id": "Young White Dragon",
+      "name": "Drago Bianco Giovane"
+    },
+    {
+      "id": "Adult Blue Dragon",
+      "name": "Drago Blu Adulto"
+    },
+    {
+      "id": "Ancient Blue Dragon",
+      "name": "Drago Blu Antico"
+    },
+    {
+      "id": "Blue Dragon Wyrmling",
+      "name": "Drago Blu Cucciolo"
+    },
+    {
+      "id": "Young Blue Dragon",
+      "name": "Drago Blu Giovane"
+    },
+    {
+      "id": "Adult Silver Dragon",
+      "name": "Drago d'Argento Adulto"
+    },
+    {
+      "id": "Ancient Silver Dragon",
+      "name": "Drago d'Argento Antico"
+    },
+    {
+      "id": "Silver Dragon Wyrmling",
+      "name": "Drago d'Argento Cucciolo"
+    },
+    {
+      "id": "Young Silver Dragon",
+      "name": "Drago d'Argento Giovane"
+    },
+    {
+      "id": "Adult Gold Dragon",
+      "name": "Drago d'Oro Adulto"
+    },
+    {
+      "id": "Ancient Gold Dragon",
+      "name": "Drago d'Oro Antico"
+    },
+    {
+      "id": "Gold Dragon Wyrmling",
+      "name": "Drago d'Oro Cucciolo"
+    },
+    {
+      "id": "Young Gold Dragon",
+      "name": "Drago d'Oro Giovane"
+    },
+    {
+      "id": "Adult Brass Dragon",
+      "name": "Drago d'Ottone Adulto"
+    },
+    {
+      "id": "Ancient Brass Dragon",
+      "name": "Drago d'Ottone Antico"
+    },
+    {
+      "id": "Brass Dragon Wyrmling",
+      "name": "Drago d'Ottone Cucciolo"
+    },
+    {
+      "id": "Young Brass Dragon",
+      "name": "Drago d'Ottone Giovane"
+    },
+    {
+      "id": "Adult Bronze Dragon",
+      "name": "Drago di Bronzo Adulto"
+    },
+    {
+      "id": "Ancient Bronze Dragon",
+      "name": "Drago di Bronzo Antico"
+    },
+    {
+      "id": "Bronze Dragon Wyrmling",
+      "name": "Drago di Bronzo Cucciolo"
+    },
+    {
+      "id": "Young Bronze Dragon",
+      "name": "Drago di Bronzo Giovane"
+    },
+    {
+      "id": "Adult Copper Dragon",
+      "name": "Drago di Rame Adulto"
+    },
+    {
+      "id": "Ancient Copper Dragon",
+      "name": "Drago di Rame Antico"
+    },
+    {
+      "id": "Copper Dragon Wyrmling",
+      "name": "Drago di Rame Cucciolo"
+    },
+    {
+      "id": "Young Copper Dragon",
+      "name": "Drago di Rame Giovane"
+    },
+    {
+      "id": "Adult Black Dragon",
+      "name": "Drago Nero Adulto"
+    },
+    {
+      "id": "Ancient Black Dragon",
+      "name": "Drago Nero Antico"
+    },
+    {
+      "id": "Black Dragon Wyrmling",
+      "name": "Drago Nero Cucciolo"
+    },
+    {
+      "id": "Young Black Dragon",
+      "name": "Drago Nero Giovane"
+    },
+    {
+      "id": "Adult Red Dragon",
+      "name": "Drago Rosso Adulto"
+    },
+    {
+      "id": "Ancient Red Dragon",
+      "name": "Drago Rosso Antico"
+    },
+    {
+      "id": "Red Dragon Wyrmling",
+      "name": "Drago Rosso Cucciolo"
+    },
+    {
+      "id": "Young Red Dragon",
+      "name": "Drago Rosso Giovane"
+    },
+    {
+      "id": "Adult Green Dragon",
+      "name": "Drago Verde Adulto"
+    },
+    {
+      "id": "Ancient Green Dragon",
+      "name": "Drago Verde Antico"
+    },
+    {
+      "id": "Green Dragon Wyrmling",
+      "name": "Drago Verde Cucciolo"
+    },
+    {
+      "id": "Young Green Dragon",
+      "name": "Drago Verde Giovane"
+    },
+    {
+      "id": "Dretch",
+      "name": "Dretch"
+    },
+    {
+      "id": "Dryad",
+      "name": "Driade"
+    },
+    {
+      "id": "Drider",
+      "name": "Drider"
+    },
+    {
+      "id": "Drow",
+      "name": "Drow"
+    },
+    {
+      "id": "Druid",
+      "name": "Druido"
+    },
+    {
+      "id": "Duergar",
+      "name": "Duergar"
+    },
+    {
+      "id": "Efreeti",
+      "name": "Efreeti"
+    },
+    {
+      "id": "Elephant",
+      "name": "Elefante"
+    },
+    {
+      "id": "Fire Elemental",
+      "name": "Elementale del Fuoco"
+    },
+    {
+      "id": "Water Elemental",
+      "name": "Elementale dell'Acqua"
+    },
+    {
+      "id": "Air Elemental",
+      "name": "Elementale dell'Aria"
+    },
+    {
+      "id": "Earth Elemental",
+      "name": "Elementale della Terra"
+    },
+    {
+      "id": "Erinyes",
+      "name": "Erinni"
+    },
+    {
+      "id": "Scout",
+      "name": "Esploratore"
+    },
+    {
+      "id": "Ettercap",
+      "name": "Ettercap"
+    },
+    {
+      "id": "Ettin",
+      "name": "Ettin"
+    },
+    {
+      "id": "Hawk",
+      "name": "Falco"
+    },
+    {
+      "id": "Blood Hawk",
+      "name": "Falco di Sangue"
+    },
+    {
+      "id": "Cult Fanatic",
+      "name": "Fanatico del Culto"
+    },
+    {
+      "id": "Ghost",
+      "name": "Fantasma"
+    },
+    {
+      "id": "Gibbering Mouther",
+      "name": "Fauce Gorgogliante"
+    },
+    {
+      "id": "Violet Fungus",
+      "name": "Fungo Viola"
+    },
+    {
+      "id": "Will-o'-Wisp",
+      "name": "Fuoco Fatuo"
+    },
+    {
+      "id": "Roper",
+      "name": "Fustigatore"
+    },
+    {
+      "id": "Gargoyle",
+      "name": "Gargoyle"
+    },
+    {
+      "id": "Cat",
+      "name": "Gatto"
+    },
+    {
+      "id": "Ghast",
+      "name": "Ghast"
+    },
+    {
+      "id": "Ghoul",
+      "name": "Ghoul"
+    },
+    {
+      "id": "Fire Giant",
+      "name": "Gigante del Fuoco"
+    },
+    {
+      "id": "Frost Giant",
+      "name": "Gigante del Gelo"
+    },
+    {
+      "id": "Hill Giant",
+      "name": "Gigante delle Colline"
+    },
+    {
+      "id": "Cloud Giant",
+      "name": "Gigante delle Nuvole"
+    },
+    {
+      "id": "Stone Giant",
+      "name": "Gigante delle Pietre"
+    },
+    {
+      "id": "Storm Giant",
+      "name": "Gigante delle Tempeste"
+    },
+    {
+      "id": "Gynosphinx",
+      "name": "Ginosfinge"
+    },
+    {
+      "id": "Glabrezu",
+      "name": "Glabrezu"
+    },
+    {
+      "id": "Gladiator",
+      "name": "Gladiatore"
+    },
+    {
+      "id": "Gnoll",
+      "name": "Gnoll"
+    },
+    {
+      "id": "Deep Gnome",
+      "name": "Gnomo delle Profondità"
+    },
+    {
+      "id": "Goblin",
+      "name": "Goblin"
+    },
+    {
+      "id": "Clay Golem",
+      "name": "Golem d'Argilla"
+    },
+    {
+      "id": "Flesh Golem",
+      "name": "Golem di Carne"
+    },
+    {
+      "id": "Iron Golem",
+      "name": "Golem di Ferro"
+    },
+    {
+      "id": "Stone Golem",
+      "name": "Golem di Pietra"
+    },
+    {
+      "id": "Gorgon",
+      "name": "Gorgone"
+    },
+    {
+      "id": "Ape",
+      "name": "Gorilla"
+    },
+    {
+      "id": "Giant Ape",
+      "name": "Gorilla Gigante"
+    },
+    {
+      "id": "Crab",
+      "name": "Granchio"
+    },
+    {
+      "id": "Giant Crab",
+      "name": "Granchio Gigante"
+    },
+    {
+      "id": "Grick",
+      "name": "Grick"
+    },
+    {
+      "id": "Griffon",
+      "name": "Grifone"
+    },
+    {
+      "id": "Grimlock",
+      "name": "Grimlock"
+    },
+    {
+      "id": "Guard",
+      "name": "Guardia"
+    },
+    {
+      "id": "Shield Guardian",
+      "name": "Guardiano Protettore"
+    },
+    {
+      "id": "Tribal Warrior",
+      "name": "Guerriero Tribale"
+    },
+    {
+      "id": "Owl",
+      "name": "Gufo"
+    },
+    {
+      "id": "Giant Owl",
+      "name": "Gufo Gigante"
+    },
+    {
+      "id": "Hezrou",
+      "name": "Hezrou"
+    },
+    {
+      "id": "Hobgoblin",
+      "name": "Hobgoblin"
+    },
+    {
+      "id": "Ice Mephit",
+      "name": "Ice Mephit"
+    },
+    {
+      "id": "Hydra",
+      "name": "Idra"
+    },
+    {
+      "id": "Hyena",
+      "name": "Iena"
+    },
+    {
+      "id": "Giant Hyena",
+      "name": "Iena Gigante"
+    },
+    {
+      "id": "Imp",
+      "name": "Imp"
+    },
+    {
+      "id": "Hippogriff",
+      "name": "Ippogrifo"
+    },
+    {
+      "id": "Kraken",
+      "name": "Kraken"
+    },
+    {
+      "id": "Lamia",
+      "name": "Lamia"
+    },
+    {
+      "id": "Lemure",
+      "name": "Lemure"
+    },
+    {
+      "id": "Lion",
+      "name": "Leone"
+    },
+    {
+      "id": "Lich",
+      "name": "Lich"
+    },
+    {
+      "id": "Lizardfolk",
+      "name": "Lizardfolk"
+    },
+    {
+      "id": "Lizard",
+      "name": "Lucertola"
+    },
+    {
+      "id": "Giant Lizard",
+      "name": "Lucertola Gigante"
+    },
+    {
+      "id": "Wolf",
+      "name": "Lupo"
+    },
+    {
+      "id": "Dire Wolf",
+      "name": "Lupo Feroce"
+    },
+    {
+      "id": "Winter Wolf",
+      "name": "Lupo Invernale"
+    },
+    {
+      "id": "Werewolf",
+      "name": "Lupo Mannaro"
+    },
+    {
+      "id": "Magma Mephit",
+      "name": "Magma Mephit"
+    },
+    {
+      "id": "Magmin",
+      "name": "Magmin"
+    },
+    {
+      "id": "Mage",
+      "name": "Mago"
+    },
+    {
+      "id": "Thug",
+      "name": "Malvivente"
+    },
+    {
+      "id": "Mammoth",
+      "name": "Mammut"
+    },
+    {
+      "id": "Manticore",
+      "name": "Manticora"
+    },
+    {
+      "id": "Cloaker",
+      "name": "Manto Assassino"
+    },
+    {
+      "id": "Darkmantle",
+      "name": "Mantoscuro"
+    },
+    {
+      "id": "Marilith",
+      "name": "Marilith"
+    },
+    {
+      "id": "Merfolk",
+      "name": "Marinide"
+    },
+    {
+      "id": "Mastiff",
+      "name": "Mastino"
+    },
+    {
+      "id": "Medusa",
+      "name": "Medusa"
+    },
+    {
+      "id": "Sea Hag",
+      "name": "Megera Marina"
+    },
+    {
+      "id": "Night Hag",
+      "name": "Megera Notturna"
+    },
+    {
+      "id": "Green Hag",
+      "name": "Megera Verde"
+    },
+    {
+      "id": "Gray Ooze",
+      "name": "Melma Grigia"
+    },
+    {
+      "id": "Steam Mephit",
+      "name": "Mephit del Vapore"
+    },
+    {
+      "id": "Dust Mephit",
+      "name": "Mephit della Polvere"
+    },
+    {
+      "id": "Merrow",
+      "name": "Merrow"
+    },
+    {
+      "id": "Half-Red Dragon Veteran",
+      "name": "Mezzodrago Rosso Veterano"
+    },
+    {
+      "id": "Giant Centipede",
+      "name": "Millepiedi Gigante"
+    },
+    {
+      "id": "Mimic",
+      "name": "Mimic"
+    },
+    {
+      "id": "Minotaur",
+      "name": "Minotauro"
+    },
+    {
+      "id": "Giant Fly",
+      "name": "Mosca Gigante"
+    },
+    {
+      "id": "Mule",
+      "name": "Mulo"
+    },
+    {
+      "id": "Mummy",
+      "name": "Mummia"
+    },
+    {
+      "id": "Guardian Naga",
+      "name": "Naga Guardiana"
+    },
+    {
+      "id": "Spirit Naga",
+      "name": "Naga Spirituale"
+    },
+    {
+      "id": "Nalfeshnee",
+      "name": "Nalfeshnee"
+    },
+    {
+      "id": "Noble",
+      "name": "Nobile"
+    },
+    {
+      "id": "Ogre",
+      "name": "Ogre"
+    },
+    {
+      "id": "Shadow",
+      "name": "Ombra"
+    },
+    {
+      "id": "Homunculus",
+      "name": "Omunculo"
+    },
+    {
+      "id": "Oni",
+      "name": "Oni"
+    },
+    {
+      "id": "Killer Whale",
+      "name": "Orca Assassina"
+    },
+    {
+      "id": "Orc",
+      "name": "Orco"
+    },
+    {
+      "id": "Brown Bear",
+      "name": "Orso Bruno"
+    },
+    {
+      "id": "Werebear",
+      "name": "Orso Mannaro"
+    },
+    {
+      "id": "Black Bear",
+      "name": "Orso Nero"
+    },
+    {
+      "id": "Polar Bear",
+      "name": "Orso Polare"
+    },
+    {
+      "id": "Owlbear",
+      "name": "Orsogufo"
+    },
+    {
+      "id": "Otyugh",
+      "name": "Otyugh"
+    },
+    {
+      "id": "Panther",
+      "name": "Pantera"
+    },
+    {
+      "id": "Pegasus",
+      "name": "Pegaso"
+    },
+    {
+      "id": "Octopus",
+      "name": "Piovra"
+    },
+    {
+      "id": "Giant Octopus",
+      "name": "Piovra Gigante"
+    },
+    {
+      "id": "Bat",
+      "name": "Pipistrello"
+    },
+    {
+      "id": "Giant Bat",
+      "name": "Pipistrello Gigante"
+    },
+    {
+      "id": "Planetar",
+      "name": "Planetar"
+    },
+    {
+      "id": "Plesiosaurus",
+      "name": "Plesiosauro"
+    },
+    {
+      "id": "Pony",
+      "name": "Pony"
+    },
+    {
+      "id": "Commoner",
+      "name": "Popolano"
+    },
+    {
+      "id": "Vampire Spawn",
+      "name": "Progenie Vampirica"
+    },
+    {
+      "id": "Black Pudding",
+      "name": "Protoplasma Nero"
+    },
+    {
+      "id": "Pseudodragon",
+      "name": "Pseudodrago"
+    },
+    {
+      "id": "Quasit",
+      "name": "Quasit"
+    },
+    {
+      "id": "Quipper",
+      "name": "Quipper"
+    },
+    {
+      "id": "Spider",
+      "name": "Ragno"
+    },
+    {
+      "id": "Giant Spider",
+      "name": "Ragno Gigante"
+    },
+    {
+      "id": "Giant Wolf Spider",
+      "name": "Ragno Lupo Gigante"
+    },
+    {
+      "id": "Phase Spider",
+      "name": "Ragno-Fase"
+    },
+    {
+      "id": "Rakshasa",
+      "name": "Rakshasa"
+    },
+    {
+      "id": "Frog",
+      "name": "Rana"
+    },
+    {
+      "id": "Giant Frog",
+      "name": "Rana Gigante"
+    },
+    {
+      "id": "Remorhaz",
+      "name": "Remorhaz"
+    },
+    {
+      "id": "Riding Horse",
+      "name": "Riding Horse"
+    },
+    {
+      "id": "Rhinoceros",
+      "name": "Rinoceronte"
+    },
+    {
+      "id": "Roc",
+      "name": "Roc"
+    },
+    {
+      "id": "Giant Toad",
+      "name": "Rospo Gigante"
+    },
+    {
+      "id": "Rust Monster",
+      "name": "Rugginofago"
+    },
+    {
+      "id": "Priest",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "Sahuagin",
+      "name": "Sahuagin"
+    },
+    {
+      "id": "Salamander",
+      "name": "Salamandra"
+    },
+    {
+      "id": "Satyr",
+      "name": "Satiro"
+    },
+    {
+      "id": "Giant Fire Beetle",
+      "name": "Scarabeo di Fuoco Gigante"
+    },
+    {
+      "id": "Skeleton",
+      "name": "Scheletro"
+    },
+    {
+      "id": "Warhorse Skeleton",
+      "name": "Scheletro Cavallo da Guerra"
+    },
+    {
+      "id": "Minotaur Skeleton",
+      "name": "Scheletro Minotauro"
+    },
+    {
+      "id": "Jackal",
+      "name": "Sciacallo"
+    },
+    {
+      "id": "Swarm of Ravens",
+      "name": "Sciame di Corvi"
+    },
+    {
+      "id": "Swarm of Insects",
+      "name": "Sciame di Insetti"
+    },
+    {
+      "id": "Swarm of Centipedes",
+      "name": "Sciame di Millepiedi"
+    },
+    {
+      "id": "Swarm of Bats",
+      "name": "Sciame di Pipistrelli"
+    },
+    {
+      "id": "Swarm of Quippers",
+      "name": "Sciame di Quipper"
+    },
+    {
+      "id": "Swarm of Spiders",
+      "name": "Sciame di Ragni"
+    },
+    {
+      "id": "Swarm of Rats",
+      "name": "Sciame di Ratti"
+    },
+    {
+      "id": "Swarm of Beetles",
+      "name": "Sciame di Scarabei"
+    },
+    {
+      "id": "Swarm of Poisonous Snakes",
+      "name": "Sciame di Serpenti Velenosi"
+    },
+    {
+      "id": "Swarm of Wasps",
+      "name": "Sciame di Vespe"
+    },
+    {
+      "id": "Scorpion",
+      "name": "Scorpione"
+    },
+    {
+      "id": "Giant Scorpion",
+      "name": "Scorpione Gigante"
+    },
+    {
+      "id": "Hell Hound",
+      "name": "Segugio Infernale"
+    },
+    {
+      "id": "Constrictor Snake",
+      "name": "Serpente Costrittore"
+    },
+    {
+      "id": "Giant Constrictor Snake",
+      "name": "Serpente Costrittore Gigante"
+    },
+    {
+      "id": "Poisonous Snake",
+      "name": "Serpente Velenoso"
+    },
+    {
+      "id": "Giant Poisonous Snake",
+      "name": "Serpente Velenoso Gigante"
+    },
+    {
+      "id": "Flying Snake",
+      "name": "Serpente Volante"
+    },
+    {
+      "id": "Mummy Lord",
+      "name": "Signore delle Mummie"
+    },
+    {
+      "id": "Solar",
+      "name": "Solar"
+    },
+    {
+      "id": "Flying Sword",
+      "name": "Spada Volante"
+    },
+    {
+      "id": "Specter",
+      "name": "Spettro"
+    },
+    {
+      "id": "Spy",
+      "name": "Spia"
+    },
+    {
+      "id": "Sprite",
+      "name": "Spiritello"
+    },
+    {
+      "id": "Hunter Shark",
+      "name": "Squalo Cacciatore"
+    },
+    {
+      "id": "Giant Shark",
+      "name": "Squalo Gigante"
+    },
+    {
+      "id": "Reef Shark",
+      "name": "Squalo Tropicale"
+    },
+    {
+      "id": "Stirge",
+      "name": "Stirge"
+    },
+    {
+      "id": "Succubus/Incubus",
+      "name": "Succube/Incubo"
+    },
+    {
+      "id": "Rug of Smothering",
+      "name": "Tappeto Soffocante"
+    },
+    {
+      "id": "Tarrasque",
+      "name": "Tarrasque"
+    },
+    {
+      "id": "Badger",
+      "name": "Tasso"
+    },
+    {
+      "id": "Giant Badger",
+      "name": "Tasso Gigante"
+    },
+    {
+      "id": "Dragon Turtle",
+      "name": "Testuggine Dragona"
+    },
+    {
+      "id": "Tiger",
+      "name": "Tiger"
+    },
+    {
+      "id": "Saber-Toothed Tiger",
+      "name": "Tigre dai Denti a Sciabola"
+    },
+    {
+      "id": "Weretiger",
+      "name": "Tigre Mannara"
+    },
+    {
+      "id": "Tyrannosaurus Rex",
+      "name": "Tirannosauro"
+    },
+    {
+      "id": "Rat",
+      "name": "Topo"
+    },
+    {
+      "id": "Giant Rat",
+      "name": "Topo Gigante"
+    },
+    {
+      "id": "Giant Rat (Diseased)",
+      "name": "Topo Gigante (Contagioso)"
+    },
+    {
+      "id": "Wererat",
+      "name": "Topo Mannaro"
+    },
+    {
+      "id": "Treant",
+      "name": "Treant"
+    },
+    {
+      "id": "Triceratops",
+      "name": "Triceratopo"
+    },
+    {
+      "id": "Troll",
+      "name": "Troll"
+    },
+    {
+      "id": "Unicorn",
+      "name": "Unicorno"
+    },
+    {
+      "id": "Vampire",
+      "name": "Vampiro"
+    },
+    {
+      "id": "Purple Worm",
+      "name": "Verme Purpureo"
+    },
+    {
+      "id": "Giant Wasp",
+      "name": "Vespa Gigante"
+    },
+    {
+      "id": "Veteran",
+      "name": "Veterano"
+    },
+    {
+      "id": "Wyvern",
+      "name": "Viverna"
+    },
+    {
+      "id": "Vrock",
+      "name": "Vrock"
+    },
+    {
+      "id": "Wight",
+      "name": "Wight"
+    },
+    {
+      "id": "Worg",
+      "name": "Worg"
+    },
+    {
+      "id": "Wraith",
+      "name": "Wraith"
+    },
+    {
+      "id": "Xorn",
+      "name": "Xorn"
+    },
+    {
+      "id": "Zombie",
+      "name": "Zombi"
+    },
+    {
+      "id": "Ogre Zombie",
+      "name": "Zombi Ogre"
+    }
+  ]
+}

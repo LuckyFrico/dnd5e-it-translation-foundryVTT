@@ -1,0 +1,1025 @@
+{
+  "label": "Caratteristiche Mostri (SRD)",
+  "entries": [
+    {
+      "id": "Acid Absorption",
+      "name": "Assorbimento dell'Acido",
+      "description": "<p>Ogni volta che la &lt;creature&gt; è soggetta a danni da acido, non subisce danni e recupera invece un numero di punti ferita pari ai danni da acido inflitti.&nbsp;</p>"
+    },
+    {
+      "id": "Aberrant Ground",
+      "name": "Terreno Aberrante",
+      "description": "<p>Il terreno entro un raggio di <strong>3 metri</strong> dalla &lt;creature&gt; diventa molle ed è considerato terreno difficile. Ogni creatura che inizia il proprio turno in quell'area deve superare un <strong>tiro salvezza su Forza con CD 10</strong>, altrimenti la sua velocità si riduce a 0 fino all'inizio del suo turno successivo.</p>"
+    },
+    {
+      "id": "Acid Breath",
+      "name": "Soffio di Acido",
+      "description": "<p>La &lt;creature&gt; esala una <strong>linea di acido lunga 9 metri </strong>e larga<strong> 1,5 metri</strong>. Ogni creatura su quella linea deve effettuare un <strong>tiro salvezza su Destrezza con CD 14</strong>; se lo fallisce, subisce <strong>49&nbsp;</strong><strong>([[/r 11d8]]) danni da acido</strong>, mentre se lo supera, subisce la metà di quei danni.&nbsp;</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Acid Spray",
+      "name": "Spruzzo Acido",
+      "description": "<p>La &lt;creature&gt; sputa acido in una linea lunga <strong>9 metri </strong>e larga <strong>1,5 metri</strong>, purché non abbia afferrato alcuna creatura. Ogni creatura su quella linea deve effettuare un tiro salvezza su Destrezza con CD 13; se lo fallisce, subisce 10 (3d6) danni da acido, mentre se lo supera, subisce la metà di quei danni.</p>"
+    },
+    {
+      "id": "Adhesive",
+      "name": "Adesivo",
+      "description": "<p>La &lt;creature&gt; aderisce a qualsiasi cosa tocchi.&nbsp; Una creatura di taglia Enorme o inferiore a cui la &lt;creature&gt; abbia aderito è anche <strong>Trattenuta </strong>da essa (CD 13 per sfuggire). Le prove di caratteristica effettuate per sfuggire a questa lotta subiscono svantaggio.&nbsp;</p>"
+    },
+    {
+      "id": "Aggressive",
+      "name": "Aggressivo",
+      "description": "<p>Come azione bonus, la &lt;creature&gt; può muoversi fino alla sua velocità verso una creatura ostile che essa sia in grado di vedere.&nbsp;</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Air Form",
+      "name": "Forma d'Aria",
+      "description": "<p>La &lt;creature&gt; può entrare nello spazio di una creatura ostile e fermarvisi. Può muoversi attraverso uno spazio stretto fino a 2,5 centimetri senza doversi stringere.&nbsp;</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Ambusher",
+      "name": "Imboscata",
+      "description": "<p>Nel primo round di un combattimento, la &lt;creature&gt; dispone di vantaggio à tiri per colpire contro qualsiasi creatura che riesca a sororendere.&nbsp;</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Amorphous",
+      "name": "Amorfo",
+      "description": "<p>La &lt;creature&gt; può muoversi attaverso uno spazio stretto fino a 2,5 centrimetri senza doversi stringere.</p>"
+    },
+    {
+      "id": "Amphibious",
+      "name": "Anfibio",
+      "description": "<p>La &lt;creature&gt; può respirare in aria e acqua.</p>"
+    },
+    {
+      "id": "Animate Chains",
+      "name": "Catene Animate",
+      "description": "<p>Da un massimo di quattro catene situate entro <strong>18 metri</strong> dalla &lt;creatuare&gt; e che essa sia in grado di vedere crescono magicamente degli spuntoni affilati come lame; le catene si animano sotto il controllo della &lt;creature&gt;, purché non siano indossate o trasportate.</p><p>Ogni catena animata è un oggetto con CA 20, 20 punti ferita, resistenza ai danni perforanti e immunità ai danni psichici e ai danni da tuono. Quando la &lt;creature&gt; usa Multiattacco nel suo turno, può usare ogni catena animata per effettuare un attacco aggiuntivo con una catena. Una catena animata può afferrare una creatura di sua spontanea volontà, ma non pvò effettuare attacchi finché afferra. Una catena animata torna nel suo stato inanimato se ridotta a O punti ferita oppure se &lt;la creature&gt; è incapacitata o muore.&nbsp;</p>"
+    },
+    {
+      "id": "Animate Trees",
+      "name": "Animare Alberi",
+      "description": "<p>La &lt;creature&gt; anima magicamente uno o due alberi situati entro <strong>18 metri</strong> da lui e che esso sia in grado di vedere. Questi alberi possiedono le stesse statistiche della &lt;creature&gt;, ad eccezione dei punteggi di Intelligenza e Carisma pari a 1; inoltre, non possono parlare e possiedono soltanto l'opzione di azione di Schianto. Un albero animato funge da alleato della &lt;creature&gt;. L'albero rimane animato per 1 giorno o finché non muore, finché la &lt;creatura&gt; non muore o non si trova a più di <strong>36 metri </strong>dall'albero oppure finché la &lt;creature&gt; non usa un'azione bonus per ritrasformarlo in un albero inanimato. Poi l'albero mette radici, se possibile.</p>"
+    },
+    {
+      "id": "Antennae",
+      "name": "Antenne",
+      "description": "<p>La &lt;creature&gt; corrode un oggetto di metallo ferroso non magico situato entro <strong>1,5 metri</strong> da lui e che esso sia in grado di vedere. Se l'oggetto non è indossato o trasportato, il tocco delle antenne distrugge una parte di quell'oggetto pari a un cubo con spigolo di 30 centimetri. Se l'oggetto è indossato o trasportato da una creatura, quella creatura può effettuare un tiro salvezza su Destrezza con CD 11 per evitare il tocco del mostro. Se l'oggetto toccato è un'armatura di metallo o uno scudo di metallo indossato o trasportato, quell'oggetto subisce una penalità permanente e cumulativa di -1 alla CA che fornisce. Un'armatura ridotta a una CA pari a 10 o uno scudo che scende a un bonus di +O è distrutto. Se l'oggetto toccato è un'arma di metallo impugnata, arrugginisce come descritto nel tratto Arrugginire.&nbsp;</p>"
+    },
+    {
+      "id": "Antimagic Susceptibility",
+      "name": "Suscettibilità all'Anti-magia",
+      "description": "<p>La &lt;creature&gt; è incapacitata finché si trova nell'area di un campo anti-magia. Se bersagliata da un incantesimo dissolvi magie, la &lt;creature&gt; deve superare un tiro salvezza su Costituzione contro la CD del tiro salvezza dell'incantesimo, altrimenti è priva di sensi per 1 minuto.&nbsp;</p>"
+    },
+    {
+      "id": "Assassinate",
+      "name": "Assassinare",
+      "description": "<p>Durante il suo primo turno, la &lt;creature&gt; dispone di vantaggio ai tiri per colpire contro ogni creatura che non abbia ancora effettuato un turno. Ogni colpo che la &lt;creature&gt; mette a segno contro una creatura sorpresa è considerato un colpo critico.&nbsp;</p>"
+    },
+    {
+      "id": "Aversion of Fire",
+      "name": "Avversione al Fuoco",
+      "description": "<p>Se la &lt;creature&gt; subisce danni da fuoco, subisce svantaggio ai tiri per colpire e alle prove di caratteritica fino alla fine del suo turno successivo.</p>"
+    },
+    {
+      "id": "Barbed Hide",
+      "name": "Pelle Uncinata",
+      "description": "<p>All'inzio di ogni suo turno, la &lt;creature&gt; infligge 5 (1d10) danni perforanti a ogni creatura con cui lotta.</p>"
+    },
+    {
+      "id": "Beast of Burden",
+      "name": "Bestia da Soma",
+      "description": "<p>La &lt;creture&gt; è consideta un animale Grande al fine di determinare la sua capacità di trasporto.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Berserk",
+      "name": "Berserk",
+      "description": "<p>Ogni volta che la &lt;creature&gt; inizia il suo turno con 60 punti ferita o meno, si tira un d6. Con un risultato di 6 la &lt;creature&gt; entra in uno stato di berserk. A ogni suo turno, finché è in berserk, la &lt;creature&gt; attacca la creatura più vicina che è in grado di vedere. Se non c'è una creatura abbastanza vicina per muoversi e attaccarla, la &lt;creature&gt; attacca un oggetto, prediligendo un oggetto più piccolo di lui. Una volta che il golem è in berserk, continua a farlo finché non viene distrutto o non recupera tutti i suoi punti ferita.&nbsp;</p>"
+    },
+    {
+      "id": "Bite",
+      "name": "Morso",
+      "description": "<p>Un generico segnaposto per un attacco effettuato con un morso.</p>"
+    },
+    {
+      "id": "Blasphemous Word",
+      "name": "Parola Blasfema",
+      "description": "<p>La &lt;creature&gt; pronuncia una parola blasfema. Ogni creatura che non sia un non morto, che sia situata entro <strong>3 metri</strong> dalla &lt;creature&gt; e che possa sentire l'enunciazione magica deve superare un <strong>tiro salvezza su Costituzione con CD 16</strong>, altrimenti è stordita fino alla fine del turno successivo della &lt;creature&gt;.</p>"
+    },
+    {
+      "id": "Blind Senses",
+      "name": "Percezione Cieca",
+      "description": "<p>La &lt;creature&gt; non può usare la sua vista cieca finché è Assordato e non è in grado di fiutare.</p>"
+    },
+    {
+      "id": "Blinding Breath",
+      "name": "Soffio Accecante",
+      "description": "<p>La &lt;creature&gt; esala polvere accecante in un cono di <strong>4.5 metri</strong>. Ogni creatura in quell'area deve superare un<strong> tiro salvezza su Destrezza con CD 10</strong>, altrimenti è accecata per 1 minuto. Una creatura può ripetere il <strong>tiro salvezza&nbsp;</strong>alla fine di ogni suo turno e, se lo supera, l'effetto per le termina.</p>"
+    },
+    {
+      "id": "Blinding Dust",
+      "name": "Polvere Accecante",
+      "description": "<p>Una nube di polvere e sabbia accecante si solleva magicamente turbinano attorno al signore delle mummie. Ogni creatura con <strong>1,5 metri </strong>dal &lt;creature&gt; deve superare un <strong>tiro salvezza su Costituzione con CD 16</strong>, altimenti è Accecata fino alla fine del proprio turno successivo.</p>"
+    },
+    {
+      "id": "Blinding Spittle",
+      "name": "Sputo Accecante",
+      "description": "<p>La&nbsp; &lt;creature&gt; sputa un globo chimico in un punto situato entro <strong>4.5 metri</strong> da lui e che sia in grado di vedere. Il globo espolde in un lampo di luce accecante all'impatto. Ogni creatura entro<strong> 1.5 metri </strong>dal lampo deve superare un<strong> tiro salvezza su destrezza con CD 13, </strong>altrimenti diventare Accecata fino alla fine del turno successivo della &lt;creature&gt;.</p>"
+    },
+    {
+      "id": "Blood Frenzy",
+      "name": "Frenesia di Sangue",
+      "description": "<p>La &lt;creature&gt; dispone di vantaggio ai tiri per colpire in mischia contro ogni creatura che non possieda tutti i suoi punti ferita.</p>"
+    },
+    {
+      "id": "Bound",
+      "name": "Vincolato",
+      "description": "<p>Il &lt;creature&gt; è vincolato magicamente a un amuleto. Fintato che il guardiano e il suo amuleto si trovano sullo stesso piano di esistenza, il portatore dell'amuleto può chiamare telepaticamente il &lt;creature&gt; affinché viaggi fino a lui; e il &lt;creature&gt; conosce la distanza e la direzione in cui si trova l'amuleto. Se il &lt;creature&gt; si trova enrto <strong>18 metri&nbsp;</strong>dal portatore dell'amuleto, metà dei danni (arrotondati per eccesso) che il portatore subisce viene trasferita al &lt;creature&gt;.</p>"
+    },
+    {
+      "id": "Brave",
+      "name": "Impavido",
+      "description": "<p>La &lt;creature&gt; dispone di vantaggio ai tiri salvezza contro la condizione di Spaventato.</p>"
+    },
+    {
+      "id": "Brute",
+      "name": "Bruto",
+      "description": "<p>Quando la &lt;creature&gt; colpisce con un'arma da mischia, l'attacco infligge un dado extra del tipo di danno dell'arma (già incluso nelle statistiche sottostanti).</p>"
+    },
+    {
+      "id": "Change Shape",
+      "name": "Cambiare Forma",
+      "description": "<p>la Creatura si trasforma magicamente in una bestia o in un umanoide con grado di sfida pari o inferiore al proprio, o ritorna alla sua vera forma. Se muore, ritorna alla sua vera forma. Ogni oggetto che indossava o trasportava viene assorbito o trasportato dalla sua nuova forma (a scelta della Creatura). In una nuova forma, la Creatura conserva le sue statistiche di gioco e la capacità di parlare, ma CA, modalità di movimento, <strong>Forza, Destrezza</strong> e sensi speciali sono sostituiti da quelli della nuova forma. Inoltre, la Creatura ottiene le eventuali statistiche e capacità (eccetto i privilegi di classe, le azioni leggendarie e le azioni di tana) che la nuova forma possiede, ma di cui egli è privo. Se la nuova forma ha un attacco con morso, la Creatura può usare il morso in tale forma.</p>"
+    },
+    {
+      "id": "Channel Negative Energy",
+      "name": "Incanalare Energia Negativa",
+      "description": "<p>La Creatura scatena magicamente un'ondata di energia negativa. Le creature entro 18 metri dalla Creatura, incluse quelle dietro una barriera o oltre un angolo, non possono recuperare punti ferita fino alla fine del turno successivo della Creatura.</p>"
+    },
+    {
+      "id": "Charge",
+      "name": "Carica",
+      "description": "<p>Se la Creatura si muove di almeno 6 metri in linea retta verso un bersaglio e poi lo colpisce con un attacco da incornata nello stesso turno, il bersaglio subisce 2 (1d4) danni perforanti extra. Se il bersaglio è una creatura, deve superare un tiro salvezza su Forza con CD 10, altrimenti è buttato a terra prono.</p>"
+    },
+    {
+      "id": "Claws",
+      "name": "Artigli",
+      "description": "<p>Attacco generico con Artigli. Completare i dettagli.</p>"
+    },
+    {
+      "id": "Cold Breath",
+      "name": "Soffio di Freddo",
+      "description": "<p>la Creatura esala una folata gelida in un cono di <strong>4,5 metri</strong>. Ogni creatura in quell'area deve effettuare un tiro salvezza su <strong>Costituzione con CD 13</strong>; se lo fallisce, subisce <strong>18&nbsp;([[/r 4d8]])</strong>&nbsp;danni da freddo, mentre se lo supera, subisce la metà di quei danni.</p>"
+    },
+    {
+      "id": "Confer Fire Resistance",
+      "name": "Conferire Resistenza al Fuoco",
+      "description": "<p>la Creatura pu&ograve; conferire resistenza ai danni da fuoco a chiunque lo cavalchi.</p>"
+    },
+    {
+      "id": "Constrict",
+      "name": "Stritolare",
+      "description": "<p>Il bersaglio è afferrato (<strong>CD 14 per sfuggire</strong>). Finché la Creatura afferra il bersaglio, quest’ultimo è trattenuto e la Creatura <strong>non può stritolare un altro bersaglio.</strong></p>"
+    },
+    {
+      "id": "Consume Life",
+      "name": "Assorbire Vita",
+      "description": "<p>Con un'azione bonus, la Creatura può bersagliare una creatura situata entro <strong>1,5 metri</strong> da lui e che esso sia in grado di vedere, che abbia 0 punti ferita e sia ancora viva. Il bersaglio deve superare un tiro salvezza su <strong>Costituzione con CD 10</strong> contro questa magia, altrimenti muore. Se il bersaglio muore, la Creatura recupera <strong>10 (3d6)</strong> punti ferita.</p>"
+    },
+    {
+      "id": "Corrode Metal",
+      "name": "Corrodere il Metallo",
+      "description": "<p>Qualsiasi arma non magica fatta di metallo che colpisca la Creatura si corrode. Dopo avere inflitto danni, l’arma subisce una penalita cumulativa e permanente di -1 ai tiri per i danni. Se la sua penalità scende a 5, l'arma è distrutta. Le munizioni non magiche fatte di metallo che colpiscono la Creatura vengono distrutte dopo avere inflitto danni. la Creatura può corrodere uno spessore di 5 centimetri di metallo non magico in 1 round.</p>"
+    },
+    {
+      "id": "Corrosive Form",
+      "name": "Forma Corrosiva",
+      "description": "<p>Una creatura che tocca la Creatura o lo colpisce con un attacco in mischia mentre si trova entro <strong>1,5 metri</strong> da esso subisce 4 (ld8) danni da acido. Qualsiasi arma non magica fatta di metallo o di legno che colpisce la Creatura si corrode. Dopo avere inflitto danni, l&rsquo;arma subisce una penalit&agrave; cumulativa e permanente di -1 ai tiri per i danni. Se la sua penalit&agrave; scende a -5 l&rsquo;arma &egrave; distrutta. Le munizioni non magiche fatte di metallo o di legno che colpiscono la Creatura sono distrutte dopo avere inflitto danni. la Creatura pu&ograve; corrodere uno spessore di 5 centimetri di legno o di metallo non magico in 1 round.</p>"
+    },
+    {
+      "id": "Create Specter",
+      "name": "Creare Spettro",
+      "description": "<p>la Creatura bersaglia un umanoide situato entro <strong>3 metri</strong> da lui, che non sia morto da pi&ugrave; di 1 minuto e che sia morto di morte violenta. Lo spirito del bersaglio si anima come spettro nello spazio del suo cadavere o nello spazio libero pi&ugrave; vicino. Lo spettro &egrave; sotto il controllo della Creatura. La Creatura non pu&ograve; controllare pi&ugrave; di sette spettri simultaneamente.</p>"
+    },
+    {
+      "id": "Cunning Action",
+      "name": "Azione Scaltra",
+      "description": "<p>A ogni suo turno, la Creatura pu&ograve; usare un'azione bonus per effettuare l'azione di Scatto, Disimpegno o Nascondersi.</p>"
+    },
+    {
+      "id": "Damage Transfer",
+      "name": "Trasferire Danni",
+      "description": "<p>Finch&eacute; &egrave; avvinghiato a una creatura, la Creatura subisce solo met&agrave; dei danni che gli vengono inflitti (arrotondati per difetto) e quella creatura subisce l'altra met&agrave;.</p>"
+    },
+    {
+      "id": "Dark Devotion",
+      "name": "Devozione Oscura",
+      "description": "<p>La Creatura dispone di vantaggio ai tiri salvezza contro le condizioni di affascinato e spaventato.</p>"
+    },
+    {
+      "id": "Darkness Aura",
+      "name": "Aura di Oscurità",
+      "description": "<p>Un'oscurità magica si estende dalla Creatura entro un raggio di <strong>4,5 metri</strong>, spostandosi assieme a lui e diffondendosi oltre gli angoli. L’oscurità permane fintanto che la Creatura mantiene la concentrazione (come se si concentrasse su un incantesimo) fino a un massimo di <strong>10 minuti</strong>. La scurovisione non riesce a penetrare questo tipo di oscurità e nessuna luce naturale può illuminarla. Se una qualsiasi parte di oscurità si sovrappone a un'area di luce creata da un incantesimo di 2° livello o inferiore, l'incantesimo che crea la luce è dissolto.</p>"
+    },
+    {
+      "id": "Deadly Leap",
+      "name": "Balzo Letale",
+      "description": "<p>Se la Creatura salta di almeno 4,5 metri come parte del suo movimento, po i può usare questa azione per atterrare in piedi in uno spazio che contenga una o più creature oltre a lui. Ognuna di queste creature deve effettuare un tiro salvezza su Forza o Destrezza con CD 16 (a scelta del bersaglio); se lo fallisce, viene buttata a terra prona e subisce 14 (3d6 + 4) danni contundenti più 14 (3d6 + 4) danni taglienti. Se invece lo supera, subisce la metà di quei danni, non è buttata a terra prona e viene spinta di 1,5 metri fuori dallo spazio della Creatura fino a uno spazio libero a scelta della creatura. Se non c'è alcuno spazio libero entro gittata, la creatura cade invece a terra prona nello spazio della Creatura.</p>"
+    },
+    {
+      "id": "Whirlwind of Sand",
+      "name": "Turbine di Sabbia",
+      "description": "<p>La Creatura si trasforma magicamente in un vortice di sabbia, si sposta fino a 18 metri e ritorna alla sua forma normale. Mentre è in forma di vortice, la Creatura è immune a tutti i danni e non può essere afferrata, pietrificata, prona, trattenuta o stordita. L'equipaggiamento indossato o trasportato dalla Creatura rimane in suo possesso.</p>"
+    },
+    {
+      "id": "Faultless Tracker",
+      "name": "Segugio Infallibile",
+      "description": "<p>L'evocatore indica una preda alla Creatura. La Creatura conosce la direzione e la distanza dalla sua preda fintanto che i due si trovano sullo stesso piano di esistenza. La Creatura conosce anche la posizione del suo evocatore.</p>"
+    },
+    {
+      "id": "Whelm",
+      "name": "Sommergere",
+      "description": "<p>Ogni creatura nello spazio della Creatura deve effettuare un <strong>tiro salvezza su Forza con CD 15</strong>; se lo fallisce, subisce <strong>13&nbsp;([[/r 2d8 + 4]])&nbsp;</strong>danni <strong>contundenti</strong>.&nbsp;Se la creatura è di taglia Grande o inferiore, è anche afferrata (CD 14 per sfuggire). Finché la Creatura afferra il bersaglio, quest'ultimo è trattenuto e non può respirare, a meno che non possa respirare in acqua. Se il bersaglio supera il&nbsp;<strong>tiro salvezza</strong>, viene spinto fuori dallo spazio della Creatura. La Creatura può afferrare una creatura Grande o un massimo di due creature Medie o di taglia inferiore contemporaneamente tramite questa capacità. All'inizio di ogni turno della Creatura, ogni bersaglio afferrato subisce&nbsp;<strong>13</strong><strong>&nbsp;([[/r 2d8 + 4]])&nbsp;</strong>danni&nbsp;<strong>contundenti</strong>. Con un'azione, una creatura entro&nbsp;<strong>1,5 metri</strong>&nbsp;dalla Creatura può tirare fuori da essa una creatura o un oggetto effettuando con successo una prova di&nbsp;<strong>Forza con CD 14</strong>.</p>"
+    },
+    {
+      "id": "Death Burst",
+      "name": "Esplosione Mortale",
+      "description": "<p>Quando il &lt;creature&gt; muore, esplode in una deflagrazione di magma e lava. Ogni creatura situata entro 3 metri da esso deve effettuare un tiro salvezza su Destrezza con CD 11; se lo fallisce, subisce 7 (2d6) danni da fuoco, mentre se lo supera, subisce la metà di quei danni. Gli oggetti infiammabili non indossati o trasportati che si trovano in quell'area prendono fuoco.</p>"
+    },
+    {
+      "id": "Death Glare",
+      "name": "Sguardo Mortale",
+      "description": "<p>La &lt;Creature&gt; bersaglia una creatura spaventata situata entro 9 metri da lei e che essa sia in grado di vedere. Se il bersaglio pu&ograve; vedere la &lt;Creature&gt;, deve superare un tiro salvezza su Saggezza con CD 11 contro questa magia, altrimenti scende a 0 punti ferita.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Devil's Sight",
+      "name": "Vista del Diavolo",
+      "description": "<p>L'oscurit&agrave; magica non ostacola la scurovisione del &lt;creature&gt;.</p>"
+    },
+    {
+      "id": "Disrupt Life",
+      "name": "Distruggere Vita",
+      "description": "<p>Ogni creatura che non sia un non morto e situata entro 6 metri dal &lt;creature&gt; deve effettuare un tiro salvezza su Costituzione con CD 18 contro questa magia; se lo fallisce, subisce 21 (6d6) danni necrotici, mentre se lo supera, subisce la met&agrave; di quei danni.</p>"
+    },
+    {
+      "id": "Divine Eminence",
+      "name": "Eminenza Divina",
+      "description": "<p>Come azione bonus, il &lt;creature&gt; pu&ograve; spendere uno slot incantesimo per fare in modo che i suoi attacchi con un'arma da mischia infliggano magicamente 10 (3d6) danni radiosi extra a un bersaglio se lo colpiscono. Questo beneficio permane fino alla fine del turno. Se il &lt;creature&gt; spende uno slot incantesimo di livello pari o superiore al 2&deg;, i danni extra aumentano di 1d6 per ogni livello oltre il 1&deg;.</p>"
+    },
+    {
+      "id": "Whirlwind",
+      "name": "Vortice",
+      "description": "<p>Ogni creatura nello spazio della &lt;creature&gt;e deve effettuare un <strong>tiro salvezza su Forza con CD 13</strong>; se lo fallisce, subisce <strong>15&nbsp;([[/r 3d8 + 2]])&nbsp;</strong>danni <strong>contundenti</strong>, viene scagliata <strong>6 metri</strong> più lontano dall'elementale in una direzione casuale e cade a terra prona. Se un bersaglio scagliato colpisce un oggetto, come per esempio un muroo una porta, quel bersaglio subisce <strong>3&nbsp;([[/r 1d6]])&nbsp;danni contundenti</strong> perogni 3 metri di cui è stato scagliato. Se il bersaglio viene scagliato contro un’altra creatura, quella creatura deve superare un <strong>tiro salvezza su Destrezza con CD 13</strong>, altrimenti subirà gli stessi danni e cadrà a terra prona. Se supera il tiro salvezza, il bersaglio subisce la metà dei danni contundenti, non viene scagliato via e non cade a terra prono.</p>"
+    },
+    {
+      "id": "Dreadful Glare",
+      "name": "Sguardo Funesto",
+      "description": "<p>La &lt;creature&gt; bersaglia una creatura situata entro 18 metri da lei e che essa sia in grado di vedere. Se il bersaglio può vedere la &lt;creature&gt;, deve superare un tiro salvezza su Saggezza con CD 11 contro questa magia, altrimenti è spaventato fino alla fine del turno successivo della &lt;creature&gt;. Se il bersaglio fallisce il tiro salvezza di 5 o più, è anche paralizzato per la stessa durata. Un bersaglio che supera il tiro salvezza è immune allo Sguardo Funesto di tutte le mummie (ma non a quello dei signori delle mummie) per le 24 ore successive.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Duergar Resilience",
+      "name": "Resilienza Duergar",
+      "description": "<p>Il &lt;creature&gt; dispone di vantaggio ai tiri salvezza contro veleno, incantesimi e illusioni, nonch&eacute; per resistere alle condizioni di affascinato o paralizzato.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Earth Glide",
+      "name": "Scivolare nella Terra",
+      "description": "<p>L'&lt;creature&gt; pu&ograve; scavare attraverso la terra e la pietra non magiche e non lavorate. Quando lo fa, l'&lt;creature&gt; non disturba il materiale attraverso cui si muove.</p>"
+    },
+    {
+      "id": "Echolocation",
+      "name": "Senso Radar",
+      "description": "<p>L'&lt;creature&gt; non pu&ograve; usare vista cieca se &egrave; assordato.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Engulf",
+      "name": "Avviluppare",
+      "description": "<p>Il &lt;creature&gt; si muove del massimo della sua velocità. Mentre lo fa, può entrare negli spazi delle creature di taglia Grande o inferiore. Ogni volta che il &lt;creature&gt; entra nello spazio di una creatura, quest'ultima deve effettuare un tiro salvezza su Destrezza con CD 12. Se lo supera, la creatura può scegliere di essere spinta di 1,5 metri indietro o lateralmente al &lt;creature&gt;. Una creatura che sceglie di non essere spinta subisce le conseguenze di un tiro salvezza fallito. In caso di tiro salvezza fallito, il cuboentra nello spazio della creatura e la creatura subisce 10 (3d6) danni da acido ed è avviluppata. La creatura avviluppata non può respirare, è trattenuta e subisce 21 (6d6) danni da acido all'inizio di ogni turno del cubo. Quando il &lt;creature&gt; si muove, la creatura avviluppata si muove assieme a lui. Una creatura avviluppata può tentare di sfuggire usando un'azione per effettuare una prova di Forza con CD 12. In caso di successo, la creatura sfugge ed entra in uno spazio a sua scelta entro 1,5 metri dal &lt;creature&gt;.</p>"
+    },
+    {
+      "id": "Enlarge",
+      "name": "Ingrandire",
+      "description": "<p>Per 1 minuto, la taglia del &lt;creature&gt; aumenta magicamente, assieme a ogni oggetto che indossa o trasporta. Finch&eacute; &egrave; ingrandito, il &lt;creature&gt; &egrave; Grande, raddoppia i suoi dadi per i danni degli attacchi con arma basati sulla Forza (gi&agrave; inclusi negli attacchi) e dispone di vantaggio alle prove di Forza e ai tiri salvezza su Forza. Se il &lt;creature&gt; non ha spazio a sufficienza per diventare Grande, raggiunge la massima taglia possibile nello spazio disponibile.</p>"
+    },
+    {
+      "id": "Ephemeral",
+      "name": "Effimero",
+      "description": "<p>Il &lt;creature&gt; non pu&ograve; indossare o trasportare niente.</p>"
+    },
+    {
+      "id": "Ethereal Jaunt",
+      "name": "Transizione Eterea",
+      "description": "<p>Come azione bonus, il &lt;creature&gt; pu&ograve; spostarsi magicamente dal Piano Materiale al Piano Etereo o viceversa.</p>"
+    },
+    {
+      "id": "Ethereal Sight",
+      "name": "Vista Eterea",
+      "description": "<p>Il &lt;creature&gt; pu&ograve; vedere per 18 metri sul Pian Etereo quando si trova sul Piano Materiale e viceversa.</p>"
+    },
+    {
+      "id": "Ethereal Stride",
+      "name": "Passo Etereo",
+      "description": "<p>Il &lt;creature&gt; e un massimo di tre creature consenzienti situate entro 1,5 metri da esso passano magicamente dal Piano Materiale al Piano Etereo o viceversa.</p>"
+    },
+    {
+      "id": "Etherealness",
+      "name": "Forma Eterea",
+      "description": "<p>Il &lt;creature&gt; entra nel Piano Etereo dal Piano Materiale o viceversa. &Egrave; visibile sul Piano Materiale finch&eacute; si trova sul Confine Etereo e viceversa, ma non pu&ograve; influenzare o essere influenzato da nulla sull&rsquo;altro piano.</p>"
+    },
+    {
+      "id": "Evasion",
+      "name": "Elusione",
+      "description": "<p>Se l'&lt;creature&gt; &egrave; soggetto a un effetto che gli consente di effettuare un tiro salvezza su Destrezza per subire danni dimezzati, non subisce alcun danno se lo supera e solo met&agrave; dei danni se lo fallisce.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "False Appearance",
+      "name": "Falso Aspetto",
+      "description": "<p><span style=\"color: #111111;\">While the &lt;creature&gt; remains motionless, it is indistinguishable from a &lt;false appearance&gt;.</span></p><p><span style=\"color: #111111;\"><span style=\"color: #111111;\">Finché l'</span></span><span style=\"color: #111111;\">&lt;creature&gt; </span><span style=\"color: #111111;\">rimane immobile, non è distinguibile da un'</span><span style=\"color: #111111;\">&lt;creature&gt;</span><span style=\"color: #111111;\">&nbsp;normale.</span></p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Fetid Cloud",
+      "name": "Nube Fetida",
+      "description": "<p>Una nube di disgustoso gas verdastro si diffonde dal &lt;creature&gt; entro un raggio di 3 metri. Il gas si diffonde oltre gli angoli e la sua area &egrave; leggermente oscurata. Permane per 1 minuto o finch&eacute; un forte vento non lo disperde. Ogni creatura che inizia il proprio turno in quell'area deve superare un tiro salvezza su Costituzione con CD 11, altrimenti &egrave; avvelenata fino all&rsquo;inizio del proprio turno successivo. Finch&eacute; &egrave; avvelenato in questo modo, il bersaglio pu&ograve; effettuare nel suo turno un&rsquo;azione o un'azione bonus, ma non entrambe, e non pu&ograve; effettuare reazioni.</p>"
+    },
+    {
+      "id": "Fey Ancestry",
+      "name": "Retaggio Fatato",
+      "description": "<p>Il &lt;creature&gt; dispone di vantaggio ai tiri salvezza contro la condizione di affascinato e non pu&ograve; essere addormentato tramite la magia.</p>"
+    },
+    {
+      "id": "Fey Charm",
+      "name": "Fascino Fatato",
+      "description": "<p>La &lt;creature&gt; bersaglia un umanoide o una bestia situata entro 9 metri da lei e che essa sia in grado di vedere. Se il bersaglio pu&ograve; vedere la &lt;creature&gt;, deve superare un tiro salvezza su Saggezza con CD 14, altrimenti &egrave; affascinato magicamente. La creatura affascinata considera la &lt;creature&gt; un alleato fidato da ascoltare e da proteggere. Anche se il bersaglio non &egrave; sotto il controllo della &lt;creature&gt;, interpreta le sue richieste o le sue azioni nel modo pi&ugrave; favorevole possibile. Ogni volta che la &lt;creature&gt; o i suoi alleati fanno qualcosa di dannoso al bersaglio, quest&rsquo;ultimo pu&ograve; ripetere il tiro salvezza e, se lo supera, l'effetto per lui termina. Altrimenti, l'effetto dura 24 ore o finch&eacute; la &lt;creature&gt; non muore, non si trova su un piano di esistenza diverso da quello del bersaglio o non termina l&rsquo;effetto con un'azione bonus. Se un bersaglio supera il tiro salvezza, &egrave; immune al Fascino Fatato della &lt;creature&gt; per le 24 ore successive. La &lt;creature&gt; pu&ograve; affascinare al massimo un umanoide e tre bestie contemporaneamente.</p>"
+    },
+    {
+      "id": "Fire Breath",
+      "name": "Soffio di Fuoco",
+      "description": "<p>La &lt;creature&gt;&nbsp;esala fuoco in un cono di 4,5 metri. Ogni creatura in quell'area deve effettuare un tiro salvezza su Destrezza con CD 15; se lo fallisce, subisce 31 (7d8) danni da fuoco, mentre se lo supera, subisce la met&agrave; di quei danni.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Fire Form",
+      "name": "Forma di Fuoco",
+      "description": "<p>L'&lt;creature&gt; pu&ograve; muoversi attraverso uno spazio stretto fino a 2,5 centimetri senza doversi stringere. Una creatura che tocca l'&lt;creature&gt; o lo colpisce con un attacco in mischia mentre si trova entro 1,5 metri da esso subisce 5 (1d10) danni da fuoco. Inoltre, l'&lt;creature&gt; pu&ograve; entrare nello spazio di una creatura ostile e fermarvisi. La prima volta che entra nello spazio di una creatura in un turno, quella creatura subisce 5 (1d10) danni da fuoco e prende fuoco; finch&eacute; qualcuno non usa un&rsquo;azione per estinguere le fiamme, la creatura subisce 5 (1d10) danni da fuoco all'inizio di ogni suo turno.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Fists",
+      "name": "Pugni",
+      "description": "<p>Attacco con pugni generico.</p>"
+    },
+    {
+      "id": "Flyby",
+      "name": "Volo Sfuggente",
+      "description": "<p>Il &lt;creature&gt; non provoca un attacco di opportunit&agrave; quando esce volando dalla portata di un nemico.</p>"
+    },
+    {
+      "id": "Freedom of Movement",
+      "name": "Libertà di Movimento",
+      "description": "<p>Il &lt;creature&gt; ignora il terreno difficile e gli effetti magici non possono ridurre la sua velocità o renderlo trattenuto. Può spendere 1,5 metri di movimento per sfuggire dalle costrizioni non magiche o dalla condizione di afferrato</p>"
+    },
+    {
+      "id": "Freeze",
+      "name": "Congelamento",
+      "description": "<p>Se l'&lt;creature&gt; subisce danni da freddo, si congela parzialmente; la sua velocità è ridotta di 6 metri fino alla fine del suo turno successivo.</p>"
+    },
+    {
+      "id": "Frightening Gaze",
+      "name": "Sguardo Terrificante",
+      "description": "<p>Il &lt;creature&gt; fissa il suo sguardo su una creatura situata entro 3 metri da lui e che esso sia in grado di vedere. Il bersaglio deve superare un tiro salvezza su Saggezza con CD 18 contro questa magia, altrimenti diventa spaventato per 1 minuto. Il bersaglio spaventato pu&ograve; ripetere il tiro salvezza alla fine di ogni suo turno e, se lo supera, l&rsquo;effetto per lui termina. Se il bersaglio supera il tiro salvezza o se l&rsquo;effetto per lui termina, &egrave; immune allo sguardo del lich per le 24 ore successive.</p>"
+    },
+    {
+      "id": "Gibbering",
+      "name": "Gorgogliare",
+      "description": "<p>La &lt;creature&gt; gorgoglia in modo incoerente fintanto che vede una qualsiasi creatura e non è incapacitata. Ogni creatura che inizia il proprio turno entro 6 metri dalla &lt;creature&gt; e può sentirla gorgogliare deve superare un tiro salvezza su Saggezza con CD 10. Se lo fallisce, la creatura non può&nbsp; effettuare reazioni fino all'inizio del proprio turno successivo e tira un d8 per determinare cosa fa durante il proprio turno.</p><ul><li>Con un risultato da 1 a 4, la creatura non fa nulla.</li><li>Con un risultato di 5 o 6, la creatura non effettua alcuna azione, né azione bonus e usa tutto il suo movimento per muoversi in una direzione determinata a caso.</li><li>Con un 7 o un 8, la creatura effettua un attacco in mischia contro una creatura determinata a caso entro portata oppure non fa nulla se non riesce a effettuare un attacco del genere.</li></ul>"
+    },
+    {
+      "id": "Gnome Cunning",
+      "name": "Astuzia Gnomesca",
+      "description": "<p>Lo gnomo dispone di vantaggio ai tiri salvezza su Intelligenza, Saggezza e Carisma contro la magia.</p>"
+    },
+    {
+      "id": "Grappler",
+      "name": "Lottatore",
+      "description": "<p>Il &lt;creature&gt; dispone di vantaggio ai tiri per colpire contro qualsiasi creatura con cui sia in lotta.</p>"
+    },
+    {
+      "id": "Grasping Tendrils",
+      "name": "Tentacoli Afferranti",
+      "description": "<p>Il &lt;creature&gt; pu&ograve; avere al massimo sei tentacoli contemporaneamente. Ogni tentacolo pu&ograve; essere attaccato (CA 20; 10 punti ferita; immunit&agrave; ai danni psichici e da veleno). La distruzione di un tentacolo non infligge danni al &lt;creature&gt;, che pu&ograve; protendere un tentacolo sostitutivo nel suo turno successivo. Un tentacolo pu&ograve; anche essere spezzato se una creatura effettua un&rsquo;azione e supera una prova di Forza con CD 15 contro di esso.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Haste",
+      "name": "Velocità",
+      "description": "<p>Fino alla fine del suo turno successivo, il &lt;creature&gt; ottiene magicamente un bonus di +2 alla CA, dispone di vantaggio ai tiri salvezza su Destrezza e pu&ograve; usare il suo attacco con schianto come azione bonus.</p>"
+    },
+    {
+      "id": "Heal Self",
+      "name": "Guarire Se Stesso",
+      "description": "<p>L'&lt;creature&gt; recupera magicamente <strong>11 (2d8 + 2) </strong>punti ferita.</p>"
+    },
+    {
+      "id": "Healing Touch",
+      "name": "Tocco Guaritore",
+      "description": "<p>L'&lt;creature&gt;tocca un'altra creatura con il corno. Il bersaglio recupera magicamente 11 (2d8 + 2) punti ferita. Inoltre, il tocco rimuove tutte le malattie e&nbsp;neutralizza tutti i veleni che affliggono il bersaglio</p>"
+    },
+    {
+      "id": "Heart Sight",
+      "name": "Vista del Cuore",
+      "description": "<p>Lo &lt;creature&gt; tocca unacreatura e apprende magicamente lo stato emotivo attuale della creatura. Se il bersaglio fallisce un tiro salvezza su Carisma con CD 10, lo &lt;creature&gt; apprende anche l&rsquo;allineamento della creatura. I celestiali, gli immondi e i non morti falliscono automaticamente il tiro salvezza.</p>"
+    },
+    {
+      "id": "Heated Body",
+      "name": "Corpo Surriscaldato",
+      "description": "<p>Una creatura che tocca l'&lt;creature&gt; lo colpisce con un attacco in mischia mentre si trova a 1,5 metri da esso subisce 5 (1d10) danni da Fuoco.</p>"
+    },
+    {
+      "id": "Heated Weapons",
+      "name": "Armi Surriscaldate",
+      "description": "<p>Quando l'&lt;creature&gt; colpisce con un'arma da mischia in metallo, infligge 3 (1d6) danni da fuoco extra (già inclusi nell'attacco).</p>"
+    },
+    {
+      "id": "Hold Breath",
+      "name": "Trattenere il Respiro",
+      "description": "<p>Il &lt;creature&gt; pu&ograve; trattenere􀀡􀂜􀁾􀁢􀂰􀁴􀂗􀂰􀁖􀂸􀂢􀂖􀃌􀂜􀂹􀃉􀃌􀂳􀂢􀁖􀂳􀂳􀁢􀂔􀁢􀂡􀁢􀃌􀁳􀂂􀃌􀂢􀁢􀂰􀂜􀁳􀂢􀂗􀃌 il respiro per 15 minuti.</p><p>􀂛􀁣􀂡􀃌􀀐􀀡 􀂕􀂡􀃌</p>"
+    },
+    {
+      "id": "Horrific Appearance",
+      "name": "Aspetto Orripilante ",
+      "description": "<p>Ogni umanoide che inizi il proprio turno entro 9 metri dalla megera e sia in grado di vedere la vera forma della &lt;creature&gt; deve effettuare un tiro salvezza su Saggezza con CD 11; se lo fallisce, è spaventato per 1 minuto. Una creatura può ripetere il tiro salvezza alla fine di ogni suo turno, subendo svantaggio se la &lt;creature&gt; è situata entro linea di vista, e se lo supera, l'effetto per lei termina. Se una creatura supera il tiro salvezza o se l’effetto per lei termina, è immune all'Aspetto Orripilante della &lt;creature&gt; per le 24 ore successive. A meno che il bersaglio non sia sorpreso o la rivelazione della vera forma della &lt;creature&gt; non sia improvvisa, il bersaglio può distogliere lo sguardo ed evitare di effettuare il tiro salvezza iniziale. Fino all’inizio del proprio turno successivo, una creatura che distoglie lo sguardo subisce svantaggio ai tiri percolpirecontrola &lt;creature&gt;.</p>"
+    },
+    {
+      "id": "Horrifying Visage",
+      "name": "Volto Terrificante",
+      "description": "<p>Ogni creatura che non sia un non morto situata entro 18 metri dalla &lt;creature&gt; e chesia in grado di vederla deve superare un tiro salvezza su Saggezza con CD 13, altrimenti è spaventata per 1 minuto. Un bersaglio spaventato può ripetere il tiro salvezza alla fine di ogni suo turno, subendo svantaggio se la &lt;creature&gt;&nbsp;si trova entro linea di vista; se supera il tiro, l’effetto per lui termina. Se un bersaglio supera il tiro salvezza o l’effetto per lui termina, quel bersaglio è immune al Volto Terrificante della&nbsp;&nbsp;&lt;creature&gt; per le 24 ore successive.</p>"
+    },
+    {
+      "id": "Ice Walk",
+      "name": "Camminare sul Ghiaccio",
+      "description": "<p>Il &lt;creature&gt; pu&ograve; muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, il terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo.</p>"
+    },
+    {
+      "id": "Ignited Illumination",
+      "name": "Illuminazione Fiammeggiante",
+      "description": "<p>Come azione bonus, il &lt;creature&gt; pu&ograve; infiammarsi o estinguere le proprie fiamme. Quando si infiamma, il &lt;creature&gt; proietta luce intensa in un raggio di 3 metri e luce fioca per altri 3 metri.</p>"
+    },
+    {
+      "id": "Illumination",
+      "name": "Illuminazione",
+      "description": "<p>Il &lt;creature&gt;&nbsp;proietta luce intensa in un raggio di 3 metri e luce fioca per 3 metri aggiuntivi.</p>"
+    },
+    {
+      "id": "Illusory Appearance",
+      "name": "Aspetto Illusorio",
+      "description": "<p>La &lt;creature&gt; avvolge se stessa e tutto ci&ograve; che indossa o trasporta in un'illusione magica che la fa apparire come un'altra creatura di taglia e di forma umanoide simile alla sua. L&rsquo;illusione termina se la &lt;creature&gt; usa un'azione bonus per terminarla o se muore. I cambiamenti apportati da questo effetto non reggono a un&rsquo;ispezione fisica. Per esempio, la &lt;creature&gt; potrebbe apparire dotata di una pelle liscia, ma chi la toccasse sentirebbe che la sua pelle &egrave; aspra e ruvida. Sotto ogni altro aspetto, una creatura deve usare un&rsquo;azione per ispezionare l&rsquo;illusione e superare una prova di Intelligenza (Indagare) con CD 20 per capire che la &lt;creature&gt; &egrave; camuffata.</p>"
+    },
+    {
+      "id": "Immutable Form",
+      "name": "Forma Immutabile",
+      "description": "<p>Il &lt;creature&gt; &egrave; immune a qualsiasi incantesimo o effetto che tenti di alterare la sua forma.</p>"
+    },
+    {
+      "id": "Incorporeal Movement",
+      "name": "Movimento Incorporeo",
+      "description": "<p>Lo&nbsp;&nbsp;&lt;creature&gt; pu&ograve; muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni da forza se termina il suo turno all&rsquo;interno di un oggetto.</p>"
+    },
+    {
+      "id": "Ink Cloud",
+      "name": "Nube di Inchiostro",
+      "description": "<p>Una nube di inchiostro del raggio di 1.5 metri si diffonde tutt'intorno alla &lt;creature&gt;, se essa si trova sott'acqua. L'area &egrave; pesantemente oscurata per 1 minuto, anche se una corrente di intensit&agrave; significativa pu&ograve; disperdere l'inchiostro. Dopo avere emesso l'inchiostro, la &lt;creature&gt; pu&ograve; usare l&rsquo;azione di Scatto come azione bonus.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Innate Spellcasting",
+      "name": "Incantesimi Innati",
+      "description": "<p>La caratteristica da incantatore del &lt;creature&gt; &egrave; &lt;ABILITY&gt; (tiro salvezza degli incantesimi CD &lt;DC&gt;). Il &lt;creature&gt; pu&ograve; lanciare i seguenti incantesimi innati, che richiedono solo componenti verbali:</p><p>&lt;Innate Spell List&gt;</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Invisibility",
+      "name": "Invisibilità",
+      "description": "<p>Il &lt;creature&gt; &egrave; invisibile.</p>"
+    },
+    {
+      "id": "Invisible Passage",
+      "name": "Passaggio Invisibile",
+      "description": "<p>La &lt;creature&gt; diventa invisibile magicamente finch&eacute; non attacca o lancia un incantesimo, o finch&eacute; la sua concentrazione non termina (come se si concentrasse su un incantesimo). Mentre &egrave; invisibile, non lascia alcuna traccia fisica del suo passaggio, quindi &egrave; possibile seguirne le tracce solo tramite la magia. Ogni oggetto che indossa o trasporta diventa invisibile assieme a lei.</p>"
+    },
+    {
+      "id": "Iron Scent",
+      "name": "Fiutare il Ferro",
+      "description": "<p>The &lt;creature&gt;&nbsp;can pinpoint, by scent, the location of ferrous metal within <strong>30 feet</strong> of it.</p> "
+    },
+    {
+      "id": "Keen Hearing",
+      "name": "Udito Acuto",
+      "description": "<p>L&rsquo;&lt;creature&gt;&nbsp;dispone di vantaggio alle prove di Saggezza (Percezione) basate sull&rsquo;udito.</p>"
+    },
+    {
+      "id": "Keen Hearing and Sight",
+      "name": "Vista e Udito Acuti",
+      "description": "<p>Il &lt;creature&gt; dispone di vantaggio alle prove di Saggezza (Percezione) basate sulla vista o sull'udito.</p>"
+    },
+    {
+      "id": "Keen Hearing and Smell",
+      "name": "Olfatto e Udito Acuti",
+      "description": "<p>The &lt;creature&gt; has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+    },
+    {
+      "id": "Keen Sight",
+      "name": "Vista Acuta",
+      "description": "<p>L&rsquo;&lt;creature&gt; dispone di vantaggio alle prove di Saggezza (Percezione) basate sulla vista.</p>"
+    },
+    {
+      "id": "Keen Sight and Smell",
+      "name": "Olfatto e Vista Acuti",
+      "description": "<p>L'&nbsp;&lt;creature&gt;&nbsp;dispone di vantaggio alle prove di Saggezza (Percezione) basate sull'olfatto o sulla vista.</p>"
+    },
+    {
+      "id": "Keen Smell",
+      "name": "Olfatto Acuto",
+      "description": "<p>Il &lt;creature&gt; dispone di vantaggio alle prove di&nbsp;Saggezza (Percezione) basate sull'olfatto</p>"
+    },
+    {
+      "id": "Labyrinthine Recall",
+      "name": "Ricordo Labirintico",
+      "description": "<p><span style=\"font-family: Times New Roman; font-size: medium;\">Il&nbsp;</span><span style=\"font-family: 'Times New Roman'; font-size: medium;\">&lt;creature&gt; </span><span style=\"font-family: Times New Roman; font-size: medium;\">&egrave; in grado di ricordarsi alla&nbsp;</span><span style=\"font-family: Times New Roman; font-size: medium;\">perfezione qualsiasi tragitto che abbia gi&agrave; percorso.</span></p>"
+    },
+    {
+      "id": "Leadership",
+      "name": "Autorità",
+      "description": "<p>Per 1 minuto, il &lt;creature&gt; può pronunciare un comando o un avvertimento speciale ogni volta che una creatura non ostile situata entro 9 metri da lui e che egli sia in grado di vedere effettua un tiro per colpire o un tiro salvezza. La creatura può aggiungere un [[/r d4]] al suo tiro, purché possa udire e capire il &lt;creature&gt;. Una creatura può beneficiare di un solo dado di Autorità alla volta. Questo effetto termina se il &lt;creature&gt; è Incapacitato.</p>"
+    },
+    {
+      "id": "Legendary Actions",
+      "name": "Azioni Leggendarie",
+      "description": "<p><span style=\"font-family: 'Times New Roman'; font-size: medium;\">L'&lt;creature&gt; </span><span style=\"font-family: Times New Roman; font-size: medium;\">pu&ograve; effettuare 3 azioni leggendarie, scelte tra le opzioni sottostanti. Pu&ograve; usare solo un&rsquo;opzione di azione leggendaria alla volta e solo alla fine del turno di un'altra creatura. All'inizio del proprio turno,&nbsp;</span><span style=\"font-family: 'Times New Roman'; font-size: medium;\">&lt;creature&gt; </span><span style=\"font-family: Times New Roman; font-size: medium;\">recupera le azioni leggendarie spese.</span></p>"
+    },
+    {
+      "id": "Legendary Resistance",
+      "name": "Resistenza Leggendaria",
+      "description": "<p>Se &lt;creature&gt; fallisce un tiro salvezza, pu&ograve; scegliere invece di superarlo.</p>"
+    },
+    {
+      "id": "Light Sensitivity",
+      "name": "Sensibilità alla Luce del Sole",
+      "description": "<p>Finch&eacute; &egrave; esposto alla luce del sole, &lt;creature&gt; subisce svantaggio ai tiri per colpire, oltre che alle prove di Saggezza (Percezione) basate sulla vista.</p>"
+    },
+    {
+      "id": "Lightning Absorption",
+      "name": "Assorbimento del Fulmine",
+      "description": "<p>Ogni volta che il &lt;creature&gt; è soggetto a danni da fulmine, non subisce danni e recupera invece un&nbsp;numero di punti ferita pari ai danni da fulmine inflitti.</p>"
+    },
+    {
+      "id": "Lightning Breath",
+      "name": "Soffio di Fulmini",
+      "description": "<p>The &lt;creature&gt; exhales lightning in a <strong>30-foot</strong> line that is <strong>5 feet</strong></strong> wide. Each creature in that line must make a <strong>DC 12 Dexterity saving throw</strong>, taking <strong>22 ([[/r 4d10]]) lightning</strong> damage on a failed save, or half as much damage on a successful one.</p> "
+    },
+    {
+      "id": "Limited Telepathy",
+      "name": "Telepatia Limitata",
+      "description": "<p>&lt;creature&gt; può trasmettere telepaticamente idee, emozioni e immagini semplici a qualsiasi creatura situata entro 36 metri da lui e che sia in grado di comprendere un linguaggio.</p>"
+    },
+    {
+      "id": "Luring Song",
+      "name": "Canto Seducente",
+      "description": "<p>&lt;creature&gt; intona una melodia magica. Ogni umanoide e gigante situato entro 90 metri da &lt;creature&gt; e che sia in grado di udire il canto deve superare un tiro salvezza su Saggezza con CD 11, altrimenti è affascinato finché il canto non termina. &lt;creature&gt; deve effettuare un’azione bonus nei suoi turni successivi per continuare a cantare, ma può smettere di cantare in qualsiasi momento. Se &lt;creature&gt; è incapacitata, il canto termina. Finché è affascinato dal &lt;creature&gt;, un bersaglio è incapacitato e ignora i canti delle altre arpie. Se il bersaglio affascinato si trova a più di 1,5 metri di distanza dal &lt;creature&gt;, esso deve muoversi nel proprio turno verso &lt;creature&gt; seguendo il percorso più diretto e cercando di giungere entro 1,5 metri, il bersaglio non evita gli attacchi di opportunità, ma prima di muoversi su un terreno pericoloso (come per esempio un lago di lava o una fossa) e qualora subisca danni da una fonte diversa dal &lt;creature&gt;, può ripetere il tiro salvezza. Un bersaglio affascinato può ripetere il tiro salvezza alla fine di ogni suo turno. Se lo supera, l’effetto per lui termina. Un bersaglio che supera il tiro salvezza è immune al canto di questa &lt;creature&gt; per le 24 ore successive.</p>"
+    },
+    {
+      "id": "Magic Resistance",
+      "name": "Resistenza Magica",
+      "description": "<p>Il &lt;creature&gt; dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.</p>"
+    },
+    {
+      "id": "Magic Weapons",
+      "name": "Armi Magiche",
+      "description": "<p>Gli attacchi con arma della &lt;creature&gt; sono magici.</p>"
+    },
+    {
+      "id": "Martial Advantage",
+      "name": "Vantaggio Marziale",
+      "description": "<p>Una volta per turno, &lt;creature&gt;può infliggere 7&nbsp;<strong>([[/r 2d6]])</strong> danni extra a una creatura che colpisce con un attacco con arma, se quella creatura si trova entro 1,5 metri da un alleato dell' &lt;creature&gt; che non sia Incapacitato.</p>"
+    },
+    {
+      "id": "Moan",
+      "name": "Gemito",
+      "description": "<p>Ogni creatura entro 18 metri dal &lt;creature&gt; che possa sentire il suo gemito e che non sia un'aberrazione deve superare un tiro salvezza su Saggezza con CD 13, altrimenti è spaventata fino alla fine del turno successivo del &lt;creature&gt;. Se la creatura supera il tiro salvezza, è immune al gemito del &lt;creature&gt;&nbsp;per le 24 ore successive.</p>"
+    },
+    {
+      "id": "Multiattack",
+      "name": "Multiattacco",
+      "description": "<p>Quando &lt;creature&gt; fa un'azione di attacco, attacca &lt;#&gt; usando &lt;details&gt;.</p>"
+    },
+    {
+      "id": "Multiple Heads",
+      "name": "Teste Multiple",
+      "description": "<p>L'&lt;creature&gt; possiede &lt;#&gt; teste. Finché possiede più di una testa, dispone di vantaggio ai tiri salvezza contro le condizioni di accecato, affascinato, assordato, privo di sensi, spaventato e stordito. Ogni volta che l’&lt;creature&gt; subisce 25 o più danni in un singolo turno, una delle teste muore. Se tutte le teste muoiono, l’&lt;creature&gt; muore. Alla fine del suo turno, due teste ricrescono per ogni testa morta a partire dalla fine del suo turno precedente, a meno che nel corso di tale periodo non abbia subito danni da fuoco. L’&lt;creature&gt;&nbsp;recupera 10 punti ferita per ogni testa ricresciuta in questo modo.</p>"
+    },
+    {
+      "id": "Nightmare Haunting",
+      "name": "Infestare Incubi",
+      "description": "<p>Finch&eacute; si trova sul Piano Etereo, la &lt;creature&gt; tocca magicamente un umanoide addormentato sul Piano Materiale. Un incantesimo protezione dal bene e dai male lanciato sul bersaglio impedisce questo contatto, come anche un cerchio magico. Fintanto ch&eacute; il contatto persiste il bersaglio &egrave; tormentato da orrende visioni. Se queste visioni durano almeno 1 ora, il bersaglio non ottiene alcun beneficio dal suo riposo e il suo massimo dei punti ferita &egrave; ridotto di&nbsp;<strong>5 ([[/r 1d10]])</strong>. Se questo effetto riduce i massimo dei punti ferita del bersaglio a 0, il bersaglio muore e, se era malvagio, la sua anima resta intrappolata nella borsa dell'anima della &lt;creature&gt;. La riduzione al massimo dei punti ferita del bersaglio dura finch&eacute; non viene rimossa da un incantesimo ristorare superiore o da una magia analoga.</p>"
+    },
+    {
+      "id": "Nimble Escape",
+      "name": "Fuga Agile",
+      "description": "<p>Il &lt;creature&gt; pu&ograve; effettuare l&rsquo;azione di Disimpegno o Nascondersi come azione bonus a ogni suo turno.</p>"
+    },
+    {
+      "id": "Ooze Cube",
+      "name": "Cubo di Melma",
+      "description": "<p>Il &lt;creature&gt; occupa il suo intero spazio. Le altre creature possono entrare nello spazio, ma una creatura che lo fa &egrave; soggetta alla capacit&agrave; di Avviluppare del &lt;creature&gt; e subisce svantaggio al tiro salvezza. Le creature all&rsquo;interno del &lt;creature&gt; possono essere viste, ma beneficiano di copertura totale. Una creatura entro 1,5 metri dal &lt;creature&gt; pu&ograve; effettuare un&rsquo;azione per tirare fuori dal &lt;creature&gt; una creatura o un oggetto. Per farlo &egrave; necessario effettuare con successo una prova di Forza con CD 12 e la creatura che effettua il tentativo subisce 10 (3d6) danni da acido. Il &lt;creature&gt; pu&ograve; contenere al suo interno simultaneamente solo una creatura Crande o fino a quattro creature di taglia Media o inferiore.</p>"
+    },
+    {
+      "id": "Pack Tactics",
+      "name": "Tattiche del Branco",
+      "description": "<p>Il &lt;creature&gt; dispone di vantaggio a un tiro per colpire contro una creatura se almeno uno degli alleati dei &lt;creature&gt; si trova entro 1,5 metri dalla creatura e non &egrave; incapacitato.</p>"
+    },
+    {
+      "id": "Paralyzing Breath",
+      "name": "Soffio Paralizzante",
+      "description": "<p>Il &lt;creature&gt; esala gas paralizzante in un cono di 4,5 metri. Ogni creatura in quell'area deve superare un tiro salvezza su Costituzione con CD 13, altrimenti &egrave; paralizzata per 1 minuto. Una creatura pu&ograve; ripetere il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto per lei termina.</p>"
+    },
+    {
+      "id": "Paralyzing Touch",
+      "name": "Tocco Paralizzante",
+      "description": "<p>Il &lt;creature&gt; usa il suo Tocco Paralizzante.</p>"
+    },
+    {
+      "id": "Parry",
+      "name": "Parata",
+      "description": "<p>Il &lt;creature&gt; aggiunge 2 alla sua CA contro un attacco in mischia che lo colpirebbe. Per farlo, il &lt;creature&gt; deve vedere l&rsquo;attaccante e deve impugnare un'arma da mischia.</p>"
+    },
+    {
+      "id": "Petrifying Breath",
+      "name": "Soffio Pietrificante",
+      "description": "<p>La &lt;creature&gt; esala gas pietrificante in un cono di 9 metri. Ogni creatura in quell&rsquo;area deve superare un tiro salvezza su Costituzione con CD 13, altrimenti inizia a trasformarsi in pietra ed &egrave; Trattenuta. Il bersaglio Trattenuto deve ripetere il tiro salvezza alla fine del suo turno successivo. Se lo supera, l'effetto per lui termina; mentre se lo fallisce, &egrave; Pietrificato finch&eacute; non viene liberato da un incantesimo Ristorare Superiore o da una magia analoga.</p>"
+    },
+    {
+      "id": "Petrifying Gaze",
+      "name": "Sguardo Pietrificante",
+      "description": "<p>Se una creatura inizia il proprio turno entro 9 metri dal &lt;creature&gt; e i due sono in grado di vedersi a vicenda, il &lt;creature&gt; pu&ograve; obbligare la creatura a effettuare un tiro salvezza su Costituzione con CD 12 (se non &egrave; incapacitato). Se la creatura fallisce, inizia a trasformarsi magicamente in pietra ed &egrave; Trattenuta. Deve ripetere il tiro salvezza alla fine del suo turno successivo. Se lo supera, l&rsquo;effetto termina. Se lo fallisce, la creatura &egrave; Pietrificata finch&eacute; non viene liberata tramite un incantesimo Ristorare Superiore o un&rsquo;altra magia analoga. Se una creatura non &egrave; sorpresa, pu&ograve; distogliere lo sguardo allo scopo di evitare il tiro salvezza all&rsquo;inizio del proprio turno. Se lo fa, non pu&ograve; vedere il &lt;creature&gt; fino all'inizio del proprio turno successivo, quando potr&agrave; distogliere lo sguardo di nuovo. Se nel frattempo guarda il &lt;creature&gt;, deve immediatamente effettuare il tiro salvezza. Se il &lt;creature&gt;vede il suo riflesso entro 9 metri da s&eacute; in condizioni di luce intensa, crede erroneamente che il suo riflesso sia un rivale e bersaglia se stesso col suo sguardo.</p>"
+    },
+    {
+      "id": "Phantasms",
+      "name": "Allucinazioni",
+      "description": "<p>Il &lt;creature&gt; crea magicamente tre duplicati illusori di se stesso se non è esposto alla luce intensa. I duplicati si muovono assieme a lui e imitano le sue azioni, scambiandosi di posizione in modo che sia impossibile capire quale &lt;creature&gt; sia quello vero. Se il &lt;creature&gt; si trova in un'area di luce intensa, i duplicati scompaiono. Ogni volta che una creatura bersaglia il &lt;creature&gt; con un attacco o un incantesimo dannoso finché permane un duplicato, quella creatura effettua un tiro casuale per determinare se bersaglia il &lt;creature&gt; o uno dei suoi duplicati. Una creatura non è influenzata da questo effetto magico se non può vedere o se si affida a sensi diversi dalla vista. Un duplicato possiede la CA del &lt;creature&gt; e usa i suoi tiri salvezza. Se un attacco colpisce un duplicato o se un duplicato fallisce un tiro salvezza contro un effetto che infligge danni, quel duplicato scompare.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Poison Breath",
+      "name": "Soffio di Veleno",
+      "description": "<p>Il &lt;creature&gt; esala gas velenoso in un cono di 9 metri. Ogni creatura in quell&rsquo;area deve effettuare un tiro salvezza su Costituzione con CD 14; se lo fallisce, subisce 42 (12d6) danni da veleno, mentre se lo supera, subisce la met&agrave; di quei danni.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Possession",
+      "name": "Possessione",
+      "description": "<p>Un umanoide situato entro 1,5 metri dal &lt;creature&gt; e che quest'ultimo sia in grado di vedere deve superare un tiro salvezza su Carisma con CD 13, altrimenti &egrave; posseduto dal &lt;creature&gt;; poi il &lt;creature&gt; scompare e il bersaglio &egrave; incapacitato e perde il controllo del suo corpo. Ora il &lt;creature&gt; controlla il corpo del bersaglio, ma senza privarlo della sua consapevolezza. Il &lt;creature&gt; non pu&ograve; essere bersagliato da alcun attacco, incantesimo o altro effetto, ad eccezione di quelli che scacciano i non morti, e conserva allineamento, Intelligenza, Saggezza, Carisma e immunit&agrave; alle condizioni di affascinato e spaventato. Sotto ogni altro aspetto usa le statistiche del bersaglio posseduto, ma non accede alle conoscenze, ai privilegi di classe o alle competenze del bersaglio. La possessione dura finch&eacute; il corpo non scende a 0 punti ferita, il &lt;creature&gt; non la termina usando un'azione bonus o il &lt;creature&gt; non &egrave; scacciato o obbligato ad abbandonare il corpo da un effetto come l'incantesimo dissolvi il bene e il male. Quando la possessione termina, il &lt;creature&gt; ricompare in uno spazio libero entro 1,5 metri dal corpo, il bersaglio &egrave; immune alla Possessione di questo &lt;creature&gt; per 24 ore dopo avere superato il tiro salvezza o dopo che la possessione &egrave; terminata.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Pounce",
+      "name": "Balzo",
+      "description": "<p>Se il &lt;creature&gt; si muove di almeno 6 metri in linea retta verso una creatura e poi la colpisce con un attacco con gli artigli nello stesso turno, quel bersaglio deve superare un tiro salvezza su Forza con CD 12, altrimenti cade a terra prono. Se il bersaglio &egrave; prono, il &lt;creature&gt; pu&ograve; effettuare un attacco con il morso contro di esso come azione bonus.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Pseudopod",
+      "name": "Pseudopodo",
+      "description": "<p>La &lt;creatura&gt; si estende con uno allungato pseudopodo di impetuosa melma.</p>"
+    },
+    {
+      "id": "Rampage",
+      "name": "Furia",
+      "description": "<p>Quando la &lt;creature&gt; riduce una creatura a 0 punti ferita con un attacco in mischia nel suo turno, la &lt;creature&gt; può effettuare un’azione bonus per muoversi fino a metà della sua velocità ed effettuare un attacco con il morso.</p>"
+    },
+    {
+      "id": "Reactive Heads",
+      "name": "Teste Reattive",
+      "description": "<p>Per ogni testa che l'&lt;creature&gt; possiede oltre la prima, riceve una reazione extra che pu&ograve; essere usata soltanto per gli attacchi di opportunit&agrave;.</p>"
+    },
+    {
+      "id": "Read Thoughts",
+      "name": "Lettura del Pensiero",
+      "description": "<p>Il &lt;creature&gt; pu&ograve; leggere magicamente i pensieri superficiali di una creatura entro 18 metri da lui. Questo effetto pu&ograve; penetrare le barriere, ma 90 centimetri di legno o terriccio, 60 centimetri di pietra, 5 centimetri di metallo o una sottile lamina di piombo lo bloccano. Mentre il bersaglio si trova entro gittata, il &lt;creature&gt; pu&ograve; continuare a leggere i suoi pensieri fintanto che la sua concentrazione non si interrompe (come se si concentrasse su un incantesimo). Quando legge i pensieri del bersaglio, il &lt;creature&gt; dispone di vantaggio alle provedi Saggezza (Intuizione) e Carisma (Inganno, Intimidire e Persuasione) contro il bersaglio.</p>"
+    },
+    {
+      "id": "Reckless",
+      "name": "Avventato",
+      "description": "<p>All&rsquo;inizio del suo turno, il &lt;creature&gt; pu&ograve; ottenere vantaggio a tutti i tiri per colpire con le armi da mischia che effettua in quel turno, ma i tiri per colpire contro di lui dispongono di vantaggio fino all'inizio del suo turno successivo.</p>"
+    },
+    {
+      "id": "Reel",
+      "name": "Riavvolgere",
+      "description": "<p>Il &lt;creature&gt; tira verso di s&eacute; ogni creatura che ha&nbsp; afferrato per un massimo di 7,5 metri.</p>"
+    },
+    {
+      "id": "Regeneration",
+      "name": "Rigenerazione",
+      "description": "<p>Il &lt;creature&gt; recupera 10 punti ferita all&rsquo;inizio del suo turno. Se &lt;condition&gt;, questo tratto non funziona all&rsquo;inizio del turno successivo del &lt;creature&gt;.</p>"
+    },
+    {
+      "id": "Rejuvination",
+      "name": "Ringiovanimento",
+      "description": "<p>&lt;descrivere le condizioni in cui la creatura ritorna&gt;</p>"
+    },
+    {
+      "id": "Relentless",
+      "name": "Implacabile",
+      "description": "<p>Se il &lt;creature&gt; subisce 10 o meno danni che lo porterebbero a 0 punti ferita, &egrave; ridotto invece a 1 punto ferita.</p>"
+    },
+    {
+      "id": "Repulsion Breath",
+      "name": "Soffio Respingente",
+      "description": "<p>Il &lt;creature&gt; esala energia respingente in un&nbsp; cono di 9 metri. Ogni &lt;creature&gt; in quell'area deve superare un&nbsp;tiro salvezza su Forza con CD 12; se lo fallisce, viene spinta 9 metri pi&ugrave; lontana dal &lt;creature&gt;.</p>"
+    },
+    {
+      "id": "Rock Catching",
+      "name": "Afferrare Roccia",
+      "description": "<p>Se una roccia o un oggetto simile viene scagliato contro il &lt;creature&gt;, quest'ultimo pu&ograve; afferrare il proiettile superando un tiro salvezza su Destrezza con CD 10, nel qual caso non subisce danni contundenti da esso.</p>"
+    },
+    {
+      "id": "Running Leap",
+      "name": "Balzo in Corsa",
+      "description": "<p>Dopo una rincorsa di 3 metri, il &lt;creature&gt; può effettuare un salto in lungo di un massimo di 7,5 metri.</p>"
+    },
+    {
+      "id": "Rust Metal",
+      "name": "Arrugginire",
+      "description": "<p>Ogni arma non magica fatta di metallo che colpisca il &lt;creature&gt; si corrode. Dopo avere inflitto danni, l'arma subisce una penalit&agrave; permanente e cumulativa di -1 ai tiri per i danni. Se la sua penalit&agrave; scende a -5, l'arma &egrave; distrutta, le munizioni non magiche fatte di metallo che colpiscono il &lt;creature&gt; si distruggono dopo avere inflitto danni.</p>"
+    },
+    {
+      "id": "Scare",
+      "name": "Spaventare",
+      "description": "<p>Una creatura a scelta del &lt;creature&gt; e situata entro 6 metri da lui deve superare un tiro salvezza su Saggezza con CD 10, altrimenti &egrave; Spaventata per 1 minuto. Il bersaglio pu&ograve; ripetere il tiro salvezza alla fine di ogni suo turno, subendo svantaggio se il &lt;creature&gt; si trova entro linea di vista: se il bersaglio supera il tiro salvezza, l'effetto per lui termina.</p>"
+    },
+    {
+      "id": "Sense Magic",
+      "name": "Percezione della Magia",
+      "description": "<p>Il &lt;creature&gt; percepisce la magia entro 36 metri da sé a volontà. Sotto ogni altro aspetto questo tratto funziona come l’incantesimo @Compendium[dnd5e.spells.ghXTfe7sgCbgf1Q8]{Individuazione del Magico}, ma di per sé non è magico.</p>"
+    },
+    {
+      "id": "Shadow Stealth",
+      "name": "Furtività d'Ombra",
+      "description": "<p>Finch&eacute; si trova in condizioni di luce fioca o oscurit&agrave;, il &lt;creature&gt; pu&ograve; effettuare l&rsquo;azione di Nascondersi&nbsp;come azione bonus.</p>"
+    },
+    {
+      "id": "Shapechanger",
+      "name": "Mutaforma",
+      "description": "<p>Il &lt;creature&gt; pu&ograve; usare la sua azione per trasformarsi in un oggetto o pertornare alla sua forma naturale, che &egrave; amorfa. Le sue statistiche restano le stesse in ogni forma. Ogni oggetto che indossa o trasporta non viene trasformato. Se muore, il &lt;creature&gt; torna alla sua forma naturale.</p>"
+    },
+    {
+      "id": "Shark Telepathy",
+      "name": "Telepatia con gli Squali",
+      "description": "<p>Il &lt;creature&gt; pu&ograve; comandare magicamente ogni squalo entro 36 metri da lui, usando una forma limitata di telepatia.</p>"
+    },
+    {
+      "id": "Shielded Mind",
+      "name": "Mente Schermata",
+      "description": "<p>Il &lt;creature&gt; &egrave; immune agli scrutamenti e a qualsiasi effetto che possa percepire le sue emozioni, leggere i suoi pensieri o individuare la sua posizione.</p>"
+    },
+    {
+      "id": "Shimmering Shield",
+      "name": "Scudo Scintillante",
+      "description": "<p>L'&lt;creature&gt;crea un campo magico scintillante attorno a sé o a un'altra creatura situata entro 18 metri da lui e che esso sia in grado di vedere. Il bersaglio ottiene un bonus di +2 alla CA fino alla fine del turno successivo dell'&lt;creature&gt;.</p>"
+    },
+    {
+      "id": "Shock",
+      "name": "Folgore",
+      "description": "<p>Il &lt;creature&gt; scarica un impulso di energia elettrica attraverso il tuo corpo.</p>"
+    },
+    {
+      "id": "Shriek",
+      "name": "Stridio",
+      "description": "<p>Quando una luce intensa o una creatura si trova entro 9 metri dal &lt;creature&gt;, esso emette uno stridio udibile nel raggio di 90 metri. Il &lt;creature&gt;&nbsp;continua a stridere finch&eacute; la fonte del disturbo non si sposta fuori portata e per [[/r 1d4]] turni successivi dei boleto stridente.</p>"
+    },
+    {
+      "id": "Siege Monster",
+      "name": "Mostro da Assedio",
+      "description": "<p>Il &lt;creature&gt; infligge danni doppi agli oggetti e alle strutture.</p>"
+    },
+    {
+      "id": "Sleep Breath",
+      "name": "Soffio di Sonno",
+      "description": "<p>Il &lt;creature&gt; esala gas soporifero in un cono di 9 metri. Ogni creatura in quell'area deve superare un tiro salvezza su Costituzione con CD 14, altrimenti &egrave; priva di sensi per 5 minuti. Questo effetto termina per una creatura se essa subisce danni o se qualcuno usa un'azione per risvegliarla.</p>"
+    },
+    {
+      "id": "Slowing Breath",
+      "name": "Soffio Rallentante",
+      "description": "<p>Il &lt;creature&gt;&nbsp;esala gas in un cono di 9 metri. Ogni creatura in quell&rsquo;area deve superare un tiro salvezza su Costituzione con CD 14; se lo fallisce, non pu&ograve; usare reazioni, la sua velocit&agrave; &egrave; dimezzata e non pu&ograve; effettuare pi&ugrave; di un attacco nel suo turno. Inoltre, nel suo turno la creatura pu&ograve; usare un'azione o un&rsquo;azione bonus, ma non entrambe. Questi effetti durano 1 minuto. La creatura pu&ograve; ripetere il tiro salvezza alla fine di ogni suo turno e, se lo supera, l&rsquo;effetto per lei termina.</p>"
+    },
+    {
+      "id": "Sneak Attack",
+      "name": "Attacco Furtivo",
+      "description": "<p>Una volta per turno, la &lt;creature&gt; infligge 7 (2d6) danni extra quando colpisce un bersaglio con un attacco con un'arma e dispone di vantaggio al tiro per colpire, oppure quando il bersaglio si trova entro 1,5 metri da un alleato della &lt;creature&gt; (purché l'alleato non sia incapacitato e la &lt;creature&gt; non subisca svantaggio al tiro per colpire).</p>"
+    },
+    {
+      "id": "Snow Camouflage",
+      "name": "Mimetismo sulla Neve",
+      "description": "<p>Lo &lt;creature&gt; disponedi vantaggio alle prove di Destrezza (Furtivit&agrave;) effettuate per nascondersi nei terreni innevati.</p>"
+    },
+    {
+      "id": "Speak with Beasts and Plants",
+      "name": "Parlare con le Bestie e i Vegetali",
+      "description": "<p>La &lt;creature&gt; pu&ograve; comunicare con le bestie e i vegetali come se condividesse con loro un&nbsp;linguaggio.</p>"
+    },
+    {
+      "id": "Spell Immunity",
+      "name": "Immunità agli Incantesimi",
+      "description": "<p>L'&lt;creature&gt;&nbsp;&egrave; immune a tre incantesimi scelti dal suo creatore. Le immunit&agrave; tipiche includono fulmine, palla di fuoco e riscaldare il metallo.</p>"
+    },
+    {
+      "id": "Spell Storing",
+      "name": "Incantesimo Custodito",
+      "description": "<p>Un incantatore che indossa l'amuleto del &lt;creature&gt; pu&ograve; fare in modo che il &lt;creature&gt; custodisca un incantesimo di 4&deg; livello o inferiore. Per farlo, il portatore deve lanciare l'incantesimo sul &lt;creature&gt;. L&rsquo;incantesimo non ha effetto, ma &egrave; custodito all'interno del &lt;creature&gt;. Quando il portatore gli ordina di farlo o quando si verifica una condizione predefinita dall&rsquo;incantatore, il &lt;creature&gt; lancia l'incantesimo custodito usando gli eventuali parametri stabiliti dall&rsquo;incantatore originale e senza bisogno di componenti. Quando l'incantesimo viene lanciato o se un nuovo incantesimo viene custodito nel &lt;creature&gt;, l&rsquo;eventuale incantesimo custodito in precedenza va perduto.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Spellcasting",
+      "name": "Incantesimi",
+      "description": "<p>L'&lt;creature&gt; &egrave; un incantatore di &lt;#&gt;&deg; livello: la sua caratteristica da incantatore &egrave; &lt;ability&gt; (tiro salvezza degli incantesimi CD 13, +5 al tiro per colpire degli attacchi con incantesimo). Riguadagni gli slot spesi quando finisce un riposo breve o lungo. Conosce i seguenti incantesimi da warlock:</p><p>&lt;spell list&gt;</p>"
+    },
+    {
+      "id": "Spider Climb",
+      "name": "Movimenti del Ragno",
+      "description": "<p><span style=\"color: #111111;\"><span style=\"color: #111111;\">Il&nbsp;</span><span style=\"color: #111111;\">&lt;creature&gt; </span><span style=\"color: #111111;\">pu&ograve; scalare le superfici difficili, inclusi i soffitti, lungo i quali si muove a testa in gi&ugrave;, senza effettuare una prova di caratteristica.</span></span></p>"
+    },
+    {
+      "id": "Split",
+      "name": "Scindersi",
+      "description": "<p>Quando un &lt;creature&gt; di taglia Media o superiore &egrave; soggetto a danni da fulmine o a danni taglienti, si scinde in due nuovi &lt;creature&gt; se possiede almeno 10 punti ferita. Ogm nuovo &lt;creature&gt; ha un ammontare di punti ferita pari alla met&agrave; del &lt;creature&gt; originale, arrotondando per difetto. I nuovi &lt;creature&gt; sono inferiori di una taglia rispetto al &lt;creature&gt; originale.</p>"
+    },
+    {
+      "id": "Spores",
+      "name": "Spore",
+      "description": "<p>Il &lt;creature&gt; diffonde una nube di spore tossiche entro un raggio di 4,5 metri. Le spore si diffondono oltre gli angoli. Ogni creatura in quell'area deve superare un tiro salvezza su Costituzione con CD 14, altrimenti &egrave; Avvelenata. Finch&eacute; &egrave; Avvelenato in questo modo, un bersaglio subisce <strong>5 ([[/r 1d10]]) </strong>danni da veleno all'inizio di ogni suo turno, ma pu&ograve; ripetere il tiro salvezza alla fine di ogni suo turno e, se lo supera, l&rsquo;effetto per lui termina. Anche svuotando una fiala d'acqua santa sul bersaglio si pone termine a'I&rsquo;effetto su di lui.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Standing Leap",
+      "name": "Balzo da Fermo",
+      "description": "<p>Il &lt;creature&gt;&nbsp;pu&ograve; compiere un salto in lungo di in massimo di 9 metri e un salto in alto di un massimo di 4,5 metri, con o senza rincorsa.</p>"
+    },
+    {
+      "id": "Steadfast",
+      "name": "Nervi Saldi",
+      "description": "<p>Il &lt;creature&gt; non pu&ograve; essere spaventato finch&eacute; vede una creatura alleata entro 9 metri da s&eacute;.</p>"
+    },
+    {
+      "id": "Steam Breath",
+      "name": "Soffio di Vapore",
+      "description": "<p>Il &lt;creature&gt; esala vapore rovente in un cono di 4,5 metri. Ogni creatura in quell'area deve effettuare un tiro salvezza su Destrezza con CD 10; se lo fallisce, subisce 4 (1d8) danni da fuoco, mentre se lo supera, subisce la metà di quei danni.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Stench",
+      "name": "Fetore",
+      "description": "<p>Ogni creatura che inizi il suo turno entro 1,5 metri dal &lt;creature&gt; deve superare un tiro salvezza su Costituzione con CD 10, altrimenti &egrave; avvelenata fino all'inizio del proprio turno successivo. Se supera il tiro salvezza, la creatura &egrave; immune al Fetore del &lt;creature&gt; per 24 ore.</p>"
+    },
+    {
+      "id": "Stone Camouflage",
+      "name": "Mimetismo nella Pietra",
+      "description": "<p>Il &lt;creature&gt; dispone di vantaggio alle prove di Destrezza (Furtivit&agrave;) effettuate per nascondersi nei terreni rocciosi.</p>"
+    },
+    {
+      "id": "Stunning Screech",
+      "name": "Stridio Stordente",
+      "description": "<p>Il &lt;creature&gt; emette un orrendo stridio. Ogni creatura situata entro 6 metri da esso che sia in grado di udirlo e che non sia un demone deve superare un tiro salvezza su Costituzione con CD 14, altrimenti &egrave; stordita fino alla fine del turno successivo del &lt;creature&gt;.</p>"
+    },
+    {
+      "id": "Sunlight Weakness",
+      "name": "Debolezza alla Luce del Sole",
+      "description": "<p>Finché è esposta alla luce del sole, l'&lt;creature&gt; subisce svantaggio ai tiri per colpire, alle prove di caratteristica e ai tiri salvezza.</p>"
+    },
+    {
+      "id": "Sure-Footed",
+      "name": "Ben Piantato",
+      "description": "<p>La &lt;creature&gt; dispone di vantaggio ai tiri salvezza su Forza e Destrezza effettuati contro gli effetti che la butterebbero aterra prona.</p>"
+    },
+    {
+      "id": "Surprise Attack",
+      "name": "Attacco a Sorpresa",
+      "description": "<p>Se il &lt;creature&gt; sorprende una creatura e la colpisce con un attacco durante il primo round di combattimento, il bersaglio subisce&nbsp;<strong>10 ([[/r 3d6]])</strong>&nbsp;danni extra dall'attacco.</p>"
+    },
+    {
+      "id": "Swarm",
+      "name": "Sciame",
+      "description": "<p>Lo sciame pu&ograve; occupare lo spazio di un'altra creatura e viceversa, e pu&ograve; muoversi attraverso qualsiasi apertura sufficientemente larga da far passare un &lt;creature&gt; Minuscolo. Lo sciame non pu&ograve; recuperare punti ferita, n&eacute; ottenere punti ferita temporanei.</p>"
+    },
+    {
+      "id": "Mimicry",
+      "name": "Imitare",
+      "description": "<p>Il &lt;creature&gt; può imitare qualsiasi suono abbia sentito, incluse le voci. Una creatura che sente il suono può capire che si tratta di un’imitazione effettuando con successo una prova di Saggezza (Intuizione) con CD 14.</p>"
+    },
+    {
+      "id": "Tail",
+      "name": "Coda",
+      "description": "<p>Attacco generico di coda, rimpiazzare con la descrizione specifica del &lt;creature&gt;.</p>"
+    },
+    {
+      "id": "Tail Spike Regrowth",
+      "name": "Ricrescita degli Aculei Caudali",
+      "description": "<p>La &lt;creature&gt; possiede &lt;#&gt; aculei caudali. Quelli usati ricrescono quando la &lt;creature&gt; completa un riposo lungo.</p>"
+    },
+    {
+      "id": "Talons",
+      "name": "Speroni",
+      "description": "<p><span style=\"color: #191813; font-size: 13px;\">Attacco generico con gli Speroni, rimpiazzare con la descrizione specifica del &lt;creature&gt;.</span></p>"
+    },
+    {
+      "id": "Telepathic Bond",
+      "name": "Legame Telepatico",
+      "description": "<p>Finch&eacute; l'&lt;creature&gt; si trova sullo stesso piano di esistenza del suo padrone, pu&ograve; trasmettere magicamente ci&ograve; che percepisce al suo padrone e i due&nbsp;possono comunicare telepaticamente.</p>"
+    },
+    {
+      "id": "Teleport",
+      "name": "Teletrasporto",
+      "description": "<p>La &lt;creature&gt;&nbsp;si teletrasporta&nbsp;magicamente, assieme a ogni oggetto che indossa o trasporta, in uno spazio libero situato entro 12 metri da lei e che essa sia in grado di vedere.</p>"
+    },
+    {
+      "id": "Tentacle Slam",
+      "name": "Schianto con Tentacolo",
+      "description": "<p>L&rsquo;&lt;creature&gt; schianta tra loro o contro una superficie solida le creature che ha afferrato. Ogni creatura deve superare un tiro salvezza su Costituzione con CD 14, altrimenti subisce 10 (2d6 + 3) danni contundenti ed &egrave; stordita fino alla fine del turno successivo dell&rsquo;&lt;creature&gt;. Se supera il tiro salvezza, il bersaglio subisce la met&agrave; dei danni contundenti e non &egrave; stordito.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Trampling Charge",
+      "name": "Carica Travolgente",
+      "description": "<p>Se l'&lt;creature&gt; si muove di almeno 6 metri in linea retta verso una creatura e poi la colpisce con un attacco con le zanne nello stesso turno, quel bersaglio deve superare un tiro salvezza su Forza con CD 12, altrimenti cade a terra prono. Se il bersaglio &egrave; prono, l&rsquo;&lt;creature&gt;&nbsp;pu&ograve; effettuare un attacco per calpestare contro di esso come azione bonus.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Transparent",
+      "name": "Trasparente",
+      "description": "<p>Anche quando il &lt;creature&gt; &egrave; in piena vista, &egrave; necessario effettuare con successo una prova di Saggezza (Percezione) con CD 15 per avvistare un &lt;creature&gt; che non si &egrave; mosso o non ha attaccato. Una creatura che cerca di entrare nello spazio del &lt;creature&gt; senza essere consapevole della sua presenza &egrave; sorpresa dal &lt;creature&gt;.</p>"
+    },
+    {
+      "id": "Treasure Sense",
+      "name": "Percezione dei Tesori",
+      "description": "<p>Lo &lt;creature&gt; può individuare, tramite l'olfatto,&nbsp;l'ubicazione precisa di metalli e pietre preziose, come monete o gemme, entro 18 metri da lui.</p>"
+    },
+    {
+      "id": "Tree Stride",
+      "name": "Passo Arboreo",
+      "description": "<p>Per una volta nel suo turno, la &lt;creature&gt; pu&ograve; usare 3 metri del suo movimento per entrare magicamente in un albero vivente entro la sua portata e uscire da un secondo albero vivente situato entro 18 metri dal primo, comparendo in uno spazio libero entro 1,5 metri dal secondo albero. Entrambi gli alberi devono essere di taglia Grande o superiore.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Turn Resistance",
+      "name": "Resistenza allo Scacciare",
+      "description": "<p>Il &lt;creature&gt; dispone di vantaggio ai tiri&nbsp;salvezza contro qualsiasi effetto che scaccia non morti.</p>"
+    },
+    {
+      "id": "Turning Defiance",
+      "name": "Scacciare Contrastato",
+      "description": "<p>Il &lt;creature&gt; e ogni ghoul entro 9 metri da esso dispongono di vantaggio ai tiri salvezza contro gli effetti che scacciano &igrave; non morti.</p>"
+    },
+    {
+      "id": "Two-Headed",
+      "name": "Due Teste",
+      "description": "<p>Il &lt;creature&gt; dispone di vantaggio alle prove di Saggezza (Percezione) e ai tiri salvezza contro le condizioni di accecato, affascinato, assordato, privo di sensi, spaventato e stordito.</p>"
+    },
+    {
+      "id": "Undead Fortitude",
+      "name": "Tempra dei Non Morti",
+      "description": "<p>Se i danni riducono lo &lt;creature&gt; a 0 punti ferita, esso deve effettuare un tiro salvezza su Costituzione con una CD pari a 5 + i danni subiti, a meno che non si tratti di danni radiosi o di un colpo critico. Se ha successo, lo &lt;creature&gt; scende invece a 1 punto ferita.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Underwater Camouflage",
+      "name": "Mimetismo Acquatico",
+      "description": "<p>La &lt;creature&gt; dispone di vantaggio alle prove di Destrezza (Furtivit&agrave;) effettuate finch&eacute; si trova sott'acqua</p>"
+    },
+    {
+      "id": "Unnerving Mask",
+      "name": "Maschera Snervante",
+      "description": "<p>Quando una creatura che il &lt;creature&gt; &egrave; in grado di vedere inizia il proprio turno entro 9 metri dal &lt;creature&gt;, quest&rsquo;ultimo pu&ograve; creare un&rsquo;illusione che lo fa apparire come una persona scomparsa cara alla creatura o come un suo acerrimo nemico. Se la creatura pu&ograve; vedere il &lt;creature&gt;, deve superare un tiro salvezza su Saggezza con CD 14, altrimenti &egrave; spaventata fino alla fine del proprio turno.</p>"
+    },
+    {
+      "id": "Vampire Weaknesses",
+      "name": "Debolezze dei Vampiri",
+      "description": "<p>Il&nbsp;&nbsp;&lt;creature&gt; &nbsp;possiede i difetti seguenti:</p><p><strong>Proibizione</strong>. Il&nbsp;&nbsp;&lt;creature&gt; non pu&ograve; entrare in una dimora se non viene invitato da uno degli occupanti.</p><p><strong>Danneggiato dall&rsquo;Acqua Corrente</strong>. Il&nbsp;&nbsp;&lt;creature&gt; subisce 20 danni da acido se termina il suo turno nell'acqua corrente.</p><p><strong>Paletto nel Cuore.</strong> Se un'arma perforante fatta di legno viene piantata nel cuore del&nbsp;&nbsp;&lt;creature&gt; mentre il&nbsp;&nbsp;&lt;creature&gt; &egrave; incapacitato nel suo luogo di riposo, il&nbsp;&nbsp;&lt;creature&gt; rimane paralizzato finch&eacute; il paletto non viene rimosso.</p><p><strong>Ipersensibilit&agrave; alla Luce del Sole.</strong> Il&nbsp;&nbsp;&lt;creature&gt; &nbsp;subisce 20 danni radiosi quando inizia il suo turno alla luce del sole. Finch&eacute; rimane esposto alla luce del sole, subisce svantaggio ai tiri per colpire e alle prove di caratteristica.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Wakeful",
+      "name": "Sempre Sveglio",
+      "description": "<p>Quando una delle due teste dell’&lt;creature&gt; dorme, l'altra testa è sveglia.</p>"
+    },
+    {
+      "id": "Water Breathing",
+      "name": "Respirare Sott'Acqua",
+      "description": "<p>La &lt;creature&gt; pu&ograve; respirare soltanto sott&rsquo;acqua</p>"
+    },
+    {
+      "id": "Water Form",
+      "name": "Forma d'Acqua",
+      "description": "<p>L'&lt;creature&gt;&nbsp;pu&ograve; entrare nello spazio di una creatura ostile e fermarvisi. Pu&ograve; muoversi attraverso uno&nbsp;spazio stretto fino a 2,5 centimetri senza doversi stringere.</p>"
+    },
+    {
+      "id": "Water Susceptibility",
+      "name": "Suscettibilità all'Acqua",
+      "description": "<p>Per ogni 1,5 metri di cui l'&lt;creature&gt;&nbsp;si muove nell'acqua o per ogni 4 litri d'acqua versatigli addosso, esso subisce 1 danno da freddo.</p>"
+    },
+    {
+      "id": "Weakening Breath",
+      "name": "Soffio Indebolente",
+      "description": "<p>Il &lt;creature&gt;&nbsp;esala gas in un cono di 4,5 metri. Ogni creatura in quell'area deve superare un tiro salvezza su Forza con CD 13, altrimenti subisce svantaggio ai tiri per colpire basati sulla Forza, alle prove di Forza e ai tiri salvezza su Forza peri minuto. Una creatura pu&ograve; ripetere il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto per lei termina.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Web Sense",
+      "name": "Percezione della Ragnatela",
+      "description": "<p>Finch&eacute; &egrave; in contatto con una ragnatela, l'&lt;creature&gt; conosce l&rsquo;ubicazione esatta di ogni altra creatura a contatto con la stessa ragnatela.</p>"
+    },
+    {
+      "id": "Web Walker",
+      "name": "Andatura sulla Ragnatela",
+      "description": "<p>L'&lt;creature&gt;&nbsp;ignora le restrizioni di movimento causate dalle ragnatele.</p>"
+    }
+  ]
+}

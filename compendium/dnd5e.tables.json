@@ -1,0 +1,103 @@
+{
+  "label": "Tabelle (SRD)",
+  "entries": {
+    "Bonds (Acolyte)": {
+      "name": "Legami (Accolito)",
+      "results": {
+        "1-1": "L'accolito morirebbe pur di recuperare un'antica reliquia della sua fede, perduta da molto tempo.",
+        "2-2": "L'accolito cerca vendetta contro i corrotti ministri del suo tempio che lo accusarono di eresia.",
+        "3-3": "L'accolito deve la vita al sacerdote che lo fece entrare nel tempio alla morte dei suoi genitori.",
+        "4-4": "Tutto ciò che l'accolito fa, lo fa per la gente comune.",
+        "5-5": "L'accolito farà qualunque cosa pur di proteggere il tempio in cui ha servito.",
+        "6-6": "L'accolito cerca di proteggere un testo sacro che i suoi nemici considerano invece eretico e cercano di distruggere."
+      }
+    },
+    "Flaws (Acolyte)": {
+      "name": "Difetti (Accolito)",
+      "results": {
+        "1-1": "L'accolito giudica gli altri con durezza, e sé stesso ancora più severamente.",
+        "2-2": "L'accolito si affida totalmente e acriticamente a quelli che detengono il potere all'interno del suo tempio.",
+        "3-3": "La religiosità dell'accolito lo induce a volte a credere ciecamente a coloro che professano la sua stessa fede.",
+        "4-4": "L'accolito è inflessibile.",
+        "5-5": "L'accolito non si fida degli sconosciuti e si aspetta sempre il peggio da essi.",
+        "6-6": "Quando l'accolito si prefigge un obiettivo, ne è ossessionato fino a ignorare ogni altro aspetto della sua vita."
+      }
+    },
+    "Ideals (Acolyte)": {
+      "name": "Ideali (Accolito)",
+      "results": {
+        "1-1": "Tradizione. Le antiche tradizioni di preghiera e sacrificio devono essere conservate e sostenute. (Legale)",
+        "2-2": "Carità. L'accolito cerca sempre di aiutare i bisognosi e non esita a sacrificarsi personalmente. (Buono)",
+        "3-3": "Cambiamento. L'accolito deve contribuire alla diffusione dei mutamenti che gli dei operano costantemente nel mondo. (Caotico)",
+        "4-4": "Potere. L'accolito spera di riuscire un giorno a raggiungere le posizioni più elevate della gerarchia della sua chiesa. (Legale)",
+        "5-5": "Fede. L'accolito è profondamente convinto che la sua divinità guidi le sue scelte. Crede quindi che se si impegnerà a fondo, le cose non potranno che andare bene. (Legale)",
+        "6-6": "Ambizione. L'accolito cerca di dimostrarsi degno del favore della sua divinità e interviene per correggere le azioni che vanno contro i suoi insegnamenti. (Qualsiasi)"
+      }
+    },
+    "Indefinite Madness": {
+      "name": "Follia Indeterminata",
+      "description": "Il personaggio acquisisce un difetto che permane finché curato.",
+      "results": {
+        "01-15": "\"Ubriacandomi recupero la mia sanità mentale.\"",
+        "16-25": "\"Tengo per me tutto ciò che trovo.\"",
+        "26-30": "\"Cerco di diventare più simile a qualcuno che conosco, adottando il suo stile nel vestire, i suoi modi di fare e il suo nome.\"",
+        "31-35": "\"Ho bisogno di piegare la verità, esasperarla o mentire direttamente per risultare interessante agli altri.\"",
+        "36-45": "\"Conseguire il mio obiettivo è l'unica cosa che mi interessa e ignorerò tutto il resto pur di raggiungerlo.\"",
+        "46-50": "\"Mi riesce difficile provare interesse per qualsiasi cosa che accada attorno a me.\"",
+        "51-55": "\"Non mi piace il modo in cui la gente mi giudica in continuazione.\"",
+        "56-70": "\"Sono la persona più intelligente, più saggia, più forte, più veloce e più bella che io conosca.\"",
+        "71-80": "\"Sono convinto che potenti nemici mi diano la caccia e che i loro agenti siano presenti ovunque io vada. Sono sicuro che mi osservano tutto il tempo.\"",
+        "81-85": "\"C’è solo una persona di cui posso fidarmi. E solo io sono in grado di vedere questo amico speciale.\"",
+        "86-95": "\"Non riesco a prendere nulla sul serio. Più seria è la situazione, più la trovo divertente.\"",
+        "96-100": "\"Ho scoperto che mi piace davvero tanto uccidere la gente.\""
+      }
+    },
+    "Long-Term Madness": {
+      "name": "Follia Duratura",
+      "description": "Il personaggio è afflitto da follia duratura per [[1d10*10]] ore.",
+      "results": {
+        "1-10": "II personaggio si sente obbligato a ripetere in continuazione una specifica attività, come lavarsi le mani, toccare qualcosa, pregare o contare le monete.",
+        "11-20": "II personaggio è soggetto a vivide allucinazioni e subisce svantaggio alle prove di caratteristica.",
+        "21-30": "II personaggio è soggetto a una grave forma di paranoia e subisce svantaggio alle prove di Saggezza e di Carisma.",
+        "31-40": "II personaggio prova una forte repulsione nei confronti di qualcosa (solitamente la fonte della follia), come se fosse sotto l’effetto di antipatia dell’incantesimo antipatia/simpatia.",
+        "41-45": "II personaggio è soggetto a un forte delirio. Il DM sceglie una pozione e il personaggio immagina di essere sotto gli effetti di quella pozione.",
+        "46-55": "II personaggio si affeziona a un “portafortuna“, che può essere una persona o un oggetto, e subisce svantaggio ai tiri per colpire, alle prove di caratteristica e ai tiri salvezza quando si trova a più di 9 metri da esso.",
+        "56-65": "II personaggio è accecato (25%) o assordato (75%).",
+        "66-75": "II personaggio è soggetto a tremiti o tic incontrollabili che gli impongono svantaggio ai tiri per colpire, alle prove di caratteristica e ai tiri salvezza basati su Forza o Destrezza.",
+        "78-85": "II personaggio soffre di una parziale amnesia. Sa chi è e conserva i suoi tratti razziali e privilegi di classe, ma non riconosce gli altri e non ricorda nulla di ciò che gli è successo prima che la follia avesse effetto.",
+        "86-90": "Ogni volta che il personaggio subisce danni, deve superare un tiro salvezza su Saggezza con CD 15, altrimenti sarà influenzato come se avesse fallito un tiro salvezza contro l'incantesimo confusione. L’effetto di confusione dura 1 minuto.",
+        "91-95": "II personaggio non è più in grado di parlare.",
+        "96-100": "II personaggio cade privo di sensi. Né scuoterlo né infliggergli danni basterà a risvegliarlo."
+      }
+    },
+    "Personality Traits (Acolyte)": {
+      "name": "Tratti Caratteriali (Accolito)",
+      "results": {
+        "1-1": "L'accolito venera un particolare eroe della sua fede e si ispira continuamente alle sue gesta e al suo esempio",
+        "2-2": "L'accolito è in grado di trovare punti in comune perfino tra due acerrimi nemici, riuscendo a fraternizzare con loro e adoperandosi sempre per una soluzione pacifica.",
+        "3-3": "L'accolito riesce a vedere presagi in ogni evento e gesto. Ritiene che gli dei cerchino continuamente di parlare ai mortali, e che i mortali debbano soltanto imparare ad ascoltarli.",
+        "4-4": "Nulla riesce a minare l'ottimismo dell'accolito.",
+        "5-5": "L'accolito cita (non necessariamente con esattezza) i testi sacri e i proverbi pressoché in ogni situazione.",
+        "6-6": "L'accolito è tollerante (o intollerante) nei confronti delle altre fedi e rispetta (o disprezza) il culto degli altri dei.",
+        "7-7": "Frequentando gli alti funzionari del suo tempio, l'accolito ha goduto dei piaceri del buon cibo e del buon vino e si è inserito nell'alta società. La povertà lo mette a disagio.",
+        "8-8": "L'accolito ha passato così tanto tempo all'interno del tempio che oggi ha qualche difficoltà a interagire con gli altri esseri umani nel mondo esterno."
+      }
+    },
+    "Short-Term Madness": {
+      "name": "Follia Temporanea",
+      "description": "Il personaggio è afflitto da follia temporanea per [[1d10]] minuti.",
+      "results": {
+        "1-20": "Il personaggio si ritrae nella sua mente e diventa paralizzato. Questo effetto termina se il personaggio subisce danni.",
+        "21-30": "Il personaggio diventa incapacitato e trascorre la durata della follia a urlare, a ridere o a piangere.",
+        "31-40": "Il personaggio diventa spaventato e deve usare la sua azione e il suo movimento ogni round per fuggire dalla fonte della paura.",
+        "41-50": "Il personaggio inizia a balbettare ed è incapace di parlare normalmente o di lanciare incantesimi.",
+        "51-60": "Il personaggio deve usare la sua azione ogni round per attaccare la creatura più vicina.",
+        "61-70": "Il personaggio è soggetto a vivide allucinazioni e subisce svantaggio alle prove di caratteristica.",
+        "71-75": "II personaggio fa qualsiasi cosa gli venga detto di fare e che non sìa palesemente autodistruttiva.",
+        "76-80": "II personaggio è soggetto all’impulso irrefrenabile di mangiare qualcosa di strano come terriccio, fanghiglia o escrementi.",
+        "81-90": "II personaggio è stordito.",
+        "91-100": "II personaggio cade privo di sensi."
+      }
+    }
+  }
+}

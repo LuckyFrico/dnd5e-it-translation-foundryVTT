@@ -1,0 +1,51 @@
+{
+    "label": "Eroi Pronti All'Uso (SRD)",
+    "mapping": {
+        "alignment": {
+            "path": "data.details.alignment",
+            "converter": "alignement"
+        },
+        "race": {
+            "path": "data.details.race",
+            "converter": "race"
+        },
+        "senses": {
+            "path": "data.traits.senses",
+            "converter": "senses"
+        },
+        "movement": {
+            "path": "data.attributes.movement",
+            "converter":"movement"
+        },
+        "languages": {
+            "path": "data.traits.languages.custom",
+            "converter":"languages"
+        },
+        "di": {
+            "path": "data.traits.di.custom",
+            "converter":"di"
+        },
+        "dr": {
+            "path": "data.traits.dr.custom",
+            "converter":"di"
+        },
+        "token": {
+            "path": "token",
+            "converter":"token"
+        }
+    },
+    "entries": [
+        { "id": "Akra (Dragonborn Cleric)", "name": "Akra (Chierico Dragonide)" },
+        { "id": "Aoth (Human Druid)", "name": "Aoth (Druido Umano)" },
+        { "id": "Beiro (Half-Elf Bard)", "name": "Beiro (Bardo Mezzelfo)" },
+        { "id": "Krusk (Half-Orc Paladin)", "name": "Krusk (Paladino Mezzorco)" },
+        { "id": "Merric (Halfling Barbarian)", "name": "Merric (Barbaro Halfling)" },
+        { "id": "Morthos (Tiefling Sorcerer)", "name": "Morthos (Stregone Tiefling)" },
+        { "id": "Perrin (Halfling Monk)", "name": "Perrin (Monaco Halfling)"},
+        { "id": "Quillathe (Elf Ranger)", "name": "Quillathe (Ranger Elfo)"},
+        { "id": "Randal (Human Fighter)", "name": "Randal (Guerriero Umano)" },
+        { "id": "Riswynn (Dwarf Rogue)", "name": "Riswynn (Ladro Nano)" },
+        { "id": "Sefris (Half-Elf Warlock)", "name": "Sefris (Warlock Mezzelfo)" },
+        { "id": "Zanna (Gnome Wizard)", "name": "Zanna (Mago Gnomo)" }
+    ]
+}

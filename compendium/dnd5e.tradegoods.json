@@ -1,0 +1,120 @@
+{
+    "label": "Beni Commerciali (SRD)",
+    "entries": [
+        {
+            "id": "Cinnamon",
+            "name": "Cannella",
+            "description": "<p>Presa dalla corteccia interna dell'albero di cannella, una spezia popolare anche se leggermente pi&ugrave; rara, tra gli chef del mondo. Adorato dai bambini quando combinata con lo zucchero per fare molti tipi di prelibatezze.</p>"
+        },
+        {
+            "id": "Cloves",
+            "name": "Chiodi di Garofano",
+            "description": "<p>Una spezia forte apprezzata da chef e distillatori, funziona bene per aromatizzare carne e stufati, salse ricche, bevande calde come tè al sidro e chai, pane, formaggi e dessert dolci come torte e pasticcini.</p><p>&nbsp;</p><p>I chiodi di garofano sono i germogli ricchi, secchi e non aperti del Syzygium aromaticum, un albero sempreverde della famiglia del mirto.</p>"
+        },
+        {
+            "id": "Cotton",
+            "name": "Cotone",
+            "description": "<p>Un quadrato di 90cm di lato di cotone di qualità e peso medi. Usata per tutti gli articoli e il vestiario.</p><p>Molto più leggero, più confortevole e facile da lavorare rispetto la tela; tuttavia, la lavorazione relativamente più delicata significa che di conseguenza è più costoso e difficile da trovare.</p>"
+        },
+        {
+            "id": "Wheat",
+            "name": "Grano",
+            "description": "<p>Un ingrediente comune per pane, birra e altro; questo alimento principale costituisce spesso la base di una dieta per le persone la cui terra è aperta e relativamente piatta, il clima temperato e l'area abbastanza sicura per consentire agli agricoltori di operare.</p>"
+        },
+        {
+            "id": "Linen",
+            "name": "Lino",
+            "description": "<p>Un quadrato di 90cm di lato di lino di qualità e peso medi. Usata per tutti gli articoli e il vestiario.</p><p>Dura più del cotone, la sua durabilità e traspirabilità lo rende particolarmente apprezzato nei climi caldi.</p><p>Esistono differenti tipi di lino, con trame più leggere che partono da 200 g per metro quadrato fino a 500 g per metro quadrato.</p>"
+        },
+        {
+            "id": "Pepper",
+            "name": "Pepe",
+            "description": "<p>I grani di pepe sono piccoli frutti, o drupe, della pianta del pepe, una liana anche conosciuta come Piper Nigrum. Molto apprezzata dagli chef per la sua versatilità e un pizzico può essere utilizzato dagli avventurieri quando vengono macinati come distrazione o diversivo.</p>"
+        },
+        {
+            "id": "Silk",
+            "name": "Seta",
+            "description": "<p>Un quadrato di 90cm di lato di lino di qualità e peso medi. Usata per tutti gli articoli e il vestiario.</p><p>Il più fine e desiderabile dei tessuti comuni, la seta è anche il più leggero. La maggior parte delle sete pesano tra i 65 e i 130 g per metro quadrato. Più pesante è la seta, più alta è la qualità, più e resistente e più opaco è il colore.</p>"
+        },
+        {
+            "id": "Canvas",
+            "name": "Tela",
+            "description": "<p>Un quadrato di tela di 90 cm di lato di qualit&agrave; e peso medi. Usata per tutti gli articoli e il vestiario</p><p>Classificata da 1 a 12, minore &egrave; il numero, migliore &egrave; la qualit&agrave; e maggiore &egrave; il peso.</p><p>La tela #1 qualit&agrave; pesa circa 9,2 kg per metro quadrato, mentre la pi&ugrave; debole e leggera #12 pesa solo 3,8 kg per metro quadrato.</p>"
+        },
+        {
+            "id": "Saffron",
+            "name": "Zafferano",
+            "description": "<p>Probabilmente uno degli ingredienti del mondo con il prezzo più alto, lo zafferano è così costoso perchè è tanto laborioso da produrre. Ottenuto dal Crocus sativus, ci vogliono 80,000 fiori di crocco per produrre 30 grammi di zafferano. A peso vale più dell'oro. Apprezzato dai cuochi e farmacisti più esigenti per il suo aroma e i suoi significativi effetti benefici.</p>"
+        },
+        {
+            "id": "Ginger",
+            "name": "Zenzero",
+            "description": "<p>Una spezia ottenuta dalle radici fresche o secche della pianta dello zenzero Zingiber officinale. Appartiene alla stessa famiglia della curcuma e del cardamomo.</p><p>Stimata da chef e pasticceri, amata dai bambini e da chi piace il piccante.</p>"
+        },
+        {
+            "id": "Flour",
+            "name": "Farina",
+            "description": "<p>Grano che &egrave; stato macinato da un mugnaio nel passaggio successivo lungo la catena alimentare.</p>"
+        },
+        {
+            "id": "Ox",
+            "name": "Bue",
+            "description": "<p>Essenzialmente un manzo o un torello specificatamente addestrato che ha raggiunto i cinque anni. Queste&nbsp; robuste bestie da soma possono tirare o trasportare sulla groppa carichi. Usati per una moltitudine di compiti come tirare carri, trebbiare il frumento, azionare macchine che irrigano o&nbsp;macinano il grano, e persino essere cavalcati, i buoi sono creature molto apprezzate per il lavoro in una vasta gamma di settori.</p>"
+        },
+        {
+            "id": "Goat",
+            "name": "Capra",
+            "description": "<p>Una creatura utile per fattorie piccole e abitanti degli altopiani, le capre sono efficaci nell'evitare che i prati crescano troppo, contemporaneamente forniscono latte, formaggio, e infine pelle e carne.</p><p>In base alla razza, una capra adulta può andare da 20 kg fino a 135 kg.</p>"
+        },
+        {
+            "id": "Pig",
+            "name": "Maiale",
+            "description": "<p>Una creatura per fattorie medie e grandi, i maiali si riproducono relativamente in fretta e sono creature robuste che forniscono ogni possibilità per la cucina intraprendente, prima tra le quali ovviamente la pancetta. La pelle può essere usata come un cuoio economico, ma è meno resistente agli strappi in confronto a quello di agnello o capra. I maiali sono anche la fonte di lardo.</p><p>La maggior parte dei maiali pesa tra i 100 e i 120 kg macellati poiché offre un taglio al dettaglio ottimale mediamente grasso.</p>"
+        },
+        {
+            "id": "Cow",
+            "name": "Mucca",
+            "description": "<p>Una creatura per grandi fattorie, le mucche necessitano di grandi aree piane per il pascolo, significa che non sono così comuni come altro bestiame. Comunque, vivono più a lungo, e forniscono molto più latte. Sono anche fonte di un cuoio molto più durevole che è meno propenso a rompersi ed è resistente a caldo e secco.</p><p>In base al sesso e la razza, una mucca adulta pesa tra 450 e 800 kg.</p>"
+        },
+        {
+            "id": "Sheep",
+            "name": "Pecora",
+            "description": "<p>Una creatura utile per fattorie piccole e abitanti degli altopiani, anche se non è agile come una capra, hanno l'apprezzata possibilità di essere tosate ogni anno, fornendo alle persone una fonte di vestiario, tappeti e coperte per letti e sedie. La loro taglia maggiore significa anche che sono più apprezzate per la macellazione.</p><p>In base alla razza, una pecora adulta può andare da 45 a 160 kg.</p>"
+        },
+        {
+            "id": "Chicken",
+            "name": "Pollo",
+            "description": "<p>La fonte di omelette e alette di pollo, un pollo adulto pesa tra 2 e 5 kg</p>"
+        },
+        {
+            "id": "Salt",
+            "name": "Sale",
+            "description": "<p>Apprezzato da chef e furieri come condimento e conservante per vettovaglie in cui alcol o aceto sono indesiderati.</p>"
+        },
+        {
+            "id": "Silver",
+            "name": "Argento",
+            "description": "<p>L'argento è stato a lungo apprezzato per la sua natura non reattiva e la facilità con cui può essere modellato nelle migliori decorazioni, ornamenti e, naturalmente, usato come moneta.</p><p>L'argento si trova raramente nella sua forma nativa nelle pepite. Normalmente si trova mescolato con altre sostanze come zolfo o cloro, nei minerali o come una lega con i tipi di oro. L'argento di superficie può essere trovato, ma è molto più comunemente estratto sottoterra. L'estrazione dell'argento è redditizia e può ispirare corse all'argento.</p>"
+        },
+        {
+            "id": "Iron",
+            "name": "Ferro",
+            "description": "<p>Spesso il cavallo di battaglia dei fabbri, il ferro &egrave; apprezzato per la sua relativa abbondanza e facilit&agrave; di acquisizione. Il ferro di superficie pu&ograve; essere trovato da meteore e xenoliti caduti, ma &egrave; molto pi&ugrave; comunemente l'estrazione sotterranea. Tuttavia, &egrave; necessario prestare attenzione, altrimenti la ruggine avr&agrave; il suo tributo.</p>"
+        },
+        {
+            "id": "Gold",
+            "name": "Oro",
+            "description": "<p>L'oro &egrave; il re della valuta per molte civilt&agrave;. Di solito pi&ugrave; comune del platino, ma per nulla comune come altri metalli come il ferro, occupa un punto ottimale in rarit&agrave; e non reattivit&agrave;. A differenza dell'argento, l'oro pu&ograve; essere trovato pi&ugrave; facilmente in superficie. Sia l'estrazione di superficie che quella sotterranea possono essere estremamente redditizie. Le corse all'oro possono e sono state una fonte di grande felicit&agrave; e grande tragedia.</p>"
+        },
+        {
+            "id": "Platinum",
+            "name": "Platino",
+            "description": "<p>Molto più raro dell'oro, il platino può essere considerato come l'apice della ricchezza, o la vestigia di un'epoca passata che può essere accolta con diffidenza o invidia.</p><p>A differenza dell'oro, il platino è quasi esclusivamente estratto sottoterra.</p>"
+        },
+        {
+            "id": "Copper",
+            "name": "Rame",
+            "description": "<p>Ambito da esperti carpentieri, alchimisti, taluni gioiellieri e cuochi, il rame viene comunemente estratto in superficie, ma esiste l'estrazione sotterranea quando le fonti di superficie sono state esaurite o non si &egrave; in grado di localizzarle.Sebbene possa essere usato per le armature, &egrave; molto meglio miscelato con lo stagno per rendere la lega di bronzo molto pi&ugrave; superiore per scopi militari.</p>"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{ 
+"label": "Regole (SRD)", 
+"entries": {
+    "Appendix A: Conditions": {
+      "name": "Appendice A: Condizioni",
+      "pages": {
+        "Blinded": {
+            "name":"Accecato",
+            "text": "<ul>\n<li data-parsoid=\"{&quot;dsr&quot;:[868,998,1,0]}\">\n<p>Una creatura accecata non pu&ograve; vedere e fallisce automaticamente qualsiasi prova di caratteristica che richieda l'uso della vista.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[999,1117,1,0]}\">I tiri per colpire contro la creatura hanno vantaggio, mentre i tiri per colpire della creatura subiscono svantaggio.</li>\n</ul>"
+            },
+        "Charmed": {
+             "name": "Affascinato",
+             "text": "<ul>\n<li data-parsoid=\"{&quot;dsr&quot;:[1157,1283,1,0]}\">\n<p>Una creatura affascinata non pu&ograve; attaccare o bersagliare chi l&rsquo;ha affascinata con capacit&agrave; speciali o effetti magici dannosi.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[1284,1426,1,0]}\">Colui che ha affascinato la creatura dispone di vantaggio a qualsiasi prova di caratteristica effettuata per interagire socialmente con essa.</li>\n</ul>"
+            },
+        "Grappled": {
+             "name": "Afferrato",
+             "text": "<ul>\n<li data-parsoid=\"{&quot;dsr&quot;:[1465,1570,1,0]}\">\n<p>La velocit&agrave; di una creatura afferrata diventa 0,e non pu&ograve; beneficiare da alcun bonus alla sua velocit&agrave;.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[1571,1685,1,0]}\">La condizione termina se colui che ha iniziato l&rsquo;attacco di lottare &egrave; @UUID[Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.TpkZgLfxCmSndmpb]{Incapacitato} (vedi quella condizione).</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[1686,1914,1,0]}\">La condizione termina anche se un effetto allontana la creatura afferrata dalla portata di colui che ha iniziato l&rsquo;attacco o l&rsquo;effetto afferrante, come quando una creatura viene scagliata via dall'incantesimo @Compendium[dnd5e.spells.WTbOQBsarsL1LuXJ]{Onda Tonante}.</li>\n</ul>"
+            },
+        "Deafened": {
+             "name": "Assordato",
+             "text": "<ul>\n<li>Una creatura assordata non pu&ograve; sentire e fallisce automaticamente qualsiasi prova di caratteristica che richieda dell&rsquo;udito.</li>\n</ul>"
+            },
+        "Poisoned": {
+             "name": "Avvelenato",
+             "text": "<ul>\n<li>Una creatura avvelenata subisce svantaggio sui tiri per colpire e alle prove di caratteristica.</li>\n</ul>"
+            },
+        "Incapacitated": {
+             "name": "Incapacitato",
+             "text": "<ul>\n<li>Una creatura Incapacitata non pu&ograve; effettuare azioni o reazioni.</li>\n</ul>"
+           },
+        "Exhaustion":{
+             "name": "Indebolimento",
+             "text": "<p data-parsoid=\"{&quot;dsr&quot;:[5822,6181,0,0]}\">Alcune abilit&agrave; speciali e pericoli per l'ambiente, come la fame e gli effetti a lungo termine delle temperature gelide o roventi, possono indurre una condizione speciale chiamata Indebolimento. L'Indebolimento &egrave; misurato in sei livelli. Un effetto pu&ograve; imporre a una creatura uno o pi&ugrave; livelli di Indebolimento, come specificato nella descrizione dell'effetto.</p>\n<table class=\"wikitable article-table\" data-parsoid=\"{&quot;dsr&quot;:[6182,6450,34,2]}\">\n<tbody data-parsoid=\"{&quot;dsr&quot;:[6217,6448,0,0]}\">\n<tr data-parsoid=\"{&quot;autoInsertedStart&quot;:true,&quot;dsr&quot;:[6217,6234,0,0]}\">\n<th data-parsoid=\"{&quot;dsr&quot;:[6217,6225,1,0]}\">Livello</th>\n<th data-parsoid=\"{&quot;dsr&quot;:[6226,6234,1,0]}\">Effetto</th>\n</tr>\n<tr data-parsoid=\"{&quot;startTagSrc&quot;:&quot;|-&quot;,&quot;dsr&quot;:[6235,6281,2,0]}\">\n<td data-parsoid=\"{&quot;dsr&quot;:[6238,6240,1,0]}\">1</td>\n<td data-parsoid=\"{&quot;dsr&quot;:[6241,6281,1,0]}\">Svantaggio alle prove di caratteristica</td>\n</tr>\n<tr data-parsoid=\"{&quot;startTagSrc&quot;:&quot;|-&quot;,&quot;dsr&quot;:[6282,6307,2,0]}\">\n<td data-parsoid=\"{&quot;dsr&quot;:[6285,6287,1,0]}\">2</td>\n<td data-parsoid=\"{&quot;dsr&quot;:[6288,6307,1,0]}\">Velocit&agrave; dimezzata</td>\n</tr>\n<tr data-parsoid=\"{&quot;startTagSrc&quot;:&quot;|-&quot;,&quot;dsr&quot;:[6308,6364,2,0]}\">\n<td data-parsoid=\"{&quot;dsr&quot;:[6311,6313,1,0]}\">3</td>\n<td data-parsoid=\"{&quot;dsr&quot;:[6314,6364,1,0]}\">Svantaggio ai tiri per colpire e ai tiri salvezza</td>\n</tr>\n<tr data-parsoid=\"{&quot;startTagSrc&quot;:&quot;|-&quot;,&quot;dsr&quot;:[6365,6406,2,0]}\">\n<td data-parsoid=\"{&quot;dsr&quot;:[6368,6370,1,0]}\">4</td>\n<td data-parsoid=\"{&quot;dsr&quot;:[6371,6406,1,0]}\">Massimo dei punti ferita dimezzato</td>\n</tr>\n<tr data-parsoid=\"{&quot;startTagSrc&quot;:&quot;|-&quot;,&quot;dsr&quot;:[6407,6434,2,0]}\">\n<td data-parsoid=\"{&quot;dsr&quot;:[6410,6412,1,0]}\">5</td>\n<td data-parsoid=\"{&quot;dsr&quot;:[6413,6434,1,0]}\">Velocit&agrave; ridotta a 0</td>\n</tr>\n<tr data-parsoid=\"{&quot;startTagSrc&quot;:&quot;|-&quot;,&quot;dsr&quot;:[6435,6447,2,0]}\">\n<td data-parsoid=\"{&quot;dsr&quot;:[6438,6440,1,0]}\">6</td>\n<td data-parsoid=\"{&quot;dsr&quot;:[6441,6447,1,0]}\">Morte</td>\n</tr>\n</tbody>\n</table>\n<p data-parsoid=\"{&quot;dsr&quot;:[6451,6657,0,0]}\">Se una creatura gi&agrave; sotto l'effetto di indebolimento subisce un ulteriore effetto di indebolimento, il suo attuale livello di indebolimento aumenta dell'ammontare specificato nella descrizione dell'effetto.</p>\n<p data-parsoid=\"{&quot;dsr&quot;:[6659,6947,0,0]}\">Una creatura subisce l'effetto del suo attuale livello di indebolimento nonch&eacute; quelli relativi a tutti i livelli inferiori. Per esempio, una creatura che soffre di esaurimento di livello 2 di Indebolimento la sua velocit&agrave; &egrave; dimezzata e le sue prove di caratteristica subiscono svantaggio.</p>\n<p data-parsoid=\"{&quot;dsr&quot;:[6949,7186,0,0]}\">Un effetto che rimuove l'indebolimento riduce il suo livello come specificato nella descrizione dell'effetto, con tutti gli effetti di indebolimento che terminano se il livello di indebolimento di una creatura &egrave; ridotto al di sotto di 1.</p>\n<p data-parsoid=\"{&quot;dsr&quot;:[7188,7419,0,0]}\">Completando un Riposo Lungo una creatura riduce di 1 il suo livello di Indebolimento, purch&eacute; abbia avuto modo di mangiare e bere qualcosa. Inoltre, essere risuscitato dai morti riduce il livello di esaurimento di una creatura di 1.</p>"
+           },
+        "Invisible":{
+             "name": "Invisibile",
+             "text": "<ul>\n<li data-parsoid=\"{&quot;dsr&quot;:[2366,2661,1,0]}\">\n<p>Una creatura invisibile &egrave; impossibile da vedere senza l&rsquo;aiuto della magia o di sensi speciali. Agli effetti del nascondersi, una creatura invisibile &egrave; considerata oscurata pesantemente. L'ubicazione della creatura pu&ograve; essere individuata dai rumori che emette e da essa o dalle tracce che lascia.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[2662,2784,1,0]}\">I tiri per colpire contro la creatura subiscono svantaggio, mentre i tiri per colpire della creatura ottengono Vantaggio.</li>\n</ul>"
+           },
+        "Paralyzed":{
+             "name": "Paralizzato",
+             "text": "<ul>\n<li data-parsoid=\"{&quot;dsr&quot;:[2826,2931,1,0]}\">\n<p>Una creatura paralizzata &egrave; @UUID[Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.TpkZgLfxCmSndmpb]{Incapacitato} (vedi la relativa condizione) e non pu&ograve; muoversi n&eacute; parlare.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[2932,3007,1,0]}\">La creatura fallisce automaticamente i tiri salvezza su Forza e Destrezza.</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[3008,3067,1,0]}\">I tiri per colpire contro la creatura ottengono vantaggio.</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[3068,3198,1,0]}\">Qualsiasi attacco che colpisce la creatura &egrave; automaticamente un colpo critico, se l&rsquo;attaccante &egrave; situato entro 1,5 metri da essa.</li>\n</ul>"
+           },
+        "Petrified":{
+             "name": "Pietrificato",
+             "text": "<ul>\n<li data-parsoid=\"{&quot;dsr&quot;:[3241,3485,1,0]}\">\n<p>Una creatura pietrificata viene trasformata, assieme a qualsiasi oggetto non magico che stia trasportando o indossando, in una sostanza solida inanimata (solitamente in pietra). La creatura cessa di invecchiare e il suo peso viene decuplicato.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[3486,3626,1,0]}\">La creatura &egrave; @UUID[Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.TpkZgLfxCmSndmpb]{Incapacitato} (vedi la relativa condizione), non pu&ograve; muoversi o parlare, e non &egrave; consapevole di cosa accada intorno a lei.</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[3627,3686,1,0]}\">I tiri per colpire contro la creatura ottengono vantaggio.</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[3687,3762,1,0]}\">La creatura fallisce automaticamente i tiri salvezza su Forza e Destrezza.</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[3763,3814,1,0]}\">La creatura dispone di resistenza a tutti i danni.</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[3815,3971,1,0]}\">La creatura &egrave; immune ai veleni e le malattie, ma gli eventuali i veleni e le malattie gi&agrave; presenti nel suo sistema vengono solo sospesi, non neutralizzati.</li>\n</ul>"
+           },
+        "Unconscious":{
+             "name": "Privo di Sensi",
+             "text": "<ul>\n<li data-parsoid=\"{&quot;dsr&quot;:[4018,4167,1,0]}\">\n<p>Una creatura svenuta &egrave; @UUID[Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.TpkZgLfxCmSndmpb]{Incapacitato} (vedi la relativa condizione), non pu&ograve; muoversi o parlare, e non &egrave; consapevole di cosa accada intorno a lei.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[4018,4167,1,0]}\">\n<p>La creatura lascia cadere tutto ci&ograve; che impugnava e cade a terra - @UUID[Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.y0TkcdyoZlOTmAFT]{Prono}.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[4018,4167,1,0]}\">\n<p>La creatura fallisce automaticamente i tiri salvezza su Forza e Destrezza.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[4327,4382,1,0]}\">I tiri per colpire contro la creatura hanno vantaggio.</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[4383,4511,1,0]}\">Qualsiasi attacco che colpisca la creatura &egrave; automaticamente un colpo critico se l&rsquo;attaccante si trova entro 1,5 metri da essa.</li>\n</ul>"
+           },
+        "Prone":{
+             "name": "Prono",
+             "text": "<ul>\n<li data-parsoid=\"{&quot;dsr&quot;:[4543,4678,1,0]}\">\n<p>L&rsquo;unica opzione di movimento per una creatura prona &egrave; strisciare, a meno che non si rialzi, ponendo in quel modo fine alla condizione.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[4543,4678,1,0]}\">\n<p>La creatura subisce svantaggio ai tiri per colpire.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[4732,4899,1,0]}\">Un tiro per colpire contro la creatura ottiene vantaggio, se l&rsquo;attaccante si trova entro 1,5 metri dalla creatura. Altrimenti, il tiro per colpire subisce svantaggio.</li>\n</ul>"
+           },
+        "Frightened":{
+             "name": "Spaventato",
+             "text": "<ul>\n<li data-parsoid=\"{&quot;dsr&quot;:[4939,5098,1,0]}\">\n<p>Una creatura spaventata ha svantaggio alle prove di caratteristica e ai tiri per colpire finch&eacute; la fonte della sua paura &egrave; rimane entro la sua linea di vista.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[5099,5188,1,0]}\">La creatura non pu&ograve; muoversi per avvicinarsi volontariamente alla fonte della sua paura.</li>\n</ul>"
+           },
+        "Stunned":{
+             "name": "Stordito",
+             "text": "<ul>\n<li data-parsoid=\"{&quot;dsr&quot;:[5225,5329,1,0]}\">\n<p>Una creatura stordita &egrave; @UUID[Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.TpkZgLfxCmSndmpb]{Incapacitato} (vedi la condizione), non pu&ograve; muoversi e pu&ograve; parlare a fatica.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[5225,5329,1,0]}\">\n<p>La creatura fallisce automaticamente i tiri salvezza su Forza e Destrezza.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[5406,5464,1,0]}\">I tiri per colpire contro la creatura ottengono vantaggio</li>\n</ul>"
+           },
+        "Restrained":{
+             "name": "Trattenuto",
+             "text": "<ul>\n<li data-parsoid=\"{&quot;dsr&quot;:[5506,5613,1,0]}\">\n<p>La velocit&agrave; di una creatura intralciata diventa 0, e non pu&ograve; beneficiare da alcun bonus alla sua velocit&agrave;.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[5506,5613,1,0]}\">\n<p>I tiri per colpire contro la creatura hanno vantaggio, e i tiri per colpire della creatura hanno svantaggio.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[5724,5782,1,0]}\">La creatura ha svantaggio sui tiri salvezza su Destrezza.</li>\n</ul>"
+           }
+        }
+    }
+}
+}
