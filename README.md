@@ -27,4 +27,6 @@ Con la partecipazione ed il supporto di [Academy GDR](https://discord.gg/gEvHQ2P
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/LuckyFrico/dnd5e-it-translation-foundryVTT/total?style=for-the-badge&logo=github&color=teal)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/LuckyFrico/dnd5e-it-translation-foundryVTT/latest/total?style=for-the-badge&logo=github&label=Downloads%20Latest&color=teal)
 
-
+## Novità 
+Con la versione 1.3.0 sono state aggiunte alcune traduzioni dei compendi tramite il modulo Babele.
+Questo permette di tradurre anche parti che prima non erano tradotte nel semplice Core del sistema D&D 5e
