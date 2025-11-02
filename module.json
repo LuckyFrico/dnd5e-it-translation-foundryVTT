@@ -44,7 +44,7 @@
  "packs": [
     {
       "name": "macro",
-      "label": "DnD 5e Italian Translation Macro - Imperial to Metric conversion",
+      "label": "Imperial to Metric conversion",
       "path": "packs/macro",
       "type": "Macro",
       "system": "dnd5e",
