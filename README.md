@@ -27,6 +27,16 @@ Con la partecipazione ed il supporto di [Academy GDR](https://discord.gg/gEvHQ2P
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/LuckyFrico/dnd5e-it-translation-foundryVTT/total?style=for-the-badge&logo=github&color=teal)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/LuckyFrico/dnd5e-it-translation-foundryVTT/latest/total?style=for-the-badge&logo=github&label=Downloads%20Latest&color=teal)
 
-## Novità 
-Con la versione 1.3.0 sono state aggiunte alcune traduzioni dei compendi tramite il modulo Babele.
-Questo permette di tradurre anche parti che prima non erano tradotte nel semplice Core del sistema D&D 5e
+## Novità
+Con la versione 1.3.0 sono state introdotte nuove traduzioni dei compendi tramite il modulo Babele.
+Grazie a questo aggiornamento è ora possibile tradurre anche parti che in precedenza non erano incluse nel semplice Core del sistema D&D 5e.
+
+### Conversione al sistema metrico
+Con la versione 2.0.0 sono stati aggiunti script per la conversione automatica delle unità di misura dal sistema imperiale al Sistema Metrico.
+All’interno delle Impostazioni dei Moduli è possibile scegliere quali elementi convertire automaticamente.
+Inoltre, per chi importa scene, incantesimi e attori, è stato aggiunto un Compendio contenente tre macro dedicate, che consentono di effettuare in modo automatico la conversione di:
+- scene
+- incantesimi
+- attori
+al Sistema Metrico.
+
