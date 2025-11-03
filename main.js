@@ -86,7 +86,7 @@ Hooks.once('init', () => {
     int: "Applica automaticamente il sistema metrico alle nuove scene",
     scope: "world",
     type: Boolean,
-    default: true,
+    default: false,
     config: true
   });
   game.settings.register("dnd5e-it-translation", "convertActors", {
@@ -94,7 +94,7 @@ Hooks.once('init', () => {
     int: "Applica automaticamente il sistema metrico ai nuovi attori creati. Non funziona con gli attori importati, per quelli usare le macro nel compendio",
     scope: "world",
     type: Boolean,
-    default: true,
+    default: false,
     config: true
   });
   game.settings.register("dnd5e-it-translation", "convertItems", {
@@ -102,7 +102,7 @@ Hooks.once('init', () => {
     int: "Applica automaticamente il sistema metrico ai nuovi incantesimi creati. Non funziona con gli incatesimi importati, per quelli usare le macro nel compendio",
     scope: "world",
     type: Boolean,
-    default: true,
+    default: false,
     config: true
   });
 
