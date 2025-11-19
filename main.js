@@ -70,6 +70,23 @@ function setEncumbranceData() {
   game.settings.set("dnd5e", "metricWeightUnits", convert);
 }
 
+class OpenCompendiumMenu extends FormApplication {
+  static get defaultOptions() {
+    return mergeObject(super.defaultOptions, {
+      id: "open-compendium-menu",
+      title: "Macro del Modulo",
+      width: 100,
+      height: 100
+    });
+  }
+  async render(force=false, options={}) {
+    const pack = game.packs.get("dnd5e-it-translation.macro"); // <-- link al compendio di macro
+    if (pack) pack.render(true);
+    else ui.notifications.error("Compendio non trovato!");
+    return super.render(force, options);
+  }
+}
+
 Hooks.once('init', () => {
   // Impostazioni conversione
   game.settings.register("dnd5e-it-translation", "convert", {
@@ -104,6 +121,15 @@ Hooks.once('init', () => {
     type: Boolean,
     default: false,
     config: true
+  });
+  // Impostazioni notifica macro
+  game.settings.registerMenu("dnd5e-it-translation", "infoMacros", {
+    name: "Nota sulle macro",
+    label: "Apri Compendio Macro",
+    hint: "Nel caso attori, incantesimi e oggetti non venissero convertiti in automatico o siano stati creati/importati in precedenza, usare le macro che si trovano nel compendio di questo modulo.",
+    icon: "fas fa-info-circle",
+    type: OpenCompendiumMenu,
+    restricted: false
   });
 
   // Registrazione Babele
