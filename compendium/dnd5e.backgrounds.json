@@ -1,5 +1,9 @@
 {
   "label": "Backgrounds (SRD)",
+  "folders": {
+    "Acolyte Equipment": "Equipaggiamento dell'Accolito",
+    "Acolyte Feature": "Privilegi dell'Accolito"
+  },
   "entries": {
     "Acolyte": {
       "name": "Accolito",
@@ -8,6 +12,9 @@
     "Shelter of the Faithful": {
       "name": "Rifugio dei Fedeli",
       "description": "<p>Un accolito gode del rispetto di coloro che condividono la sua fede ed è in grado di celebrare le cerimonie religiose della sua divinità. L'accolito e gli avventurieri suoi compagni possono aspettarsi di ricevere cure e guarigioni gratuite presso un tempio, un santuario o un'altra presenza stabile della sua fede, anche se dovrà fornire le eventuali componenti richieste per gli incantesimi. Coloro che condividono la sua religione lo manterranno (limitandosi soltanto a lui) offrendogli uno stile di vita modesto.</p>\n<p>Un accolito potrebbe anche avere dei legami con un tempio specifico dedicato alla divinità o al pantheon di sua scelta, e beneficiare di una dimora presso quel tempio. Potrebbe trattarsi dello stesso tempio dove aveva prestato servizio in passato, se è rimasto in buoni rapporti con i fedeli del posto, oppure di un tempio dove ha trovato accoglienza recentemente. Finché si trova nei pressi del suo tempio, l'accolito può chiedere aiuto ai sacerdoti, purché quell'aiuto non comporti pericoli ed egli goda di una buona reputazione presso il tempio.</p>"
+    },
+    "Coin Pouch": {
+      "name": "Borsello delle Monete"
     }
   }
 }

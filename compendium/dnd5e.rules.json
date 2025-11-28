@@ -1,7 +1,268 @@
 { 
 "label": "Regole (SRD)", 
 "entries": {
-    "Appendix A: Conditions": {
+    "Chapter 1: Beyond 1st Level": {
+      "name": "Capitolo 1: Oltre il 1° Livello"
+     },
+     "Chapter 2: Races": {
+      "name": "Capitolo 2: Razze"
+     },
+     "Chapter 3: Classes": {
+      "name": "Capitolo 3: Classi",
+      "pages": {
+          "Overview": {
+            "name":"Introduzione"
+            },
+          "Barbarian": {
+            "name":"Barbaro"
+            },
+          "Bard": {
+            "name":"Bardo"
+            },
+          "Cleric": {
+            "name":"Chierico"
+            },
+          "Druid": {
+            "name":"Druido"
+            },
+          "Fighter": {
+            "name":"Guerriero"
+            },
+          "Monk": {
+            "name":"Monaco"
+            },
+          "Paladin": {
+            "name":"Paladin"
+            },
+          "Ranger": {
+            "name":"Ranger"
+            },
+          "Rogue": {
+            "name":"Ladro"
+            },
+          "Sorcerer": {
+            "name":"Stregone"
+            },
+          "Warlock": {
+            "name":"Warlock"
+            },
+          "Wizzard": {
+            "name":"Mago"
+            }
+          }
+     },
+     "Chapter 4: Personality and Background": {
+      "name": "Capitolo 4: Personalità e Background",
+      "pages": {
+        "Alignment": {
+            "name":"Allineamento"
+            },
+        "Languages": {
+            "name":"Linguaggi"
+            },
+        "Inspiration": {
+            "name":"Ispirazione"
+            },
+        "Backgrounds": {
+            "name":"Background"
+            }
+          }
+     },
+     "Chapter 5: Equipment": {
+      "name": "Capitolo 5: Equipaggiamento",
+      "pages": {
+        "Equipment": {
+            "name":"Equipaggiamento"
+            },
+        "Selling Treasure": {
+            "name":"Vendere Tesori"
+            },
+        "Armor": {
+            "name":"Armature"
+            },
+        "Weapons": {
+            "name":"Armi"
+            },
+        "Adventuring Gear": {
+            "name":"Dotazioni da Avventuriero"
+            },
+        "Tools": {
+            "name":"Oggetti"
+            },
+         "Mounts and Vehicles": {
+            "name":"Cavalcature e Veicoli"
+            },
+          "Trade Goods": {
+            "name":"Beni Commerciali"
+            },
+          "Expenses": {
+            "name":"Spese"
+            }
+          }
+     },
+     "Chapter 6: Customization Options": {
+      "name": "Capitolo 6: Opzioni di Personalizzazione",
+      "pages": {
+        "Multiclassing": {
+            "name":"Multiclasse"
+            },
+        "Feats": {
+            "name":"Talenti"
+            }
+          }
+     },
+     "Chapter 7: Using Ability Scores": {
+      "name": "Capitolo 7: Usare i Punteggi di Abilità",
+      "pages": {
+          "Using Ability Scores": {
+            "name":"Usare i Punteggi di Abilità"
+            },
+          "Ability Scores and Modifiers": {
+            "name":"Punteggi di Abilità e Modificatori"
+            },
+          "Advantage and Disadvantage": {
+            "name":"Vantaggio e Svantaggio"
+            },
+          "Proficiency Bonus": {
+            "name":"Bonus di Competenza"
+            },
+          "Ability Checks": {
+            "name":"Prove di Abilità"
+            },
+          "Using Each Ability": {
+            "name":"Uso di Ciascuna Abilità"
+            },
+          "Saving Throws": {
+            "name":"Tiri Salvezza"
+            }
+          }
+     },
+     "Chapter 8: Adventuring": {
+      "name": "Capitolo 8: L’Avventura",
+      "pages": {
+          "Time": {
+            "name":"Tempo"
+            },
+          "Movement": {
+            "name":"Movimento"
+            },
+          "The Environment": {
+            "name":"L’Ambiente"
+            },
+          "Resting": {
+            "name":"Riposare"
+            },
+          "Between Adventures": {
+            "name":"Tra le Avventure"
+            }
+          }
+     },
+     "Chapter 9: Combat": {
+      "name": "Capitolo 9: Il Combattimento",
+      "pages": {
+          "The Order of Combat": {
+            "name":"L'Ordine di Combattimento"
+            },
+          "Movement and Position": {
+            "name":"Movimento e Posizione"
+            },
+          "Actions in Combat": {
+            "name":"Azioni in Combattimento"
+            },
+          "Making an Attack": {
+            "name":"Attaccare"
+            },
+          "Cover": {
+            "name":"Copertura"
+            },
+          "Damage and Healingr": {
+            "name":"Danno e Cura"
+            },
+          "Mounted Combat": {
+            "name":"Combattimento con Cavalcatura"
+            },
+          "Underwater Combat": {
+            "name":"Combattimento sott'Acqua"
+            }
+          }
+     },
+     "Chapter 10: Spellcasting": {
+      "name": "Capitolo 10: Lanciare Incantesimi",
+      "pages": {
+          "Spellcasting": {
+            "name":"Lanciare Incantesimi"
+            },
+          "What Is a Spell?": {
+            "name":"Cos'è un Incantesimo?"
+            },
+          "Casting a Spell": {
+            "name":"Lanciare un Incantesimo"
+            },
+          "Bard Spells": {
+            "name":"Incantesimi da Bardo"
+            },
+          "Cleric Spells": {
+            "name":"Incantesimi da Chierico"
+            },
+          "Druid Spells": {
+            "name":"Incantesimi da Druido"
+            },
+          "Paladin Spells": {
+            "name":"Incantesimi da Paladino"
+            },
+          "Ranger Spells": {
+            "name":"Incatesimi da Ranger"
+            },
+          "Sorcerer Spells": {
+            "name":"Incatesimi da Stregone"
+            },
+          "Warlock Spells": {
+            "name":"Incatesimi da Warlock"
+            },
+          "Wizard Spells": {
+            "name":"Incatesimi da Mago"
+            }
+          }
+     },
+     "Chapter 11: DM Tools": {
+      "name": "Capitolo 11: Strumenti del DM",
+      "pages": {
+          "Traps": {
+            "name":"Trappole"
+            },
+          "Diseases": {
+            "name":"Malattie"
+            },
+          "Madness": {
+            "name":"Pazzia"
+            },
+          "Objects": {
+            "name":"Oggetti"
+            },
+          "Poisons": {
+            "name":"Veleni"
+            },
+          "Magic Items": {
+            "name":"Oggetti Magici"
+            },
+          "Monsters": {
+            "name":"Mostri"
+            },
+          "Ranger Spells": {
+            "name":"Incatesimi da Ranger"
+            },
+          "Sorcerer Spells": {
+            "name":"Incatesimi da Stregone"
+            },
+          "Warlock Spells": {
+            "name":"Incatesimi da Warlock"
+            },
+          "Wizard Spells": {
+            "name":"Incatesimi da Mago"
+            }
+          }
+     },
+     "Appendix A: Conditions": {
       "name": "Appendice A: Condizioni",
       "pages": {
         "Blinded": {
@@ -65,6 +326,62 @@
              "text": "<ul>\n<li data-parsoid=\"{&quot;dsr&quot;:[5506,5613,1,0]}\">\n<p>La velocit&agrave; di una creatura intralciata diventa 0, e non pu&ograve; beneficiare da alcun bonus alla sua velocit&agrave;.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[5506,5613,1,0]}\">\n<p>I tiri per colpire contro la creatura hanno vantaggio, e i tiri per colpire della creatura hanno svantaggio.</p>\n</li>\n<li data-parsoid=\"{&quot;dsr&quot;:[5724,5782,1,0]}\">La creatura ha svantaggio sui tiri salvezza su Destrezza.</li>\n</ul>"
            }
         }
-    }
+     },
+     "Appendix B: Gods and the Multiverse": {
+      "name": "Appendice B: Divinita e il Multiverso",
+      "pages": {
+        "The Planes of Existence": {
+            "name":"I Piani di Esistenza"
+            }
+          }
+     },
+     "Appendix C: Creatures": {
+      "name": "Appendice C: Creature",
+      "pages": {
+          "Miscellaneous Creatures": {
+            "name":"Creature Varie"
+            },
+          "Nonplayer Characters": {
+            "name":"Personaggi Non Giocanti"
+            }
+          }
+     },
+     "Appendix D: Senses and Speeds": {
+      "name": "Appendice D: Sensi e Velocità",
+      "pages": {
+          "Blindsight": {
+            "name":"Vista Cieca",
+            "text": "<p>Una mostro dotato di vista cieca può percepire l'ambiente circostante entro un raggio specifico senza affidarsi alla vista.</p><p>Le creature prive di occhi, come i grimlock e le melme grigie, solitamente dispongono di questo senso speciale, come anche le creature con radar o sensi amplificati, per esempio i pipistrelli e i draghi puri.</p><p>Se un mostro è cieco per natura, questo effetto è seguito da una nota tra parentesi, a indicare che il raggio della sua vista cieca definisce la gittata massima della sua percezione.</p>"
+            },
+          "Darkvision": {
+            "name":"Scurovisione",
+            "text":"Un mostro dotato di scurovisione può vedere nell'oscurità entro un raggio specifico. Entro quell'area, il mostro può vedere in condizioni di luce fioca come se si trattasse di luce intensa e nell'oscurità come se si trattasse di luce fioca. Nell'oscurità non è in grado di discernere i colori, ma solo le tonalità di grigio. Molte creature che vivono sottoterra sono dotate di questo senso speciale."
+            },
+          "Tremorsense": {
+            "name":"Percezione Tellurica",
+            "text":"Un mostro dotato di percezione tellurica è in grado di localizzare con esattezza l'origine delle vibrazioni che si propagano in una determinata area, a patto che lui e la fonte delle vibrazioni siano a contatto con lo stesso terreno o la stessa sostanza. La percezione tellurica non può essere utilizzata per individuare creature volanti o incorporee. Molte creature che scavano, come gli ankheg e gli umber hulk, sono dotate di questo senso speciale."
+            },
+          "Truesight": {
+            "name":"Vista Pura",
+            "text":"Un mostro dotato di vista pura può, entro un raggio specifico, vedere nell'oscurità normale e magica, vedere le creature e gli oggetti invisibili, individuare automaticamente le illusioni visive e superare i tiri salvezza contro di esse e percepire la forma originale di un mutaforma o di una creatura trasformata magicamente. Il mostro può inoltre vedere nel Piano Etereo entro lo stesso raggio."
+            },
+          "Burrow": {
+            "name":"Scavare",
+            "text":"Un mostro dotato di una velocità di scavare può usare tale velocità per muoversi attraverso la sabbia, la terra, il fango o il ghiaccio. Tuttavia, a meno che non sia dotato di un tratto speciale che glielo consenta, non è in grado di scavare nella roccia."
+          },
+          "Climb": {
+            "name":"Scalare",
+            "text":"Un mostro dotato di una velocità di scalare può usare tutto il suo movimento o una parte di esso per spostarsi sulle superfici verticali. Per scalare, il mostro non deve spendere alcun movimento extra."
+          },
+          "Fly": {
+            "name":"Volare",
+            "text":"Un mostro dotato di una velocità di volare può usare tutto il suo movimento o una parte di esso per volare. Alcuni mostri possiedono la capacità di fluttuare e sono molto difficili da abbattere (come spiegato nelle regole relative al volo nel Manuale del Giocatore). I mostri di questo tipo smettono di fluttuare quando muoiono."
+          },
+          "Swim": {
+            "name":"Nuotare",
+            "text":"Un mostro dotato di una velocità di nuotare non ha bisogno di spendere movimento extra per nuotare."
+          }
+          }
+     }
 }
 }

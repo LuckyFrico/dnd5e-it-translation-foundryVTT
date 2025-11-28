@@ -1,0 +1,58 @@
+{
+	"label": "Classi",
+	"folders": {
+    	"Barbarian": "Barbaro",
+		"Bard": "Bardo",
+		"Cleric": "Chierico",
+		"Druid": "Druido",
+		"Fighter": "Guerriero",
+		"Monk": "Monaco",
+		"Paladin": "Paladino",
+		"Ranger": "Ranger",
+		"Rogue": "Ladro",
+		"Sorcerer": "Stregone",
+		"Warlock": "Warlock",
+		"Wizard": "Mago",
+    	"Class Features": "Privilegi di Classe",
+		"Subclass Features": "Privilegi della Sottoclasse",
+		"Path of the Berserker": "Cammino del Berserker",
+		"Lore":"Collegio del Sapere",
+		"Life Domain":"Dominio della Vita",
+		"Circle of Land":"Circolo della Terra",
+		"Champion":"Campione",
+		"Warrior of the Open Hand":"Guerriero della Mano Aperta",
+		"Oath of Devotion":"Giuramento di Devozione",
+		"Hunter":"Cacciatore",
+		"Thief":"Furfante",
+		"Draconic Sorcery":"Stregoneria Draconica",
+		"Metamagic Options":"Opzioni di Metamagia",
+		"Fiend Patron":"Patrono Demoniaco",
+		"Eldritch Invocation Options":"Opzioni di Suppliche Occulte",
+		"Evoker":"Evocatore"
+    },
+	"entries": {
+		"Barbarian":{
+		    "name":"Barbaro",
+			"description":"<h3>Tratti Fondamentali del Barbaro</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>Caratteristica Primaria</p></th><td><p>Forza</p></td></tr><tr><th><p><strong>Dado Punti Ferita</strong></p></th><td><p>D12 per livello da Barbaro</p></td></tr><tr><th><p><strong>Tiri Salvezza Competenti</strong></p></th><td><p>Forza e Costituzione</p></td></tr><tr><th><p><strong>Abilità Competenti</strong></p></th><td><p><em>Scegli 2:</em> Addestrare Animali, Atletica, Intimidire, Natura, Percezione o Sopravvivenza</p></td></tr><tr><th><p><strong>Armi Competenti</strong></p></th><td><p>Armi Semplici e da Guerra</p></td></tr><tr><th><p><strong>Addestramento Armature</strong></p></th><td><p>Armature Leggere e Medie e Scudi</p></td></tr><tr><th><p><strong>Equipaggiamento Iniziale</strong></p></th><td><p><em>Scegli A o B:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreataxe00]{Ascia Bipenne}, 4 @UUID[Compendium.dnd5e.equipment24.Item.phbwepHandaxe000]{Asce da Lancio}, @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{Dotazione da Esploratore}, e [[/award 15GP]]; oppure (B) [[/award 75GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbbrbBarbarian0 inline classes=\"free-rules-embed\"]</p><h2>Diventare un Barbaro …</h2><h3>Come Personaggio di 1° Livello</h3><ul><li>Ottieni tutti i tratti nella tabella Tratti Fondamentali del Barbaro.</li><li>Ottieni le capacità di 1° livello del Barbaro, elencate nella tabella Capacità del Barbaro.</li></ul><h3>Come Personaggio Multiclasse</h3><ul><li>Ottieni i seguenti tratti dalla tabella Tratti Fondamentali del Barbaro: Dado Punti Ferita, competenza con le armi da guerra e addestramento con gli scudi.</li><li>Ottieni le capacità di 1° livello del Barbaro, elencate nella tabella Capacità del Barbaro.</li></ul>"
+	    },
+		"Path of the Berserker":{
+		    "name":"Cammino del Berserker",
+			"descrption":"<blockquote><p>Convogliare l'Ira in Furia Violenta</p></blockquote><p>I barbari che percorrono il Cammino del Berserker indirizzano la loro Ira principalmente verso la violenza. Il loro cammino è fatto di furia incontrollata, e si esaltano nel caos della battaglia mentre permettono alla loro Ira di impossessarsi di loro e potenziarli.</p>"
+	    },
+		"Unarmored Defense":{
+		    "name":"Difesa Senza Armatura",
+			"description":"Se non stai indossando alcuna armatura, la tua Classe Armatura base corrisponde a 10 più i tuoi modificatori di Destrezza e Costituzione. Puoi usare uno scudo e ottenere comunque questo beneficio."
+	    },
+		"Rage":{
+		    "name":"Ira",
+			"description":"<p>Puoi infondere te stesso con un potere primordiale chiamato Ira, una forza che ti concede straordinaria potenza e resilienza. Puoi entrare in Ira come Azione Bonus se non indossi un’armatura Pesante.</p><p>Puoi entrare in Ira il numero di volte indicato per il tuo livello da Barbaro nella colonna Ira della tabella delle Caratteristiche del Barbaro (attualmente [[lookup @scale.barbarian.rages]]). Recuperi un uso speso al termine di un Riposo Breve e tutti gli usi spesi al termine di un Riposo Lungo.</p><p>Quando è attiva, la tua Ira segue le regole seguenti.</p><p><strong>Resistenza ai Danni.</strong> Hai Resistenza ai danni contundenti, perforanti e taglienti.</p><p><strong>Danni dell’Ira.</strong> Quando effettui un attacco usando la Forza—con un’arma o con un Colpo senz’Armi—e infliggi danno al bersaglio, ottieni un bonus ai danni che aumenta con il tuo livello da Barbaro, come mostrato nella colonna Danni dell’Ira della tabella delle Caratteristiche del Barbaro.</p><p><strong>Vantaggio alla Forza.</strong> Hai Vantaggio alle prove di Forza e ai tiri salvezza su Forza.</p><p><strong>Niente Concentrazione o Incantesimi.</strong> Non puoi mantenere la Concentrazione e non puoi lanciare incantesimi.</p><p><strong>Durata.</strong> L’Ira dura fino alla fine del tuo prossimo turno e termina anticipatamente se indossi un’armatura Pesante o se ottieni la condizione Incapacitato. Se la tua Ira è ancora attiva al tuo prossimo turno, puoi estenderla per un altro round facendo una delle seguenti azioni:</p><ul><li>Effettuare un tiro per colpire contro un nemico.</li><li>Costringere un nemico a effettuare un tiro salvezza.</li><li>Usare un’Azione Bonus per estendere la tua Ira.</li></ul><p>Ogni volta che l’Ira viene estesa, dura fino alla fine del tuo prossimo turno. Puoi mantenere l’Ira fino a un massimo di 10 minuti.</p><section class=\"secret\" id=\"secret-o72MSFMdhSQC7kYa\"><p><strong>Nota per Foundry</strong></p><p>Questa caratteristica include un Effetto Attivo che automatizza la Resistenza e i danni aggiuntivi. Questa caratteristica ricarica automaticamente i tuoi usi di Ira durante un Riposo Breve e un Riposo Lungo.</p></section>"
+	    },
+		"Compendium.dnd5e.classes24.Item.phbbrbWeaponMast":{
+		    "name":"Padronanza d'Armi",
+			"description":"<p>Il tuo addestramento con le armi ti permette di utilizzare le proprietà di maestria di due tipi di armi da mischia Semplici o da Guerra a tua scelta, come le Asce Bipenni e le Asce da Lancio. Ogni volta che completi un Riposo Lungo, puoi esercitarti con le armi e cambiare una di queste scelte.</p><p>Quando raggiungi determinati livelli da Barbaro, ottieni la capacità di utilizzare le proprietà di maestria di più tipi di armi, come indicato nella colonna Maestria delle Armi della tabella Capacità del Barbaro.</p>"
+	    },
+		"Unarmed Strike":{
+		    "name":"Colpo Senza Armi"
+	    }
+	}
+}

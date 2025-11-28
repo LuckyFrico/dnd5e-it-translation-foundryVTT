@@ -1,0 +1,39 @@
+{
+	"label": "Origini",
+	"folders": {
+    	"Backgrounds": "Background",
+		"Species": "Specie",
+		"Traits": "Tratti",
+		"Dragonborn": "Dragonide",
+		"Dwarf": "Nano",
+		"Elf": "Elfo",
+		"Gnome": "Gnomo",
+		"Goliath": "Goliath",
+		"Halfling": "Halfling",
+		"Human": "Umano",
+		"Orc": "Orco",
+		"Tiefling": "Tiefling"
+    },
+	"entries": {
+		"Acolyte":{
+		    "name":"Accolito"
+	    },
+		"Criminal":{
+		    "name":"Criminale"
+	    },
+		"Sage":{
+		    "name":"Saggio"
+	    },
+		"Soldier":{
+		    "name":"Soldato"
+	    },
+		"Dragonborn":{
+		    "name":"Dragonide",
+			"text":"<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDragonborn0 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"dragonborn-traits\">Tratti del Draconato</h3><p><strong>Tipo di Creatura: </strong>Umanoide</p><p><strong>Taglia: </strong>Media (circa 150–210 cm di altezza)</p><p><strong>Velocità:</strong> 9 metri</p><p>Come Draconato, possiedi questi tratti speciali.</p><p><strong>Discendenza Draconica.</strong> La tua discendenza proviene da un progenitore draconico. Scegli il tipo di drago dalla tabella degli Antenati Draconici. La tua scelta influenza i tratti Arma a Soffio e Resistenza ai Danni, oltre al tuo aspetto.</p><table><caption>Antenati Draconici</caption><thead><tr><td>Drago</td><td>Tipo di Danno</td><td>Drago</td><td>Tipo di Danno</td></tr></thead><tbody><tr><td>Nero</td><td>Acido</td><td>Dorato</td><td>Fuoco</td></tr><tr><td>Blu</td><td>Fulmine</td><td>Verde</td><td>Veleno</td></tr><tr><td>Ottone</td><td>Fuoco</td><td>Rosso</td><td>Fuoco</td></tr><tr><td>Bronzo</td><td>Fulmine</td><td>Argento</td><td>Freddo</td></tr><tr><td>Rame</td><td>Acido</td><td>Bianco</td><td>Freddo</td></tr></tbody></table><p><strong>Soffio.</strong> Quando compi l'azione di Attacco nel tuo turno, puoi sostituire uno dei tuoi attacchi con un'esalazione di energia magica in un Cono di 4,5 metri oppure in una Linea di 9 metri di lunghezza e 1,5 metri di larghezza (scegli la forma ogni volta). Ogni creatura in quell'area deve effettuare un tiro salvezza su Destrezza (CD 8 + il tuo modificatore di Costituzione + il tuo Bonus di Competenza). Se fallisce il tiro salvezza, la creatura subisce 1d10 danni del tipo determinato dal tuo tratto Ascendenza Draconica. Se lo supera, subisce metà dei danni. Questo danno aumenta di 1d10 quando raggiungi il 5° livello (2d10), l'11° livello (3d10) e il 17° livello (4d10). Puoi usare quest'Arma a Soffio un numero di volte pari al tuo Bonus di Competenza e recuperi tutti gli usi spesi al termine di un Riposo Lungo.</p><p><strong>Resistenza ai Danni. </strong>Hai Resistenza al tipo di danno determinato dal tuo tratto Ascendenza Draconica.</p><p><strong>Scurovisione. </strong>Possiedi Scurovisione con una portata di 18 metri.</p><p><strong>Volo Draconico.</strong> Quando raggiungi il 5° livello, puoi incanalare la magia draconica per ottenere un volo temporaneo. Come Azione Bonus, fai spuntare ali spettrali sulla tua schiena che durano per 10 minuti o finché non le ritrai (non richiede azione) o finché non sei Afflitto dalla condizione Incapacitato. Durante quel tempo, possiedi una Velocità di Volo pari alla tua Velocità. Le tue ali sembrano costituite della stessa energia della del Soffio. Una volta usato questo tratto, non puoi riutilizzarlo finché non completi un Riposo Lungo.</p>"
+	    },
+		"Breath Weapon":{
+		    "name":"Soffio",
+			"text":"<p>Quando compi l'azione di Attacco nel tuo turno, puoi sostituire uno dei tuoi attacchi con un'esalazione di energia magica in un Cono di 4,5 metri oppure in una Linea di 9 metri di lunghezza e 1,5 metri di larghezza (scegli la forma ogni volta). Ogni creatura in quell'area deve effettuare un tiro salvezza su Destrezza (CD 8 + il tuo modificatore di Costituzione + il tuo Bonus di Competenza). Se fallisce il tiro salvezza, la creatura subisce 1d10 danni del tipo determinato dal tuo tratto Discendenza Draconica. Se lo supera, subisce metà dei danni. Questo danno aumenta di 1d10 quando raggiungi il 5° livello (2d10), l'11° livello (3d10) e il 17° livello (4d10). Puoi usare quest'Arma a Soffio un numero di volte pari al tuo Bonus di Competenza e recuperi tutti gli usi spesi al termine di un Riposo Lungo.</p><section class=\"secret\" id=\"secret-iuhfGfxgl8GeYWBf\"><p><strong>Nota Foundry</strong></p><p>Le attività <strong>Arma a Soffio (Cono)</strong> e <strong>Arma a Soffio (Linea)</strong> sono entrambe configurate per il loro tipo di sagoma e includono ciascun tipo di danno. Il danno scala anche con l'aumentare del livello.</p><p>Puoi selezionare il tipo di danno nella finestra di dialogo del tiro di danno. La scelta del danno verrà ricordata in seguito. Puoi modificare le attività per rimuovere gli altri tipi di danno e saltare questa selezione.</p></section>"
+	    }
+	}
+}
