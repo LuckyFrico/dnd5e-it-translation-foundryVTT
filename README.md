@@ -30,6 +30,7 @@ Con la partecipazione ed il supporto di [Academy GDR](https://discord.gg/gEvHQ2P
 ## Novità
 Con la versione 1.3.0 sono state introdotte nuove traduzioni dei compendi tramite il modulo Babele.
 Grazie a questo aggiornamento è ora possibile tradurre anche parti che in precedenza non erano incluse nel semplice Core del sistema D&D 5e.
+Attualemente è in sviluppo la traduzione del compendio delle regole SRD 2024.
 
 ### Conversione al sistema metrico
 Con la versione 2.0.0 sono stati aggiunti script per la conversione automatica delle unità di misura dal sistema imperiale al Sistema Metrico.
