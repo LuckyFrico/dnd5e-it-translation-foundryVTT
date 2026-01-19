@@ -1,0 +1,7865 @@
+{
+  "label": "Attori",
+  "folders": {
+    "Aberration": "Abberrazioni",
+    "Animated Objects": "Oggetti Animati",
+    "Beast": "Beast",
+    "Celestial": "Celestiali",
+    "Companions": "Famigli",
+    "Conjurations": "Conjurations",
+    "Conjured Elementals": "Conjured Elementals",
+    "Construct": "Costrutti",
+    "Dragon": "Draghi",
+    "Elemental": "Elementali",
+    "Fey": "Fey",
+    "Fiend": "Fiend",
+    "Giant": "Giganti",
+    "Giant Insects": "Insetti Giganti",
+    "Humanoid": "Umanoidi",
+    "Magic Items": "Oggetti Magici",
+    "Monstrosity": "Mostruosità",
+    "Ooze": "Ooze",
+    "Otherworldly Steeds": "Otherworldly Steeds",
+    "Plant": "Piante",
+    "Summon Templates": "Summon Templates",
+    "Summons": "Evocazioni",
+    "Swarm": "Swarm",
+    "Undead": "Non Morti",
+    "Vehicles": "Veicoli"
+  },
+  "entries": {
+    "VBTtG9kjHNQstG0a": {
+      "name": "Airship",
+      "tokenName": "Airship"
+    },
+    "dmg3x5CarpetofFl": {
+      "name": "Carpet of Flying (3 by 5 ft.)",
+      "tokenName": "Carpet of Flying",
+      "items": {
+        "jRXMMWyLsf3cPmSP": {
+          "name": "Carry Weight Adjustment"
+        }
+      }
+    },
+    "dmg4x6CarpetofFl": {
+      "name": "Carpet of Flying (4 by 6 ft.)",
+      "tokenName": "Carpet of Flying",
+      "items": {
+        "cdo7WnGawlzIo3MD": {
+          "name": "Carry Weight Adjustment"
+        }
+      }
+    },
+    "dmg5x7CarpetofFl": {
+      "name": "Carpet of Flying (5 by 7 ft.)",
+      "tokenName": "Carpet of Flying"
+    },
+    "dmg6x9CarpetofFl": {
+      "name": "Carpet of Flying (6 by 9 ft.)",
+      "tokenName": "Carpet of Flying",
+      "items": {
+        "kgZMlH9XtkOvSHqQ": {
+          "name": "Carry Weight Adjustment"
+        }
+      }
+    },
+    "dmgApparatusofKw": {
+      "name": "Apparatus of the Crab",
+      "tokenName": "Apparatus of the Crab",
+      "items": {
+        "fmdWz6RQsUCHneZF": {
+          "name": "Claw Attack"
+        },
+        "tgIjCBtGCZvMu8ij": {
+          "name": "Grapple Attack"
+        }
+      }
+    },
+    "dmgAvatarofDeath": {
+      "name": "Avatar of Death",
+      "tokenName": "Avatar of Death",
+      "items": {
+        "dmgaoiIncorporea": {
+          "name": "Incorporeal Movement"
+        },
+        "dmgaoiMultiattac": {
+          "name": "Multiattacco"
+        },
+        "dmgaoiReapingScy": {
+          "name": "Reaping Scythe"
+        }
+      }
+    },
+    "dmgGiantFly00000": {
+      "name": "Giant Fly",
+      "tokenName": "Giant Fly"
+    },
+    "dmgGoatofTraveli": {
+      "name": "Goat of Traveling",
+      "tokenName": "Goat of Traveling",
+      "items": {
+        "phbaoiHooves0000": {
+          "name": "Hooves"
+        }
+      }
+    },
+    "dmgIllusoryCreat": {
+      "name": "Illusory Creature",
+      "tokenName": "Illusory Creature"
+    },
+    "dmggwsDancingSwo": {
+      "name": "Dancing Sword",
+      "tokenName": "Dancing Sword",
+      "items": {
+        "W8EZZZznFN8X4gGD": {
+          "name": "Greatsword"
+        },
+        "DPH6ngFfFJHdxMYe": {
+          "name": "Longsword"
+        },
+        "dlSKamvVAPMCCTbC": {
+          "name": "Rapier"
+        },
+        "aYun8JFJxhdpFw14": {
+          "name": "Scimitar"
+        },
+        "237FLmvncdVOhDKY": {
+          "name": "Shortsword"
+        }
+      }
+    },
+    "dmgqftFloatingWh": {
+      "name": "Floating Whip",
+      "tokenName": "Floating Whip",
+      "items": {
+        "JczWMhh6A5JU8yfN": {
+          "name": "Melee Spell Attack"
+        }
+      }
+    },
+    "mmAboleth0000000": {
+      "name": "Aboleth",
+      "tokenName": "Aboleth",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmEldritchRestor": {
+          "name": "Eldritch Restoration"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMucusCloud0000": {
+          "name": "Mucus Cloud"
+        },
+        "mmProbingTelepat": {
+          "name": "Probing Telepathy"
+        },
+        "mmTentacle000000": {
+          "name": "Tentacle"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "yiiKNaJ2svcUWqLi": {
+          "name": "Dominate Mind"
+        },
+        "7gP0oX3L1RKRaBGH": {
+          "name": "Consume Memories"
+        },
+        "ko31Vae4lE8qo5Ez": {
+          "name": "Lash"
+        },
+        "K4jKE3RzUp4lUv6z": {
+          "name": "Psychic Drain"
+        }
+      }
+    },
+    "mmAdultBlackDrag": {
+      "name": "Adult Black Dragon",
+      "tokenName": "Adult Black Dragon",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmAcidBreath0000": {
+          "name": "Acid Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "hoJ27ZfNj6LIlgzf": {
+          "name": "Individuazione del Magico"
+        },
+        "usixW0YhBv27P281": {
+          "name": "Fear"
+        },
+        "IjO0nHwPyxtJ6RzW": {
+          "name": "Melf's Acid Arrow"
+        },
+        "AkUkBEQO4WHp8wjd": {
+          "name": "Speak with Dead"
+        },
+        "YtqaPviYTERxxntD": {
+          "name": "Vitriolic Sphere"
+        },
+        "mmCloudOfInsects": {
+          "name": "Cloud of Insects"
+        },
+        "mmFrightfulPrese": {
+          "name": "Frightful Presence"
+        },
+        "gVlAKwebdYMDFAzv": {
+          "name": "Fear"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        }
+      }
+    },
+    "mmAdultBlueDrago": {
+      "name": "Adult Blue Dragon",
+      "tokenName": "Adult Blue Dragon",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmLightningBreat": {
+          "name": "Lightning Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "DjANK1D4MSFUnAK5": {
+          "name": "Individuazione del Magico"
+        },
+        "7gDzjW0xMFSlUZyE": {
+          "name": "Invisibility"
+        },
+        "2NUx0vDjK5sXIma8": {
+          "name": "Mage Hand"
+        },
+        "B6WlN9e6pcFRTCF9": {
+          "name": "Shatter"
+        },
+        "EXlONg8fd7p8n1dt": {
+          "name": "Scrying"
+        },
+        "cOqihNCpkVz9XXGx": {
+          "name": "Sending"
+        },
+        "mmCloakedFlight0": {
+          "name": "Cloaked Flight"
+        },
+        "mmSonicBoom00000": {
+          "name": "Sonic Boom"
+        },
+        "ovjYLr2qHJA652lq": {
+          "name": "Shatter"
+        },
+        "mmTailSwipe00000": {
+          "name": "Tail Swipe"
+        }
+      }
+    },
+    "mmAdultBrassDrag": {
+      "name": "Adult Brass Dragon",
+      "tokenName": "Adult Brass Dragon",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        },
+        "mmSleepBreath000": {
+          "name": "Sleep Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "JmI3i6YXq2lRaw13": {
+          "name": "Individuazione del Magico"
+        },
+        "HbCZyPH7hYNiqQI3": {
+          "name": "Illusione Minore"
+        },
+        "po1oMMVa5As09ueX": {
+          "name": "Shapechange"
+        },
+        "TUiTUlD8aaRsW2m2": {
+          "name": "Speak with Animals"
+        },
+        "y7iGAk2LDr32QTmX": {
+          "name": "Detect Thoughts"
+        },
+        "nVRTlv14fzhoDhWf": {
+          "name": "Control Weather"
+        },
+        "mmBlazingLight00": {
+          "name": "Blazing Light"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        },
+        "mmScorchingSands": {
+          "name": "Scorching Sands"
+        }
+      }
+    },
+    "mmAdultBronzeDra": {
+      "name": "Adult Bronze Dragon",
+      "tokenName": "Adult Bronze Dragon",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmLightningBreat": {
+          "name": "Lightning Breath"
+        },
+        "mmRepulsionBreat": {
+          "name": "Repulsion Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "Fq2btaoAHlpjfrnn": {
+          "name": "Individuazione del Magico"
+        },
+        "51zWIywGSeoKks2C": {
+          "name": "Guiding Bolt"
+        },
+        "0KV8Mei6HOjSVSIJ": {
+          "name": "Shapechange"
+        },
+        "h6JPR5HskQHet2YX": {
+          "name": "Speak with Animals"
+        },
+        "oVhABdKIr7rLqUKQ": {
+          "name": "Thaumaturgy"
+        },
+        "BAy7bb5lPHos564q": {
+          "name": "Detect Thoughts"
+        },
+        "Ivt24fmab2EsSsFJ": {
+          "name": "Water Breathing"
+        },
+        "mmGuidingLight00": {
+          "name": "Guiding Light"
+        },
+        "lUJ9dc6cS9834GvY": {
+          "name": "Guiding Bolt"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        },
+        "mmThunderclap000": {
+          "name": "Thunderclap"
+        }
+      }
+    },
+    "mmAdultCopperDra": {
+      "name": "Adult Copper Dragon",
+      "tokenName": "Adult Copper Dragon",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmAcidBreath0000": {
+          "name": "Acid Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "VfJl4waJI38BhqP4": {
+          "name": "Individuazione del Magico"
+        },
+        "S0YZChDQCTi9ATIc": {
+          "name": "Mind Spike"
+        },
+        "AkRlo4XlaWlqEYf8": {
+          "name": "Illusione Minore"
+        },
+        "5i8frrcUR4K2iO1t": {
+          "name": "Shapechange"
+        },
+        "YF3zC2V8YrdUIHAN": {
+          "name": "Greater Restoration"
+        },
+        "OmtcK0JqIEMMgd85": {
+          "name": "Major Image"
+        },
+        "mmGigglingMagic0": {
+          "name": "Giggling Magic"
+        },
+        "mmMindJolt000000": {
+          "name": "Mind Jolt"
+        },
+        "BJrBa0MNK8aLqGPX": {
+          "name": "Mind Spike"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        },
+        "mmSlowingBreath0": {
+          "name": "Slowing Breath"
+        }
+      }
+    },
+    "mmAdultGoldDrago": {
+      "name": "Adult Gold Dragon",
+      "tokenName": "Adult Gold Dragon",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "kPLdXUnQxMINrwVs": {
+          "name": "Individuazione del Magico"
+        },
+        "PsNpUR9S5sbuW1il": {
+          "name": "Guiding Bolt"
+        },
+        "gl6bEE3QKzxsXUNL": {
+          "name": "Shapechange"
+        },
+        "UHVf95GO7pUqRScP": {
+          "name": "Flame Strike"
+        },
+        "eauhb52VgrhiI7g9": {
+          "name": "Zone of Truth"
+        },
+        "mmWeakeningBreat": {
+          "name": "Weakening Breath"
+        },
+        "mmBanish00000000": {
+          "name": "Banish"
+        },
+        "mmGuidingLight00": {
+          "name": "Guiding Light"
+        },
+        "uqgvLolmdHxEAxzh": {
+          "name": "Guiding Bolt"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        }
+      }
+    },
+    "mmAdultGreenDrag": {
+      "name": "Adult Green Dragon",
+      "tokenName": "Adult Green Dragon",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmPoisonBreath00": {
+          "name": "Poison Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "GdQeiI6jPaHkWcBV": {
+          "name": "Individuazione del Magico"
+        },
+        "Tjtbg7vGvWPOJzrh": {
+          "name": "Mind Spike"
+        },
+        "uphk5wRe7cRCXMDE": {
+          "name": "Geas"
+        },
+        "mmMindInvasion00": {
+          "name": "Mind Invasion"
+        },
+        "dy0l7xKBTqDorsVy": {
+          "name": "Mind Spike"
+        },
+        "mmNoxiousMiasma0": {
+          "name": "Noxious Miasma"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        }
+      }
+    },
+    "mmAdultRedDragon": {
+      "name": "Adult Red Dragon",
+      "tokenName": "Adult Red Dragon",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        },
+        "mmCommandingPres": {
+          "name": "Commanding Presence"
+        },
+        "XdmqM6EC8IQGORA7": {
+          "name": "Command"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "96FsmcQizygzJObm": {
+          "name": "Command"
+        },
+        "XSQvtfHscntDlwUz": {
+          "name": "Individuazione del Magico"
+        },
+        "cZAd3i7LBGyErsZb": {
+          "name": "Scorching Ray"
+        },
+        "ovOl8m4PyxnQNcMs": {
+          "name": "Fireball"
+        },
+        "mmFieryRays00000": {
+          "name": "Fiery Rays"
+        },
+        "xAtxnx1heKJdMFCH": {
+          "name": "Scorching Ray"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        }
+      }
+    },
+    "mmAdultSilverDra": {
+      "name": "Adult Silver Dragon",
+      "tokenName": "Adult Silver Dragon",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmColdBreath0000": {
+          "name": "Cold Breath"
+        },
+        "mmParalyzingBrea": {
+          "name": "Paralyzing Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "xM689Lh3r7eqGpAY": {
+          "name": "Individuazione del Magico"
+        },
+        "FGKQ5cIUuEwLPYE3": {
+          "name": "Hold Monster"
+        },
+        "hVcbJwtsvzfFPmZO": {
+          "name": "Ice Knife"
+        },
+        "zLAU5o1agGKxqPYb": {
+          "name": "Shapechange"
+        },
+        "SivIEpMZpBnAAlI3": {
+          "name": "Ice Storm"
+        },
+        "Tgz7wo84W1pSb5UE": {
+          "name": "Zone of Truth"
+        },
+        "mmChill000000000": {
+          "name": "Chill"
+        },
+        "mmColdGale000000": {
+          "name": "Cold Gale"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        },
+        "gjsupslJSKQGlNdY": {
+          "name": "Hold Monster"
+        }
+      }
+    },
+    "mmAdultWhiteDrag": {
+      "name": "Adult White Dragon",
+      "tokenName": "Adult White Dragon",
+      "items": {
+        "mmIceWalk0000000": {
+          "name": "Ice Walk"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmColdBreath0000": {
+          "name": "Cold Breath"
+        },
+        "mmFreezingBurst0": {
+          "name": "Freezing Burst"
+        },
+        "mmFrightfulPrese": {
+          "name": "Frightful Presence"
+        },
+        "J6PEYQgS9LHDoTaq": {
+          "name": "Fear"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        }
+      }
+    },
+    "mmAirElemental00": {
+      "name": "Air Elemental",
+      "tokenName": "Air Elemental",
+      "items": {
+        "mmAirForm0000000": {
+          "name": "Air Form"
+        },
+        "mmThunderousSlam": {
+          "name": "Thunderous Slam"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmWhirlwind00000": {
+          "name": "Whirlwind"
+        }
+      }
+    },
+    "mmAllosaurus0000": {
+      "name": "Allosaurus",
+      "tokenName": "Allosaurus",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmClaws000000000": {
+          "name": "Claws"
+        }
+      }
+    },
+    "mmAncientBlackDr": {
+      "name": "Ancient Black Dragon",
+      "tokenName": "Ancient Black Dragon",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmAcidBreath0000": {
+          "name": "Acid Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "1twiaSI2Uric4bTI": {
+          "name": "Individuazione del Magico"
+        },
+        "5JLSjcBWRU5O5oKu": {
+          "name": "Fear"
+        },
+        "cuqkOUrmNhkntoHX": {
+          "name": "Melf's Acid Arrow"
+        },
+        "UcplL49FOmK57nA4": {
+          "name": "Create Undead"
+        },
+        "thdt9qqr4Hh0H8ox": {
+          "name": "Speak with Dead"
+        },
+        "3wJDvk72mq7GaNo2": {
+          "name": "Vitriolic Sphere"
+        },
+        "mmCloudOfInsects": {
+          "name": "Cloud of Insects"
+        },
+        "mmFrightfulPrese": {
+          "name": "Frightful Presence"
+        },
+        "VVUgABLlS8lQwH7N": {
+          "name": "Fear"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        }
+      }
+    },
+    "mmAncientBlueDra": {
+      "name": "Ancient Blue Dragon",
+      "tokenName": "Ancient Blue Dragon",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmLightningBreat": {
+          "name": "Lightning Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "2UciHazQvhCx7CPp": {
+          "name": "Individuazione del Magico"
+        },
+        "FlUeG3M3TNcZ4aNj": {
+          "name": "Invisibility"
+        },
+        "nx98etdOuNlIWdf6": {
+          "name": "Mage Hand"
+        },
+        "LFH0YeP80unYWTS8": {
+          "name": "Shatter"
+        },
+        "MKxlhPzwrIKZRWqY": {
+          "name": "Scrying"
+        },
+        "i85zlI8RmuI6xYw5": {
+          "name": "Sending"
+        },
+        "mmCloakedFlight0": {
+          "name": "Cloaked Flight"
+        },
+        "j529u2kIzgwyFvaW": {
+          "name": "Invisibility"
+        },
+        "mmSonicBoom00000": {
+          "name": "Sonic Boom"
+        },
+        "7qttG6d39UUsh2ni": {
+          "name": "Shatter"
+        },
+        "mmTailSwipe00000": {
+          "name": "Tail Swipe"
+        }
+      }
+    },
+    "mmAncientBrassDr": {
+      "name": "Ancient Brass Dragon",
+      "tokenName": "Ancient Brass Dragon",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        },
+        "mmSleepBreath000": {
+          "name": "Sleep Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "pGP49eWCVXNRQplJ": {
+          "name": "Individuazione del Magico"
+        },
+        "NXKBuzEfYUqQEtJg": {
+          "name": "Illusione Minore"
+        },
+        "UNBQgzWQHfnUrMrU": {
+          "name": "Scorching Ray"
+        },
+        "l7t8gpKOgNTYTAOy": {
+          "name": "Shapechange"
+        },
+        "8tkbN48WmRilp6OK": {
+          "name": "Speak with Animals"
+        },
+        "dlHUUoPvS3KVUvQH": {
+          "name": "Control Weather"
+        },
+        "LXHi0qHTix6IsSdc": {
+          "name": "Detect Thoughts"
+        },
+        "mmBlazingLight00": {
+          "name": "Blazing Light"
+        },
+        "avRQmBHdyL4zmQUU": {
+          "name": "Scorching Ray"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        },
+        "mmScorchingSands": {
+          "name": "Scorching Sands"
+        }
+      }
+    },
+    "mmAncientBronzeD": {
+      "name": "Ancient Bronze Dragon",
+      "tokenName": "Ancient Bronze Dragon",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmRepulsionBreat": {
+          "name": "Repulsion Breath"
+        },
+        "mmLightningBreat": {
+          "name": "Lightning Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "aS9fEQs26AaqVtkR": {
+          "name": "Individuazione del Magico"
+        },
+        "UPNvQdn6GdOP79du": {
+          "name": "Guiding Bolt"
+        },
+        "Wgz6pLYjVBAOvNf5": {
+          "name": "Shapechange"
+        },
+        "b2F1edL1NKY3Yo0j": {
+          "name": "Speak with Animals"
+        },
+        "nEBoPZejGFPgIfWu": {
+          "name": "Thaumaturgy"
+        },
+        "SUqCisgEYVYta6cz": {
+          "name": "Detect Thoughts"
+        },
+        "weRr4SCAG9rNPGAp": {
+          "name": "Control Water"
+        },
+        "ZOBi3WSp6rdFzHKV": {
+          "name": "Scrying"
+        },
+        "bTqY9xsP9FoWNRYo": {
+          "name": "Water Breathing"
+        },
+        "mmGuidingLight00": {
+          "name": "Guiding Light"
+        },
+        "cX5AzyoQwomRKH1I": {
+          "name": "Guiding Bolt"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        },
+        "mmThunderclap000": {
+          "name": "Thunderclap"
+        }
+      }
+    },
+    "mmAncientCopperD": {
+      "name": "Ancient Copper Dragon",
+      "tokenName": "Ancient Copper Dragon",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmAcidBreath0000": {
+          "name": "Acid Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "LA9GAVRnkMws7yII": {
+          "name": "Individuazione del Magico"
+        },
+        "19dZZq6HVUzWWRAU": {
+          "name": "Mind Spike"
+        },
+        "Kqbadvy7ax8eSeAq": {
+          "name": "Illusione Minore"
+        },
+        "FZYulIQTy7FgRVml": {
+          "name": "Shapechange"
+        },
+        "8p1xBPH1NHOgzzJK": {
+          "name": "Greater Restoration"
+        },
+        "U9ncjbs7SjYFPMwK": {
+          "name": "Major Image"
+        },
+        "QZ63bcTw0GBEeavI": {
+          "name": "Project Image"
+        },
+        "mmGigglingMagic0": {
+          "name": "Giggling Magic"
+        },
+        "mmMindJolt000000": {
+          "name": "Mind Jolt"
+        },
+        "8H0gCoUxI0FV16Ie": {
+          "name": "Mind Spike"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        },
+        "BqtNDu2WFDju2dM6": {
+          "name": "Slowing Breath"
+        }
+      }
+    },
+    "mmAncientGoldDra": {
+      "name": "Ancient Gold Dragon",
+      "tokenName": "Ancient Gold Dragon",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmWeakeningBreat": {
+          "name": "Weakening Breath"
+        },
+        "mmBanish00000000": {
+          "name": "Banish"
+        },
+        "mmGuidingLight00": {
+          "name": "Guiding Light"
+        },
+        "XdXrDIoYifWG1pNl": {
+          "name": "Guiding Bolt"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        },
+        "3uvTdORfoscOryM8": {
+          "name": "Individuazione del Magico"
+        },
+        "SPdn3NhEymbSXb5G": {
+          "name": "Guiding Bolt"
+        },
+        "pRJU7bqMNKx6FDJS": {
+          "name": "Shapechange"
+        },
+        "XvbPgh5M2XuLlSVA": {
+          "name": "Flame Strike"
+        },
+        "MqlOf7xFojXjCb7l": {
+          "name": "Zone of Truth"
+        },
+        "8fyeR6xiLPhR9TgR": {
+          "name": "Word of Recall"
+        }
+      }
+    },
+    "mmAncientGreenDr": {
+      "name": "Ancient Green Dragon",
+      "tokenName": "Ancient Green Dragon",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmPoisonBreath00": {
+          "name": "Poison Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmMindInvasion00": {
+          "name": "Mind Invasion"
+        },
+        "AnuzCEpfFtXuG3W7": {
+          "name": "Mind Spike"
+        },
+        "mmNoxiousMiasma0": {
+          "name": "Noxious Miasma"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        },
+        "jQJwpCjrh2Svg36q": {
+          "name": "Individuazione del Magico"
+        },
+        "5hVmOPSU4TtlM3Dq": {
+          "name": "Mind Spike"
+        },
+        "xS0qNh6JLxK7c7tU": {
+          "name": "Geas"
+        },
+        "LKsjPtvevuO1j4M6": {
+          "name": "Modify Memory"
+        }
+      }
+    },
+    "mmAncientRedDrag": {
+      "name": "Ancient Red Dragon",
+      "tokenName": "Ancient Red Dragon",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmCommandingPres": {
+          "name": "Commanding Presence"
+        },
+        "Odow2YaRaUYFKNtX": {
+          "name": "Command"
+        },
+        "mmFieryRays00000": {
+          "name": "Fiery Rays"
+        },
+        "97SbPwUvhLXLHzVu": {
+          "name": "Scorching Ray"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        },
+        "TJGECkkcnYNAPgU4": {
+          "name": "Command"
+        },
+        "Syml5vFGmUBRQETy": {
+          "name": "Individuazione del Magico"
+        },
+        "d46ID57MMv75vOld": {
+          "name": "Scorching Ray"
+        },
+        "OwcZ6VgSO66BcTDs": {
+          "name": "Fireball"
+        },
+        "UEQKhiERIOS4b8zt": {
+          "name": "Scrying"
+        }
+      }
+    },
+    "mmAncientSilverD": {
+      "name": "Ancient Silver Dragon",
+      "tokenName": "Ancient Silver Dragon",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmColdBreath0000": {
+          "name": "Cold Breath"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmParalyzingBrea": {
+          "name": "Paralyzing Breath"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmChill000000000": {
+          "name": "Chill"
+        },
+        "mmColdGale000000": {
+          "name": "Cold Gale"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        },
+        "jjedGyzgRuoeugFI": {
+          "name": "Individuazione del Magico"
+        },
+        "lglvYkZZuNa2mBbW": {
+          "name": "Hold Monster"
+        },
+        "PKyjsB9FatOz0E6d": {
+          "name": "Ice Knife"
+        },
+        "FwNGRkESnbtR7mnu": {
+          "name": "Shapechange"
+        },
+        "00znrkvEmULVA7mL": {
+          "name": "Control Weather"
+        },
+        "8iD8bAtxQiNfzfqd": {
+          "name": "Ice Storm"
+        },
+        "CkOgqfGEoGXxANDG": {
+          "name": "Teleport"
+        },
+        "nfMwA64qsTbhzRka": {
+          "name": "Zone of Truth"
+        },
+        "MErWIPKshyPTdVKo": {
+          "name": "Hold Monster"
+        }
+      }
+    },
+    "mmAncientWhiteDr": {
+      "name": "Ancient White Dragon",
+      "tokenName": "Ancient White Dragon",
+      "items": {
+        "mmIceWalk0000000": {
+          "name": "Ice Walk"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmColdBreath0000": {
+          "name": "Cold Breath"
+        },
+        "mmFreezingBurst0": {
+          "name": "Freezing Burst"
+        },
+        "mmFrightfulPrese": {
+          "name": "Frightful Presence"
+        },
+        "JGAy5fooJdCpaQig": {
+          "name": "Fear"
+        },
+        "mmPounce00000000": {
+          "name": "Pounce"
+        }
+      }
+    },
+    "mmAnimatedArmor0": {
+      "name": "Animated Armor",
+      "tokenName": "Animated Armor",
+      "items": {
+        "mmSlam0000000000": {
+          "name": "Slam"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        }
+      }
+    },
+    "mmAnimatedFlying": {
+      "name": "Animated Flying Sword",
+      "tokenName": "Animated Flying Sword",
+      "items": {
+        "mmSlash000000000": {
+          "name": "Slash"
+        }
+      }
+    },
+    "mmAnimatedRugOfS": {
+      "name": "Animated Rug of Smothering",
+      "tokenName": "Animated Rug of Smothering",
+      "items": {
+        "mmSmother0000000": {
+          "name": "Smother"
+        }
+      }
+    },
+    "mmAnkheg00000000": {
+      "name": "Ankheg",
+      "tokenName": "Ankheg",
+      "items": {
+        "mmTunneler000000": {
+          "name": "Tunneler"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmAcidSpray00000": {
+          "name": "Acid Spray"
+        }
+      }
+    },
+    "mmAnkylosaurus00": {
+      "name": "Ankylosaurus",
+      "tokenName": "Ankylosaurus",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmTail0000000000": {
+          "name": "Tail"
+        }
+      }
+    },
+    "mmApe00000000000": {
+      "name": "Ape",
+      "tokenName": "Ape",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmFist0000000000": {
+          "name": "Fist"
+        },
+        "mmRock0000000000": {
+          "name": "Rock"
+        }
+      }
+    },
+    "mmArchelon000000": {
+      "name": "Archelon",
+      "tokenName": "Archelon",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmArchmage000000": {
+      "name": "Archmage",
+      "tokenName": "Archmage",
+      "items": {
+        "Cp0CkYsnKdJGqvW3": {
+          "name": "Wand"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmArcaneBurst000": {
+          "name": "Arcane Burst"
+        },
+        "mmMistyStep00000": {
+          "name": "Misty Step"
+        },
+        "lSbRnSVRWsTQoh2w": {
+          "name": "Misty Step"
+        },
+        "mmProtectiveMagi": {
+          "name": "Protective Magic"
+        },
+        "LlpWvmntDHEqUqdZ": {
+          "name": "Counterspell"
+        },
+        "49ScnMv8K3QZJhlf": {
+          "name": "Shield"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mPMsVnGpMgQ8utsG": {
+          "name": "Individuazione del Magico"
+        },
+        "QMTisKKh90SGaCnO": {
+          "name": "Detect Thoughts"
+        },
+        "4tR7ZpnNmbsmZohl": {
+          "name": "Disguise Self"
+        },
+        "LJAWrZ47CuLAxDH6": {
+          "name": "Invisibility"
+        },
+        "MOHc49RNKDGv8cd0": {
+          "name": "Light"
+        },
+        "UcNmJwi1kzaYyomN": {
+          "name": "Mage Armor"
+        },
+        "JOl15tE46GJMDItv": {
+          "name": "Prestidigitation"
+        },
+        "CyinHvpNPlDrqQ4D": {
+          "name": "Fly"
+        },
+        "nxupE3blwBUB9vqZ": {
+          "name": "Lightning Bolt"
+        },
+        "mPM1yrHMPklU8VcP": {
+          "name": "Cone of Cold"
+        },
+        "c52PushUU8VODQ6g": {
+          "name": "Mind Blank"
+        },
+        "bCY0HfHgaLhZsbWz": {
+          "name": "Scrying"
+        },
+        "8cAqKodouXttXbg6": {
+          "name": "Teleport"
+        },
+        "BVHhqzWtBxgOOErd": {
+          "name": "Mage Hand"
+        }
+      }
+    },
+    "mmAssassin000000": {
+      "name": "Assassin",
+      "tokenName": "Assassin",
+      "items": {
+        "jLa5l9pntsTVrMKH": {
+          "name": "Shortsword"
+        },
+        "dL4668G7zXeC5zyY": {
+          "name": "Light Crossbow"
+        },
+        "21edXZRTQ2XOqsUl": {
+          "name": "Studded Leather Armor"
+        },
+        "mmEvasion0000000": {
+          "name": "Evasion"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmCunningAction0": {
+          "name": "Cunning Action"
+        }
+      }
+    },
+    "mmAwakenedShrub0": {
+      "name": "Awakened Shrub",
+      "tokenName": "Awakened Shrub",
+      "items": {
+        "mmRake0000000000": {
+          "name": "Rake"
+        }
+      }
+    },
+    "mmAwakenedTree00": {
+      "name": "Awakened Tree",
+      "tokenName": "Awakened Tree",
+      "items": {
+        "mmSlam0000000000": {
+          "name": "Slam"
+        }
+      }
+    },
+    "mmAxeBeak0000000": {
+      "name": "Axe Beak",
+      "tokenName": "Axe Beak",
+      "items": {
+        "mmBeak0000000000": {
+          "name": "Beak"
+        }
+      }
+    },
+    "mmAzerSentinel00": {
+      "name": "Azer Sentinel",
+      "tokenName": "Azer Sentinel",
+      "items": {
+        "mmFireAura000000": {
+          "name": "Fire Aura"
+        },
+        "mmIllumination00": {
+          "name": "Illumination"
+        },
+        "mmBurningHammer0": {
+          "name": "Burning Hammer"
+        }
+      }
+    },
+    "mmBaboon00000000": {
+      "name": "Baboon",
+      "tokenName": "Baboon",
+      "items": {
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmBadger00000000": {
+      "name": "Badger",
+      "tokenName": "Badger",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmBalor000000000": {
+      "name": "Balor",
+      "tokenName": "Balor",
+      "items": {
+        "mmDeathThroes000": {
+          "name": "Death Throes"
+        },
+        "mmFireAura000000": {
+          "name": "Fire Aura"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmFlameWhip00000": {
+          "name": "Flame Whip"
+        },
+        "mmTeleport000000": {
+          "name": "Teleport"
+        },
+        "mmLightningBlade": {
+          "name": "Lightning Blade"
+        }
+      }
+    },
+    "mmBandit00000000": {
+      "name": "Bandit",
+      "tokenName": "Bandit",
+      "items": {
+        "otGT32geRnrgVe3j": {
+          "name": "Scimitar"
+        },
+        "0qG1ZLUPB2MrHV8B": {
+          "name": "Light Crossbow"
+        },
+        "sD8cJZJSn1z2RKhf": {
+          "name": "Leather Armor"
+        }
+      }
+    },
+    "mmBanditCaptain0": {
+      "name": "Bandit Captain",
+      "tokenName": "Bandit Captain",
+      "items": {
+        "w3cX0piuU875Hc2M": {
+          "name": "Scimitar"
+        },
+        "2TB9ZSIbtbi4UtSv": {
+          "name": "Pistol"
+        },
+        "fUmmI6ZeI46gRgam": {
+          "name": "Studded Leather Armor"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmParry000000000": {
+          "name": "Parry"
+        }
+      }
+    },
+    "mmBarbedDevil000": {
+      "name": "Barbed Devil",
+      "tokenName": "Barbed Devil",
+      "items": {
+        "mmBarbedHide0000": {
+          "name": "Barbed Hide"
+        },
+        "mmDiabolicalRest": {
+          "name": "Diabolical Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaws000000000": {
+          "name": "Claws"
+        },
+        "mmTail0000000000": {
+          "name": "Tail"
+        },
+        "mmHurlFlame00000": {
+          "name": "Hurl Flame"
+        }
+      }
+    },
+    "mmBasilisk000000": {
+      "name": "Basilisk",
+      "tokenName": "Basilisk",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmPetrifyingGaze": {
+          "name": "Petrifying Gaze"
+        }
+      }
+    },
+    "mmBat00000000000": {
+      "name": "Bat",
+      "tokenName": "Bat",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmBeardedDevil00": {
+      "name": "Bearded Devil",
+      "tokenName": "Bearded Devil",
+      "items": {
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBeard000000000": {
+          "name": "Beard"
+        },
+        "mmInfernalGlaive": {
+          "name": "Infernal Glaive"
+        }
+      }
+    },
+    "mmBehir000000000": {
+      "name": "Behir",
+      "tokenName": "Behir",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmConstrict00000": {
+          "name": "Constrict"
+        },
+        "mmSwallow0000000": {
+          "name": "Swallow"
+        },
+        "mmLightningBreat": {
+          "name": "Lightning Breath"
+        }
+      }
+    },
+    "mmBerserker00000": {
+      "name": "Berserker",
+      "tokenName": "Berserker",
+      "items": {
+        "HqVjCmN5z7cou2ne": {
+          "name": "Greataxe"
+        },
+        "cdwu0TKwVmCOj9Bp": {
+          "name": "Hide Armor"
+        },
+        "mmBloodiedFrenzy": {
+          "name": "Bloodied Frenzy"
+        }
+      }
+    },
+    "mmBlackBear00000": {
+      "name": "Black Bear",
+      "tokenName": "Black Bear",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        }
+      }
+    },
+    "mmBlackDragonWyr": {
+      "name": "Black Dragon Wyrmling",
+      "tokenName": "Black Dragon Wyrmling",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmAcidBreath0000": {
+          "name": "Acid Breath"
+        }
+      }
+    },
+    "mmBlackPudding00": {
+      "name": "Black Pudding",
+      "tokenName": "Black Pudding",
+      "items": {
+        "mmAmorphous00000": {
+          "name": "Amorphous"
+        },
+        "mmCorrosiveForm0": {
+          "name": "Corrosive Form"
+        },
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmSplit000000000": {
+          "name": "Split"
+        },
+        "mmDissolvingPseu": {
+          "name": "Dissolving Pseudopod"
+        }
+      }
+    },
+    "mmBlinkDog000000": {
+      "name": "Blink Dog",
+      "tokenName": "Blink Dog",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmTeleport000000": {
+          "name": "Teleport"
+        }
+      }
+    },
+    "mmBloodHawk00000": {
+      "name": "Blood Hawk",
+      "tokenName": "Blood Hawk",
+      "items": {
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmBeak0000000000": {
+          "name": "Beak"
+        }
+      }
+    },
+    "mmBlueDragonWyrm": {
+      "name": "Blue Dragon Wyrmling",
+      "tokenName": "Blue Dragon Wyrmling",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmLightningBreat": {
+          "name": "Lightning Breath"
+        }
+      }
+    },
+    "mmBoar0000000000": {
+      "name": "Boar",
+      "tokenName": "Boar",
+      "items": {
+        "mmBloodiedFury00": {
+          "name": "Bloodied Fury"
+        },
+        "mmGore0000000000": {
+          "name": "Gore"
+        }
+      }
+    },
+    "mmBoneDevil00000": {
+      "name": "Bone Devil",
+      "tokenName": "Bone Devil",
+      "items": {
+        "mmDiabolicalRest": {
+          "name": "Diabolical Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmInfernalSting0": {
+          "name": "Infernal Sting"
+        }
+      }
+    },
+    "mmBrassDragonWyr": {
+      "name": "Brass Dragon Wyrmling",
+      "tokenName": "Brass Dragon Wyrmling",
+      "items": {
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmSleepBreath000": {
+          "name": "Sleep Breath"
+        }
+      }
+    },
+    "mmBronzeDragonWy": {
+      "name": "Bronze Dragon Wyrmling",
+      "tokenName": "Bronze Dragon Wyrmling",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmLightningBreat": {
+          "name": "Lightning Breath"
+        },
+        "mmRepulsionBreat": {
+          "name": "Repulsion Breath"
+        }
+      }
+    },
+    "mmBrownBear00000": {
+      "name": "Brown Bear",
+      "tokenName": "Brown Bear",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        }
+      }
+    },
+    "mmBugbearStalker": {
+      "name": "Bugbear Stalker",
+      "tokenName": "Bugbear Stalker",
+      "items": {
+        "dN1CML4smcRrUkzD": {
+          "name": "Javelin"
+        },
+        "YFpjAATelvlz5oyb": {
+          "name": "Morningstar"
+        },
+        "RukSxq7bGcIprKdM": {
+          "name": "Chain Shirt"
+        },
+        "mmAbduct00000000": {
+          "name": "Abduct"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmQuickGrapple00": {
+          "name": "Quick Grapple"
+        }
+      }
+    },
+    "mmBugbearWarrior": {
+      "name": "Bugbear Warrior",
+      "tokenName": "Bugbear Warrior",
+      "items": {
+        "ST0XpSUdRn52jAF0": {
+          "name": "Light Hammer"
+        },
+        "VttDnFXLmhjSdrkC": {
+          "name": "Hide Armor"
+        },
+        "mmAbduct00000000": {
+          "name": "Abduct"
+        },
+        "mmGrab0000000000": {
+          "name": "Grab"
+        }
+      }
+    },
+    "mmBulette0000000": {
+      "name": "Bulette",
+      "tokenName": "Bulette",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmDeadlyLeap0000": {
+          "name": "Deadly Leap"
+        },
+        "mmLeap0000000000": {
+          "name": "Leap"
+        }
+      }
+    },
+    "mmBullywugBogSag": {
+      "name": "Bullywug Bog Sage",
+      "tokenName": "Bullywug Bog Sage",
+      "items": {
+        "IfH8RovjQYR6dP6f": {
+          "name": "Component Pouch"
+        },
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmSpeakWithFrogs": {
+          "name": "Speak with Frogs and Toads"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBogStaff000000": {
+          "name": "Bog Staff"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmLeap0000000000": {
+          "name": "Leap"
+        },
+        "rtSVRdwKhJJOuCT5": {
+          "name": "Dancing Lights"
+        },
+        "cWhKNOkywJvbuWgF": {
+          "name": "Druidcraft"
+        },
+        "hwjjBtV0Jm7o4582": {
+          "name": "Ray of Sickness"
+        },
+        "wmFHIQDUtAvNOXAk": {
+          "name": "Speak with Plants"
+        },
+        "ifCCry0YNCvnIKmN": {
+          "name": "Vitriolic Sphere"
+        }
+      }
+    },
+    "mmBullywugWarrio": {
+      "name": "Bullywug Warrior",
+      "tokenName": "Bullywug Warrior",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmSpeakWithFrogs": {
+          "name": "Speak with Frogs and Toads"
+        },
+        "mmInsectileRapie": {
+          "name": "Insectile Rapier"
+        },
+        "mmLeap0000000000": {
+          "name": "Leap"
+        }
+      }
+    },
+    "mmCamel000000000": {
+      "name": "Camel",
+      "tokenName": "Camel",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmCarrionCrawler": {
+      "name": "Carrion Crawler",
+      "tokenName": "Carrion Crawler",
+      "items": {
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmParalyzingTent": {
+          "name": "Paralyzing Tentacles"
+        }
+      }
+    },
+    "mmCat00000000000": {
+      "name": "Cat",
+      "tokenName": "Cat",
+      "items": {
+        "mmJumper00000000": {
+          "name": "Jumper"
+        },
+        "mmScratch0000000": {
+          "name": "Scratch"
+        }
+      }
+    },
+    "mmCentaurTrooper": {
+      "name": "Centaur Trooper",
+      "tokenName": "Centaur Trooper",
+      "items": {
+        "XMKFiS5XUEC4fLCr": {
+          "name": "Pike"
+        },
+        "4C5jy0VkmoTdrbTC": {
+          "name": "Longbow"
+        },
+        "ScvKIKAAfCx7iPGQ": {
+          "name": "Breastplate"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmTramplingCharg": {
+          "name": "Trampling Charge"
+        }
+      }
+    },
+    "mmChainDevil0000": {
+      "name": "Chain Devil",
+      "tokenName": "Chain Devil",
+      "items": {
+        "mmDiabolicalRest": {
+          "name": "Diabolical Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmConjureInferna": {
+          "name": "Conjure Infernal Chain"
+        },
+        "mmUnnervingGaze0": {
+          "name": "Unnerving Gaze"
+        },
+        "mmChain000000000": {
+          "name": "Chain"
+        }
+      }
+    },
+    "mmChimera0000000": {
+      "name": "Chimera",
+      "tokenName": "Chimera",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmRam00000000000": {
+          "name": "Ram"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        }
+      }
+    },
+    "mmChuul000000000": {
+      "name": "Chuul",
+      "tokenName": "Chuul",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmSenseMagic0000": {
+          "name": "Sense Magic"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmParalyzingTent": {
+          "name": "Paralyzing Tentacles"
+        },
+        "mmPincer00000000": {
+          "name": "Pincer"
+        }
+      }
+    },
+    "mmClayGolem00000": {
+      "name": "Clay Golem",
+      "tokenName": "Clay Golem",
+      "items": {
+        "mmAcidAbsorption": {
+          "name": "Acid Absorption"
+        },
+        "mmBerserk0000000": {
+          "name": "Berserk"
+        },
+        "mmImmutableForm0": {
+          "name": "Immutable Form"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmSlam0000000000": {
+          "name": "Slam"
+        },
+        "mmHasten00000000": {
+          "name": "Hasten"
+        }
+      }
+    },
+    "mmCloaker0000000": {
+      "name": "Cloaker",
+      "tokenName": "Cloaker",
+      "items": {
+        "mmLightSensitivi": {
+          "name": "Light Sensitivity"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmAttach00000000": {
+          "name": "Attach"
+        },
+        "mmTail0000000000": {
+          "name": "Tail"
+        },
+        "mmPhantasms00000": {
+          "name": "Phantasms"
+        },
+        "jluXgJ7dG39ONk0R": {
+          "name": "Mirror Image"
+        },
+        "mmMoan0000000000": {
+          "name": "Moan"
+        }
+      }
+    },
+    "mmCloudGiant0000": {
+      "name": "Cloud Giant",
+      "tokenName": "Cloud Giant",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmThunderousMace": {
+          "name": "Thunderous Mace"
+        },
+        "mmThundercloud00": {
+          "name": "Thundercloud"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmMistyStep00000": {
+          "name": "Misty Step"
+        },
+        "TJtpDWOIWpI3N5tk": {
+          "name": "Misty Step"
+        },
+        "tDpxRgayYQlncN0W": {
+          "name": "Individuazione del Magico"
+        },
+        "GHs3dKAxEC2DDy3O": {
+          "name": "Fog Cloud"
+        },
+        "Zr0A1mgE8vqYWD8Y": {
+          "name": "Light"
+        },
+        "gaL6LDFQVg4Wwhyo": {
+          "name": "Control Weather"
+        },
+        "cRRXxPgI7zuiWi7z": {
+          "name": "Gaseous Form"
+        },
+        "2QgHUABlBcMzHf5Z": {
+          "name": "Telekinesis"
+        }
+      }
+    },
+    "mmCockatrice0000": {
+      "name": "Cockatrice",
+      "tokenName": "Cockatrice",
+      "items": {
+        "mmPetrifyingBite": {
+          "name": "Petrifying Bite"
+        }
+      }
+    },
+    "mmCommoner000000": {
+      "name": "Commoner",
+      "tokenName": "Commoner",
+      "items": {
+        "uXeL0cGWqRTReue0": {
+          "name": "Club"
+        },
+        "mmTraining000000": {
+          "name": "Training"
+        }
+      }
+    },
+    "mmConstrictorSna": {
+      "name": "Constrictor Snake",
+      "tokenName": "Constrictor Snake",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmConstrict00000": {
+          "name": "Constrict"
+        }
+      }
+    },
+    "mmCopperDragonWy": {
+      "name": "Copper Dragon Wyrmling",
+      "tokenName": "Copper Dragon Wyrmling",
+      "items": {
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmAcidBreath0000": {
+          "name": "Acid Breath"
+        },
+        "mmSlowingBreath0": {
+          "name": "Slowing Breath"
+        }
+      }
+    },
+    "mmCouatl00000000": {
+      "name": "Couatl",
+      "tokenName": "Couatl",
+      "items": {
+        "mmShieldedMind00": {
+          "name": "Shielded Mind"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmConstrict00000": {
+          "name": "Constrict"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "3ov18jCeVA8S88kM": {
+          "name": "Detect Evil and Good"
+        },
+        "Z0LBB9pGvtGYmYtU": {
+          "name": "Individuazione del Magico"
+        },
+        "fvUMKr2MYY3v76q0": {
+          "name": "Detect Thoughts"
+        },
+        "sOJ29wIQbeRNa4Qt": {
+          "name": "Shapechange"
+        },
+        "QdAb5sLcSgIoIpg2": {
+          "name": "Create Food and Water"
+        },
+        "2QpBQBYj5OOOROeD": {
+          "name": "Dream"
+        },
+        "RcwrcfGLqHMeiMAX": {
+          "name": "Greater Restoration"
+        },
+        "sSktU9MJhyaviFo2": {
+          "name": "Scrying"
+        },
+        "WZos2YJlqndVWXeQ": {
+          "name": "Sleep"
+        }
+      }
+    },
+    "mmCrab0000000000": {
+      "name": "Crab",
+      "tokenName": "Crab",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        }
+      }
+    },
+    "mmCrocodile00000": {
+      "name": "Crocodile",
+      "tokenName": "Crocodile",
+      "items": {
+        "mmHoldBreath0000": {
+          "name": "Hold Breath"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmCultist0000000": {
+      "name": "Cultist",
+      "tokenName": "Cultist",
+      "items": {
+        "oZb08B0WnozgWHvS": {
+          "name": "Leather Armor"
+        },
+        "mmRitualSickle00": {
+          "name": "Ritual Sickle"
+        }
+      }
+    },
+    "mmCultistFanatic": {
+      "name": "Cultist Fanatic",
+      "tokenName": "Cultist Fanatic",
+      "items": {
+        "mmPactBlade00000": {
+          "name": "Pact Blade"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmSpiritualWeapo": {
+          "name": "Spiritual Weapon"
+        },
+        "z817Et9IPt6qHawH": {
+          "name": "Spiritual Weapon"
+        },
+        "7Hk3xmtV1lhTEMu6": {
+          "name": "Light"
+        },
+        "XLyCWW9vPAQwvaGr": {
+          "name": "Thaumaturgy"
+        },
+        "uW5SgMN0N4BGrkkl": {
+          "name": "Command"
+        },
+        "usukVMEiBvOYV5GI": {
+          "name": "Hold Person"
+        }
+      }
+    },
+    "mmDarkmantle0000": {
+      "name": "Darkmantle",
+      "tokenName": "Darkmantle",
+      "items": {
+        "mmCrush000000000": {
+          "name": "Crush"
+        },
+        "DXSZEBm7EZIT7A9Z": {
+          "name": "Darkness Aura"
+        }
+      }
+    },
+    "mmDeathDog000000": {
+      "name": "Death Dog",
+      "tokenName": "Death Dog",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmDeer0000000000": {
+      "name": "Deer",
+      "tokenName": "Deer",
+      "items": {
+        "mmAgile000000000": {
+          "name": "Agile"
+        },
+        "mmRam00000000000": {
+          "name": "Ram"
+        }
+      }
+    },
+    "mmDeva0000000000": {
+      "name": "Deva",
+      "tokenName": "Deva",
+      "items": {
+        "mmExaltedRestora": {
+          "name": "Exalted Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmHolyMace000000": {
+          "name": "Holy Mace"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "b1uBxAcirNnGh1ik": {
+          "name": "Detect Evil and Good"
+        },
+        "8NbTvaM4cujIXUzT": {
+          "name": "Shapechange"
+        },
+        "RIzW4Hz3llGsevNc": {
+          "name": "Commune"
+        },
+        "t2FrmBjeFeQrFYPL": {
+          "name": "Raise Dead"
+        }
+      }
+    },
+    "mmDireWolf000000": {
+      "name": "Dire Wolf",
+      "tokenName": "Dire Wolf",
+      "items": {
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmDjinni00000000": {
+      "name": "Djinni",
+      "tokenName": "Djinni",
+      "items": {
+        "mmElementalResto": {
+          "name": "Elemental Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmWishes00000000": {
+          "name": "Wishes"
+        },
+        "acLzMOwvzA9YMRne": {
+          "name": "Wish"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "A3Gp6PvmC7N3g4R0": {
+          "name": "Detect Evil and Good"
+        },
+        "ow9dnt0OerJUfLau": {
+          "name": "Individuazione del Magico"
+        },
+        "UKKHgT5XYw1PHXta": {
+          "name": "Create Food and Water"
+        },
+        "BRM2BZZcKxs1QB7u": {
+          "name": "Tongues"
+        },
+        "WYNqNayywAsakkLh": {
+          "name": "Wind Walk"
+        },
+        "Hadl6dF4CewMXQXo": {
+          "name": "Creation"
+        },
+        "HGVPWjyUr0ygEBYZ": {
+          "name": "Gaseous Form"
+        },
+        "k0eU3EIGLCIUzIni": {
+          "name": "Invisibility"
+        },
+        "AzvWNS6FnV4QHWZB": {
+          "name": "Major Image"
+        },
+        "4bMp1TCm9AeXBboQ": {
+          "name": "Plane Shift"
+        },
+        "mmCreateWhirlwin": {
+          "name": "Create Whirlwind"
+        },
+        "mmStormBlade0000": {
+          "name": "Storm Blade"
+        },
+        "mmStormBolt00000": {
+          "name": "Storm Bolt"
+        }
+      }
+    },
+    "mmDoppelganger00": {
+      "name": "Doppelganger",
+      "tokenName": "Doppelganger",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmSlam0000000000": {
+          "name": "Slam"
+        },
+        "mmReadThoughts00": {
+          "name": "Read Thoughts"
+        },
+        "JzXf0s9NH8nAxwh4": {
+          "name": "Detect Thoughts"
+        },
+        "mmUnsettlingVisa": {
+          "name": "Unsettling Visage"
+        },
+        "mmShapeshift0000": {
+          "name": "Shape-Shift"
+        }
+      }
+    },
+    "mmDraftHorse0000": {
+      "name": "Draft Horse",
+      "tokenName": "Draft Horse",
+      "items": {
+        "mmHooves00000000": {
+          "name": "Hooves"
+        }
+      }
+    },
+    "mmDragonTurtle00": {
+      "name": "Dragon Turtle",
+      "tokenName": "Dragon Turtle",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmTail0000000000": {
+          "name": "Tail"
+        },
+        "mmSteamBreath000": {
+          "name": "Steam Breath"
+        }
+      }
+    },
+    "mmDretch00000000": {
+      "name": "Dretch",
+      "tokenName": "Dretch",
+      "items": {
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmFetidCloud0000": {
+          "name": "Fetid Cloud"
+        }
+      }
+    },
+    "mmDrider00000000": {
+      "name": "Drider",
+      "tokenName": "Drider",
+      "items": {
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmSunlightSensit": {
+          "name": "Sunlight Sensitivity"
+        },
+        "mmWebWalker00000": {
+          "name": "Web Walker"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmForeleg0000000": {
+          "name": "Foreleg"
+        },
+        "mmPoisonBurst000": {
+          "name": "Poison Burst"
+        },
+        "mmMagicOfTheSpid": {
+          "name": "Magic of the Spider Queen"
+        },
+        "OMFNXlIWcvgZPTwl": {
+          "name": "Darkness"
+        },
+        "cTOigW9T4CgF7fb5": {
+          "name": "Faerie Fire"
+        },
+        "gAdVTIyqf9DLBQT4": {
+          "name": "Web"
+        }
+      }
+    },
+    "mmDruid000000000": {
+      "name": "Druid",
+      "tokenName": "Druid",
+      "items": {
+        "WTE6JehXQfziMo17": {
+          "name": "Studded Leather Armor"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmVineStaff00000": {
+          "name": "Vine Staff"
+        },
+        "mmVerdantWisp000": {
+          "name": "Verdant Wisp"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "TJRGXmcjfvHAliH6": {
+          "name": "Druidcraft"
+        },
+        "rnHaNNaeCidsdNoG": {
+          "name": "Speak with Animals"
+        },
+        "NtmJOdVVNW4jyd24": {
+          "name": "Entangle"
+        },
+        "kdc53KLaLU9CW6dh": {
+          "name": "Thunderwave"
+        },
+        "2wnXlRyaVnQFLOji": {
+          "name": "Animal Messenger"
+        },
+        "TrVoUfhvvvEWG2fS": {
+          "name": "Longstrider"
+        },
+        "0KWA94HrnX1qAj50": {
+          "name": "Moonbeam"
+        }
+      }
+    },
+    "mmDryad000000000": {
+      "name": "Dryad",
+      "tokenName": "Dryad",
+      "items": {
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmSpeakWithBeast": {
+          "name": "Speak with Beasts and Plants"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmVineLash000000": {
+          "name": "Vine Lash"
+        },
+        "mmThornBurst0000": {
+          "name": "Thorn Burst"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmTreeStride0000": {
+          "name": "Tree Stride"
+        },
+        "VZjGEY8Eyr5uFRqw": {
+          "name": "Animal Friendship"
+        },
+        "VLb2DFHh9haywGHI": {
+          "name": "Charm Monster"
+        },
+        "LNlYma6ZtNnMsXpp": {
+          "name": "Druidcraft"
+        },
+        "GXTORnFldJH2VQX4": {
+          "name": "Entangle"
+        },
+        "V847HTMc8gLNi8OR": {
+          "name": "Pass without Trace"
+        }
+      }
+    },
+    "mmDustMephit0000": {
+      "name": "Dust Mephit",
+      "tokenName": "Dust Mephit",
+      "items": {
+        "mmDeathBurst0000": {
+          "name": "Death Burst"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmBlindingBreath": {
+          "name": "Blinding Breath"
+        },
+        "mmSleep000000000": {
+          "name": "Sleep"
+        },
+        "CF13ievxQ48W9L9w": {
+          "name": "Sleep"
+        }
+      }
+    },
+    "mmEagle000000000": {
+      "name": "Eagle",
+      "tokenName": "Eagle",
+      "items": {
+        "mmTalons00000000": {
+          "name": "Talons"
+        }
+      }
+    },
+    "mmEarthElemental": {
+      "name": "Earth Elemental",
+      "tokenName": "Earth Elemental",
+      "items": {
+        "mmEarthGlide0000": {
+          "name": "Earth Glide"
+        },
+        "mmSiegeMonster00": {
+          "name": "Siege Monster"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmSlam0000000000": {
+          "name": "Slam"
+        },
+        "mmRockLaunch0000": {
+          "name": "Rock Launch"
+        }
+      }
+    },
+    "mmEfreeti0000000": {
+      "name": "Efreeti",
+      "tokenName": "Efreeti",
+      "items": {
+        "mmElementalResto": {
+          "name": "Elemental Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmWishes00000000": {
+          "name": "Wishes"
+        },
+        "3RHFSrgTRVm6qg4U": {
+          "name": "Wish"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmHeatedBlade000": {
+          "name": "Heated Blade"
+        },
+        "mmHurlFlame00000": {
+          "name": "Hurl Flame"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "AARLCuxCB9gvuyL8": {
+          "name": "Individuazione del Magico"
+        },
+        "8OFkcAgYkcWB3OTz": {
+          "name": "Elementalism"
+        },
+        "0PLY67QvZNu1t5g0": {
+          "name": "Gaseous Form"
+        },
+        "aDInRtd983tifrXD": {
+          "name": "Invisibility"
+        },
+        "sMeC6D0sckQCpKZZ": {
+          "name": "Major Image"
+        },
+        "ndzmsLuNebehyo3i": {
+          "name": "Plane Shift"
+        },
+        "v3qfyzDskfnhgYm9": {
+          "name": "Tongues"
+        },
+        "Ks8BqKrODweOeMkF": {
+          "name": "Wall of Fire"
+        }
+      }
+    },
+    "mmElephant000000": {
+      "name": "Elephant",
+      "tokenName": "Elephant",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmTrample0000000": {
+          "name": "Trample"
+        },
+        "mmGore0000000000": {
+          "name": "Gore"
+        }
+      }
+    },
+    "mmElk00000000000": {
+      "name": "Elk",
+      "tokenName": "Elk",
+      "items": {
+        "mmRam00000000000": {
+          "name": "Ram"
+        }
+      }
+    },
+    "mmErinyes0000000": {
+      "name": "Erinyes",
+      "tokenName": "Erinyes",
+      "items": {
+        "mmDiabolicalRest": {
+          "name": "Diabolical Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMagicRope00000": {
+          "name": "Magic Rope"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmParry000000000": {
+          "name": "Parry"
+        },
+        "mmWitheringSword": {
+          "name": "Withering Sword"
+        },
+        "mmEntanglingRope": {
+          "name": "Entangling Rope"
+        }
+      }
+    },
+    "mmEttercap000000": {
+      "name": "Ettercap",
+      "tokenName": "Ettercap",
+      "items": {
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmWebWalker00000": {
+          "name": "Web Walker"
+        },
+        "mmWebStrand00000": {
+          "name": "Web Strand"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmReel0000000000": {
+          "name": "Reel"
+        }
+      }
+    },
+    "mmEttin000000000": {
+      "name": "Ettin",
+      "tokenName": "Ettin",
+      "items": {
+        "2zUJENAN0VZgqxYm": {
+          "name": "Battleaxe"
+        },
+        "5LN8JEIko2tgE2WO": {
+          "name": "Morningstar"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        }
+      }
+    },
+    "mmFireElemental0": {
+      "name": "Fire Elemental",
+      "tokenName": "Fire Elemental",
+      "items": {
+        "mmFireAura000000": {
+          "name": "Fire Aura"
+        },
+        "mmFireForm000000": {
+          "name": "Fire Form"
+        },
+        "mmIllumination00": {
+          "name": "Illumination"
+        },
+        "mmWaterSusceptib": {
+          "name": "Water Susceptibility"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBurn0000000000": {
+          "name": "Burn"
+        }
+      }
+    },
+    "mmFireGiant00000": {
+      "name": "Fire Giant",
+      "tokenName": "Fire Giant",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmFlameSword0000": {
+          "name": "Flame Sword"
+        },
+        "mmHammerThrow000": {
+          "name": "Hammer Throw"
+        }
+      }
+    },
+    "mmFleshGolem0000": {
+      "name": "Flesh Golem",
+      "tokenName": "Flesh Golem",
+      "items": {
+        "mmAversionToFire": {
+          "name": "Aversion to Fire"
+        },
+        "mmBerserk0000000": {
+          "name": "Berserk"
+        },
+        "mmImmutableForm0": {
+          "name": "Immutable Form"
+        },
+        "mmLightningAbsor": {
+          "name": "Lightning Absorption"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmSlam0000000000": {
+          "name": "Slam"
+        }
+      }
+    },
+    "mmFlyingSnake000": {
+      "name": "Flying Snake",
+      "tokenName": "Flying Snake",
+      "items": {
+        "mmFlyby000000000": {
+          "name": "Flyby"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmFrog0000000000": {
+      "name": "Frog",
+      "tokenName": "Frog",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmStandingLeap00": {
+          "name": "Standing Leap"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmFrostGiant0000": {
+      "name": "Frost Giant",
+      "tokenName": "Frost Giant",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmFrostAxe000000": {
+          "name": "Frost Axe"
+        },
+        "mmGreatBow000000": {
+          "name": "Great Bow"
+        },
+        "mmWarCry00000000": {
+          "name": "War Cry"
+        }
+      }
+    },
+    "mmGargoyle000000": {
+      "name": "Gargoyle",
+      "tokenName": "Gargoyle",
+      "items": {
+        "mmFlyby000000000": {
+          "name": "Flyby"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        }
+      }
+    },
+    "mmGelatinousCube": {
+      "name": "Gelatinous Cube",
+      "tokenName": "Gelatinous Cube",
+      "items": {
+        "mmOozeCube000000": {
+          "name": "Ooze Cube"
+        },
+        "mmTransparent000": {
+          "name": "Transparent"
+        },
+        "mmPseudopod00000": {
+          "name": "Pseudopod"
+        },
+        "mmEngulf00000000": {
+          "name": "Engulf"
+        }
+      }
+    },
+    "mmGhast000000000": {
+      "name": "Ghast",
+      "tokenName": "Ghast",
+      "items": {
+        "5bjPpreGFvealK36": {
+          "name": "Stench"
+        },
+        "ywBCReF0tJFKe5MO": {
+          "name": "Bite"
+        },
+        "SQ1vT3qHTKj46khh": {
+          "name": "Claw"
+        }
+      }
+    },
+    "mmGhost000000000": {
+      "name": "Ghost",
+      "tokenName": "Ghost",
+      "items": {
+        "cS4HArQe973kwB9O": {
+          "name": "Ethereal Sight"
+        },
+        "1sfETIOrk3lvfWbm": {
+          "name": "Incorporeal Movement"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "yf1Nf7oPWS4arOOL": {
+          "name": "Withering Touch"
+        },
+        "pB2kBCFQfO3vNHBI": {
+          "name": "Etherealness"
+        },
+        "88qd0Ulz7AMzouDU": {
+          "name": "Etherealness"
+        },
+        "4aPdVm2lhKxkHq7K": {
+          "name": "Horrific Visage"
+        },
+        "MpslHrFN5iU1RjYt": {
+          "name": "Possession"
+        }
+      }
+    },
+    "mmGhoul000000000": {
+      "name": "Ghoul",
+      "tokenName": "Ghoul",
+      "items": {
+        "hNlIY77VpneCqVEv": {
+          "name": "Multiattacco"
+        },
+        "mafdXNIx6EIRujnK": {
+          "name": "Bite"
+        },
+        "tiNmukdjtTyjqq9S": {
+          "name": "Claw"
+        }
+      }
+    },
+    "mmGiantApe000000": {
+      "name": "Giant Ape",
+      "tokenName": "Giant Ape",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmFist0000000000": {
+          "name": "Fist"
+        },
+        "mmBoulderToss000": {
+          "name": "Boulder Toss"
+        },
+        "mmLeap0000000000": {
+          "name": "Leap"
+        }
+      }
+    },
+    "mmGiantBadger000": {
+      "name": "Giant Badger",
+      "tokenName": "Giant Badger",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmGiantBat000000": {
+      "name": "Giant Bat",
+      "tokenName": "Giant Bat",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmGiantBoar00000": {
+      "name": "Giant Boar",
+      "tokenName": "Giant Boar",
+      "items": {
+        "mmBloodiedFury00": {
+          "name": "Bloodied Fury"
+        },
+        "mmGore0000000000": {
+          "name": "Gore"
+        }
+      }
+    },
+    "mmGiantCentipede": {
+      "name": "Giant Centipede",
+      "tokenName": "Giant Centipede",
+      "items": {
+        "phbaoiSpiderClim": {
+          "name": "Spider Climb"
+        },
+        "phbaoiMultiattac": {
+          "name": "Multiattacco"
+        },
+        "phbaoiPoisonJab0": {
+          "name": "Poison Jab"
+        },
+        "phbaoiVenomousSp": {
+          "name": "Venomous Spew"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmGiantConstrict": {
+      "name": "Giant Constrictor Snake",
+      "tokenName": "Giant Constrictor Snake",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmConstrict00000": {
+          "name": "Constrict"
+        }
+      }
+    },
+    "mmGiantCrab00000": {
+      "name": "Giant Crab",
+      "tokenName": "Giant Crab",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        }
+      }
+    },
+    "mmGiantCrocodile": {
+      "name": "Giant Crocodile",
+      "tokenName": "Giant Crocodile",
+      "items": {
+        "mmHoldBreath0000": {
+          "name": "Hold Breath"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmTail0000000000": {
+          "name": "Tail"
+        }
+      }
+    },
+    "mmGiantEagle0000": {
+      "name": "Giant Eagle",
+      "tokenName": "Giant Eagle",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        }
+      }
+    },
+    "mmGiantElk000000": {
+      "name": "Giant Elk",
+      "tokenName": "Giant Elk",
+      "items": {
+        "mmRam00000000000": {
+          "name": "Ram"
+        }
+      }
+    },
+    "mmGiantFireBeetl": {
+      "name": "Giant Fire Beetle",
+      "tokenName": "Giant Fire Beetle",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmIllumination00": {
+          "name": "Illumination"
+        }
+      }
+    },
+    "mmGiantFrog00000": {
+      "name": "Giant Frog",
+      "tokenName": "Giant Frog",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmStandingLeap00": {
+          "name": "Standing Leap"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmSwallow0000000": {
+          "name": "Swallow"
+        }
+      }
+    },
+    "mmGiantGoat00000": {
+      "name": "Giant Goat",
+      "tokenName": "Giant Goat",
+      "items": {
+        "mmRam00000000000": {
+          "name": "Ram"
+        }
+      }
+    },
+    "mmGiantHyena0000": {
+      "name": "Giant Hyena",
+      "tokenName": "Giant Hyena",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmRampage0000000": {
+          "name": "Rampage"
+        }
+      }
+    },
+    "mmGiantLizard000": {
+      "name": "Giant Lizard",
+      "tokenName": "Giant Lizard",
+      "items": {
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmGiantOctopus00": {
+      "name": "Giant Octopus",
+      "tokenName": "Giant Octopus",
+      "items": {
+        "mmWaterBreathing": {
+          "name": "Water Breathing"
+        },
+        "mmTentacles00000": {
+          "name": "Tentacles"
+        },
+        "mmInkCloud000000": {
+          "name": "Ink Cloud"
+        }
+      }
+    },
+    "mmGiantOwl000000": {
+      "name": "Giant Owl",
+      "tokenName": "Giant Owl",
+      "items": {
+        "mmFlyby000000000": {
+          "name": "Flyby"
+        },
+        "mmTalons00000000": {
+          "name": "Talons"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "0RWcAlp0LmNrnko3": {
+          "name": "Detect Evil and Good"
+        },
+        "JzMBiy422W8ODen0": {
+          "name": "Individuazione del Magico"
+        },
+        "8M451QIEc6AvBiCw": {
+          "name": "Clairvoyance"
+        }
+      }
+    },
+    "mmGiantRat000000": {
+      "name": "Giant Rat",
+      "tokenName": "Giant Rat",
+      "items": {
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmGiantScorpion0": {
+      "name": "Giant Scorpion",
+      "tokenName": "Giant Scorpion",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmSting000000000": {
+          "name": "Sting"
+        }
+      }
+    },
+    "mmGiantSeahorse0": {
+      "name": "Giant Seahorse",
+      "tokenName": "Giant Seahorse",
+      "items": {
+        "mmRam00000000000": {
+          "name": "Ram"
+        },
+        "mmBubbleDash0000": {
+          "name": "Bubble Dash"
+        },
+        "mmWaterBreathing": {
+          "name": "Water Breathing"
+        }
+      }
+    },
+    "mmGiantShark0000": {
+      "name": "Giant Shark",
+      "tokenName": "Giant Shark",
+      "items": {
+        "mmWaterBreathing": {
+          "name": "Water Breathing"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmGiantSpider000": {
+      "name": "Giant Spider",
+      "tokenName": "Giant Spider",
+      "items": {
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmWebWalker00000": {
+          "name": "Web Walker"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmWeb00000000000": {
+          "name": "Web"
+        }
+      }
+    },
+    "mmGiantToad00000": {
+      "name": "Giant Toad",
+      "tokenName": "Giant Toad",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmStandingLeap00": {
+          "name": "Standing Leap"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmSwallow0000000": {
+          "name": "Swallow"
+        }
+      }
+    },
+    "mmGiantVenomousS": {
+      "name": "Giant Venomous Snake",
+      "tokenName": "Giant Venomous Snake",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmGiantVulture00": {
+      "name": "Giant Vulture",
+      "tokenName": "Giant Vulture",
+      "items": {
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmGouge000000000": {
+          "name": "Gouge"
+        }
+      }
+    },
+    "mmGiantWasp00000": {
+      "name": "Giant Wasp",
+      "tokenName": "Giant Wasp",
+      "items": {
+        "phbaoiSpiderClim": {
+          "name": "Spider Climb"
+        },
+        "phbaoiMultiattac": {
+          "name": "Multiattacco"
+        },
+        "phbaoiPoisonJab0": {
+          "name": "Poison Jab"
+        },
+        "mmFlyby000000000": {
+          "name": "Flyby"
+        },
+        "mmSting000000000": {
+          "name": "Sting"
+        }
+      }
+    },
+    "mmGiantWeasel000": {
+      "name": "Giant Weasel",
+      "tokenName": "Giant Weasel",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmGiantWolfSpide": {
+      "name": "Giant Wolf Spider",
+      "tokenName": "Giant Wolf Spider",
+      "items": {
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmGibberingMouth": {
+      "name": "Gibbering Mouther",
+      "tokenName": "Gibbering Mouther",
+      "items": {
+        "mmAberrantGround": {
+          "name": "Aberrant Ground"
+        },
+        "mmGibbering00000": {
+          "name": "Gibbering"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmBlindingSpittl": {
+          "name": "Blinding Spittle"
+        }
+      }
+    },
+    "mmGlabrezu000000": {
+      "name": "Glabrezu",
+      "tokenName": "Glabrezu",
+      "items": {
+        "mmDemonicRestora": {
+          "name": "Demonic Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmPincer00000000": {
+          "name": "Pincer"
+        },
+        "mmPummel00000000": {
+          "name": "Pummel"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "OYJaCanfv7pQKr1j": {
+          "name": "Darkness"
+        },
+        "TyBg1ubPWzY9AqFZ": {
+          "name": "Individuazione del Magico"
+        },
+        "o9zHpjCrGZEcIJzZ": {
+          "name": "Dispel Magic"
+        },
+        "DJvVJd398Rul9PmN": {
+          "name": "Confusion"
+        },
+        "uMQdIP114kiMDwyZ": {
+          "name": "Fly"
+        },
+        "EsCIdlnqYCUbyDIm": {
+          "name": "Power Word Stun"
+        }
+      }
+    },
+    "mmGladiator00000": {
+      "name": "Gladiator",
+      "tokenName": "Gladiator",
+      "items": {
+        "vTZW4dSRGXTDWvRd": {
+          "name": "Spear"
+        },
+        "eRJSN5Dx2heS3x6S": {
+          "name": "Shield"
+        },
+        "cvN4WB1RPKCP6I7V": {
+          "name": "Studded Leather Armor"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmShieldBash0000": {
+          "name": "Shield Bash"
+        },
+        "mmParry000000000": {
+          "name": "Parry"
+        }
+      }
+    },
+    "mmGnollWarrior00": {
+      "name": "Gnoll Warrior",
+      "tokenName": "Gnoll Warrior",
+      "items": {
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmBoneBow0000000": {
+          "name": "Bone Bow"
+        }
+      }
+    },
+    "mmGoat0000000000": {
+      "name": "Goat",
+      "tokenName": "Goat",
+      "items": {
+        "mmRam00000000000": {
+          "name": "Ram"
+        }
+      }
+    },
+    "mmGoblinBoss0000": {
+      "name": "Goblin Boss",
+      "tokenName": "Goblin Boss",
+      "items": {
+        "8gwXLDcYj3mk6Kr3": {
+          "name": "Scimitar"
+        },
+        "XbNHC5OBGT6VQF40": {
+          "name": "Shortbow"
+        },
+        "JD069zlOByXNYHyx": {
+          "name": "Chain Shirt"
+        },
+        "hdOImQziS8ffNnk5": {
+          "name": "Shield"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmNimbleEscape00": {
+          "name": "Nimble Escape"
+        },
+        "mmRedirectAttack": {
+          "name": "Redirect Attack"
+        }
+      }
+    },
+    "mmGoblinMinion00": {
+      "name": "Goblin Minion",
+      "tokenName": "Goblin Minion",
+      "items": {
+        "HO8Jp6OfS7g4Yp6a": {
+          "name": "Dagger"
+        },
+        "mmNimbleEscape00": {
+          "name": "Nimble Escape"
+        }
+      }
+    },
+    "mmGoblinWarrior0": {
+      "name": "Goblin Warrior",
+      "tokenName": "Goblin Warrior",
+      "items": {
+        "9RULzqhnPi3lqw1u": {
+          "name": "Scimitar"
+        },
+        "wKUi0YkXW5KapyxP": {
+          "name": "Shortbow"
+        },
+        "mW9S8ntOw3ORgPwd": {
+          "name": "Leather Armor"
+        },
+        "4VduzMc1QjJxGesu": {
+          "name": "Shield"
+        },
+        "mmNimbleEscape00": {
+          "name": "Nimble Escape"
+        }
+      }
+    },
+    "mmGoldDragonWyrm": {
+      "name": "Gold Dragon Wyrmling",
+      "tokenName": "Gold Dragon Wyrmling",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        },
+        "mmWeakeningBreat": {
+          "name": "Weakening Breath"
+        }
+      }
+    },
+    "mmGorgon00000000": {
+      "name": "Gorgon",
+      "tokenName": "Gorgon",
+      "items": {
+        "mmGore0000000000": {
+          "name": "Gore"
+        },
+        "mmPetrifyingBrea": {
+          "name": "Petrifying Breath"
+        },
+        "mmTrample0000000": {
+          "name": "Trample"
+        }
+      }
+    },
+    "mmGrayOoze000000": {
+      "name": "Gray Ooze",
+      "tokenName": "Gray Ooze",
+      "items": {
+        "mmAmorphous00000": {
+          "name": "Amorphous"
+        },
+        "mmCorrosiveForm0": {
+          "name": "Corrosive Form"
+        },
+        "mmPseudopod00000": {
+          "name": "Pseudopod"
+        }
+      }
+    },
+    "mmGreenDragonWyr": {
+      "name": "Green Dragon Wyrmling",
+      "tokenName": "Green Dragon Wyrmling",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmPoisonBreath00": {
+          "name": "Poison Breath"
+        }
+      }
+    },
+    "mmGreenHag000000": {
+      "name": "Green Hag",
+      "tokenName": "Green Hag",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmCovenMagic0000": {
+          "name": "Coven Magic"
+        },
+        "3rCVpd7aieYnPHwB": {
+          "name": "Augury"
+        },
+        "ijY9hc5b4AQkz5ZS": {
+          "name": "Find Familiar"
+        },
+        "kUzXgVwiKDTtw9Mo": {
+          "name": "Identify"
+        },
+        "amFlR7cm6e8cdMEg": {
+          "name": "Locate Object"
+        },
+        "LsZ3LIUekPUB0IAu": {
+          "name": "Scrying"
+        },
+        "NpwyLKMMy9agOfxL": {
+          "name": "Unseen Servant"
+        },
+        "mmMimicry0000000": {
+          "name": "Mimicry"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "WHzIxRkgJHT6dAcb": {
+          "name": "Dancing Lights"
+        },
+        "3SIvYE13BfHn7qvz": {
+          "name": "Disguise Self"
+        },
+        "P1WohR9zwkV78Jwb": {
+          "name": "Invisibility"
+        },
+        "lQDlH8pdy1WcUTMT": {
+          "name": "Illusione Minore"
+        },
+        "b6RHBNfOpyYoM3zy": {
+          "name": "Ray of Sickness"
+        }
+      }
+    },
+    "mmGrick000000000": {
+      "name": "Grick",
+      "tokenName": "Grick",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBeak0000000000": {
+          "name": "Beak"
+        },
+        "mmTentacles00000": {
+          "name": "Tentacles"
+        }
+      }
+    },
+    "mmGriffon0000000": {
+      "name": "Griffon",
+      "tokenName": "Griffon",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        }
+      }
+    },
+    "mmGrimlock000000": {
+      "name": "Grimlock",
+      "tokenName": "Grimlock",
+      "items": {
+        "mmBoneCudgel0000": {
+          "name": "Bone Cudgel"
+        }
+      }
+    },
+    "mmGuard000000000": {
+      "name": "Guard",
+      "tokenName": "Guard",
+      "items": {
+        "aAcbmB8xbSuqUL9V": {
+          "name": "Spear"
+        },
+        "1MnlCW9tszC5MxMK": {
+          "name": "Chain Shirt"
+        },
+        "umFXCQvaIVnsc3iv": {
+          "name": "Shield"
+        }
+      }
+    },
+    "mmGuardCaptain00": {
+      "name": "Guard Captain",
+      "tokenName": "Guard Captain",
+      "items": {
+        "qJUgq4viT1HD2ftt": {
+          "name": "Javelin"
+        },
+        "CneRFiVxRtCmo8Pl": {
+          "name": "Longsword"
+        },
+        "Hv9oVmAZO34IYvkp": {
+          "name": "Breastplate"
+        },
+        "cJW4TbPsjteWvOmV": {
+          "name": "Shield"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        }
+      }
+    },
+    "mmGuardianNaga00": {
+      "name": "Guardian Naga",
+      "tokenName": "Guardian Naga",
+      "items": {
+        "mmCelestialResto": {
+          "name": "Celestial Restoration"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmPoisonousSpitt": {
+          "name": "Poisonous Spittle"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "tl4x0ljxQrhkPLa5": {
+          "name": "Thaumaturgy"
+        },
+        "csHsn5CL1CeoIsYg": {
+          "name": "Clairvoyance"
+        },
+        "cB9iefrmlnj9t8Gi": {
+          "name": "Cure Wounds"
+        },
+        "gkoOKec6rytj6Z7Y": {
+          "name": "Flame Strike"
+        },
+        "Kl2qli45InLejqV3": {
+          "name": "Geas"
+        },
+        "BYnLrTSNv9m2NrU2": {
+          "name": "True Seeing"
+        }
+      }
+    },
+    "mmHalfdragon0000": {
+      "name": "Half-Dragon",
+      "tokenName": "Half-Dragon",
+      "items": {
+        "mmDraconicOrigin": {
+          "name": "Draconic Origin"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmDragonsBreath0": {
+          "name": "Dragon's Breath"
+        },
+        "mmLeap0000000000": {
+          "name": "Leap"
+        }
+      }
+    },
+    "mmHarpy000000000": {
+      "name": "Harpy",
+      "tokenName": "Harpy",
+      "items": {
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmLuringSong0000": {
+          "name": "Luring Song"
+        }
+      }
+    },
+    "mmHawk0000000000": {
+      "name": "Hawk",
+      "tokenName": "Hawk",
+      "items": {
+        "mmTalons00000000": {
+          "name": "Talons"
+        }
+      }
+    },
+    "mmHellHound00000": {
+      "name": "Hell Hound",
+      "tokenName": "Hell Hound",
+      "items": {
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        }
+      }
+    },
+    "mmHezrou00000000": {
+      "name": "Hezrou",
+      "tokenName": "Hezrou",
+      "items": {
+        "mmDemonicRestora": {
+          "name": "Demonic Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmStench00000000": {
+          "name": "Stench"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmLeap0000000000": {
+          "name": "Leap"
+        }
+      }
+    },
+    "mmHillGiant00000": {
+      "name": "Hill Giant",
+      "tokenName": "Hill Giant",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmTreeClub000000": {
+          "name": "Tree Club"
+        },
+        "mmTrashLob000000": {
+          "name": "Trash Lob"
+        }
+      }
+    },
+    "mmHippogriff0000": {
+      "name": "Hippogriff",
+      "tokenName": "Hippogriff",
+      "items": {
+        "mmFlyby000000000": {
+          "name": "Flyby"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        }
+      }
+    },
+    "mmHippopotamus00": {
+      "name": "Hippopotamus",
+      "tokenName": "Hippopotamus",
+      "items": {
+        "mmHoldBreath0000": {
+          "name": "Hold Breath"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmHobgoblinCapta": {
+      "name": "Hobgoblin Captain",
+      "tokenName": "Hobgoblin Captain",
+      "items": {
+        "OZvhmmUFMgHZWnGB": {
+          "name": "Greatsword"
+        },
+        "cryc72bvanyjmNdX": {
+          "name": "Longbow"
+        },
+        "4IaMfmULefcQh28J": {
+          "name": "Half Plate Armor"
+        },
+        "mmAuraOfAuthorit": {
+          "name": "Aura of Authority"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        }
+      }
+    },
+    "mmHobgoblinWarri": {
+      "name": "Hobgoblin Warrior",
+      "tokenName": "Hobgoblin Warrior",
+      "items": {
+        "ZVPzldPQh1kkz2q3": {
+          "name": "Longsword"
+        },
+        "SU2FqPW4L3nfnRif": {
+          "name": "Longbow"
+        },
+        "pgFPbOTCOquPqY3X": {
+          "name": "Half Plate Armor"
+        },
+        "Se5TjgrSbsm0PdJo": {
+          "name": "Shield"
+        },
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        }
+      }
+    },
+    "mmHomunculus0000": {
+      "name": "Homunculus",
+      "tokenName": "Homunculus",
+      "items": {
+        "mmTelepathicBond": {
+          "name": "Telepathic Bond"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmHornedDevil000": {
+      "name": "Horned Devil",
+      "tokenName": "Horned Devil",
+      "items": {
+        "mmDiabolicalRest": {
+          "name": "Diabolical Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmSearingFork000": {
+          "name": "Searing Fork"
+        },
+        "mmHurlFlame00000": {
+          "name": "Hurl Flame"
+        },
+        "mmInfernalTail00": {
+          "name": "Infernal Tail"
+        }
+      }
+    },
+    "mmHunterShark000": {
+      "name": "Hunter Shark",
+      "tokenName": "Hunter Shark",
+      "items": {
+        "mmWaterBreathing": {
+          "name": "Water Breathing"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmHydra000000000": {
+      "name": "Hydra",
+      "tokenName": "Hydra",
+      "items": {
+        "mmHoldBreath0000": {
+          "name": "Hold Breath"
+        },
+        "mmMultipleHeads0": {
+          "name": "Multiple Heads"
+        },
+        "mmReactiveHeads0": {
+          "name": "Reactive Heads"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmHyena000000000": {
+      "name": "Hyena",
+      "tokenName": "Hyena",
+      "items": {
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmIceDevil000000": {
+      "name": "Ice Devil",
+      "tokenName": "Ice Devil",
+      "items": {
+        "mmDiabolicalRest": {
+          "name": "Diabolical Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmTail0000000000": {
+          "name": "Tail"
+        },
+        "mmIceWall0000000": {
+          "name": "Ice Wall"
+        },
+        "QQwZ5SZ1p1qFIToL": {
+          "name": "Wall of Ice"
+        },
+        "mmIceSpear000000": {
+          "name": "Ice Spear"
+        }
+      }
+    },
+    "mmIceMephit00000": {
+      "name": "Ice Mephit",
+      "tokenName": "Ice Mephit",
+      "items": {
+        "mmDeathBurst0000": {
+          "name": "Death Burst"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmFrostBreath000": {
+          "name": "Frost Breath"
+        },
+        "mmFogCloud000000": {
+          "name": "Fog Cloud"
+        },
+        "pH1Rf3FfwlD3EELa": {
+          "name": "Fog Cloud"
+        }
+      }
+    },
+    "mmImp00000000000": {
+      "name": "Imp",
+      "tokenName": "Imp",
+      "items": {
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmSting000000000": {
+          "name": "Sting"
+        },
+        "mmInvisibility00": {
+          "name": "Invisibility"
+        },
+        "BGYUyh36nOQKX4Pr": {
+          "name": "Invisibility"
+        },
+        "mmShapeshift0000": {
+          "name": "Shape-Shift"
+        }
+      }
+    },
+    "mmIncubus0000000": {
+      "name": "Incubus",
+      "tokenName": "Incubus",
+      "items": {
+        "mmSuccubusForm00": {
+          "name": "Succubus Form"
+        },
+        "mmRestlessTouch0": {
+          "name": "Restless Touch"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmNightmare00000": {
+          "name": "Nightmare"
+        },
+        "Epzabor9RV5yUeqA": {
+          "name": "Disguise Self"
+        },
+        "cuHZ2sYkluUF9oHO": {
+          "name": "Etherealness"
+        },
+        "CM68DGw3MVinKTAz": {
+          "name": "Dream"
+        },
+        "4pZ322c02dDoRQXF": {
+          "name": "Hypnotic Pattern"
+        }
+      }
+    },
+    "mmInvisibleStalk": {
+      "name": "Invisible Stalker",
+      "tokenName": "Invisible Stalker",
+      "items": {
+        "mmAirForm0000000": {
+          "name": "Air Form"
+        },
+        "mmInvisibility00": {
+          "name": "Invisibility"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmWindSwipe00000": {
+          "name": "Wind Swipe"
+        },
+        "mmVortex00000000": {
+          "name": "Vortex"
+        }
+      }
+    },
+    "mmIronGolem00000": {
+      "name": "Iron Golem",
+      "tokenName": "Iron Golem",
+      "items": {
+        "mmFireAbsorption": {
+          "name": "Fire Absorption"
+        },
+        "mmImmutableForm0": {
+          "name": "Immutable Form"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmFieryBolt00000": {
+          "name": "Fiery Bolt"
+        },
+        "mmBladedArm00000": {
+          "name": "Bladed Arm"
+        },
+        "mmPoisonBreath00": {
+          "name": "Poison Breath"
+        }
+      }
+    },
+    "mmJackal00000000": {
+      "name": "Jackal",
+      "tokenName": "Jackal",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmKillerWhale000": {
+      "name": "Killer Whale",
+      "tokenName": "Killer Whale",
+      "items": {
+        "mmHoldBreath0000": {
+          "name": "Hold Breath"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmKnight00000000": {
+      "name": "Knight",
+      "tokenName": "Knight",
+      "items": {
+        "qFzUqCv1LU1T2l9W": {
+          "name": "Greatsword"
+        },
+        "iqOpigRADMF7BFDu": {
+          "name": "Heavy Crossbow"
+        },
+        "78ddr9iMnLejcYIE": {
+          "name": "Plate Armor"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmParry000000000": {
+          "name": "Parry"
+        }
+      }
+    },
+    "mmKoboldWarrior0": {
+      "name": "Kobold Warrior",
+      "tokenName": "Kobold Warrior",
+      "items": {
+        "MP8oT6Mu90LAeoKQ": {
+          "name": "Dagger"
+        },
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmSunlightSensit": {
+          "name": "Sunlight Sensitivity"
+        }
+      }
+    },
+    "mmKraken00000000": {
+      "name": "Kraken",
+      "tokenName": "Kraken",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmSiegeMonster00": {
+          "name": "Siege Monster"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmTentacle000000": {
+          "name": "Tentacle"
+        },
+        "mmFling000000000": {
+          "name": "Fling"
+        },
+        "mmLightningStrik": {
+          "name": "Lightning Strike"
+        },
+        "mmSwallow0000000": {
+          "name": "Swallow"
+        },
+        "mmStormBolt00000": {
+          "name": "Storm Bolt"
+        },
+        "mmToxicInk000000": {
+          "name": "Toxic Ink"
+        }
+      }
+    },
+    "mmLamia000000000": {
+      "name": "Lamia",
+      "tokenName": "Lamia",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmCorruptingTouc": {
+          "name": "Corrupting Touch"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmLeap0000000000": {
+          "name": "Leap"
+        },
+        "6APauftroqjmXvbd": {
+          "name": "Disguise Self"
+        },
+        "A0QXzcxFPhHh38Ki": {
+          "name": "Illusione Minore"
+        },
+        "2M6IcnU5z2CDUmR9": {
+          "name": "Geas"
+        },
+        "nCkhRnrrGKCLIAOG": {
+          "name": "Major Image"
+        },
+        "3oOYV59b2uhAfvFI": {
+          "name": "Scrying"
+        }
+      }
+    },
+    "mmLemure00000000": {
+      "name": "Lemure",
+      "tokenName": "Lemure",
+      "items": {
+        "mmHellishRestora": {
+          "name": "Hellish Restoration"
+        },
+        "mmVileSlime00000": {
+          "name": "Vile Slime"
+        }
+      }
+    },
+    "mmLich0000000000": {
+      "name": "Lich",
+      "tokenName": "Lich",
+      "items": {
+        "cWsXcEl8uW2q33U8": {
+          "name": "Component Pouch"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmSpiritJar00000": {
+          "name": "Spirit Jar"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "vIKgOrEUgzIgtaBg": {
+          "name": "Individuazione del Magico"
+        },
+        "kOKHbZktHfRffihQ": {
+          "name": "Detect Thoughts"
+        },
+        "CneqcsBmpjXWcQse": {
+          "name": "Dispel Magic"
+        },
+        "v7gWdFR49IuVBTlO": {
+          "name": "Fireball"
+        },
+        "dz9rY4S9xO1zL4Vi": {
+          "name": "Invisibility"
+        },
+        "ZUCBu5XBzt6dJyL1": {
+          "name": "Lightning Bolt"
+        },
+        "Wu2Dye64TtEvfV3X": {
+          "name": "Mage Hand"
+        },
+        "IKMIK50aMMlKjp3O": {
+          "name": "Prestidigitation"
+        },
+        "5ChYAsKeTMNZ7Z0X": {
+          "name": "Animate Dead"
+        },
+        "LXTe7EcK0LZn7ADV": {
+          "name": "Dimension Door"
+        },
+        "Q17AQ49d8A1j9xcQ": {
+          "name": "Plane Shift"
+        },
+        "0BICKix3CVqBYI6s": {
+          "name": "Chain Lightning"
+        },
+        "VGnFSkQ3oz0By0ef": {
+          "name": "Finger of Death"
+        },
+        "uFLWrVlBNvu85XrJ": {
+          "name": "Power Word Kill"
+        },
+        "TiKX9UpLWvOVdkOd": {
+          "name": "Scrying"
+        },
+        "wk3FkTwZDKMW6wdM": {
+          "name": "Protective Magic"
+        },
+        "8Jzmhd5Lm4NkcdZF": {
+          "name": "Counterspell"
+        },
+        "uIoVuqHT9A8hkkRh": {
+          "name": "Shield"
+        },
+        "43ZbhFhGR7uIY1j6": {
+          "name": "Deathly Teleport"
+        },
+        "0nouYtg8wtFKUb1O": {
+          "name": "Disrupt Life"
+        },
+        "80FiTdFhW9hNegeJ": {
+          "name": "Frightening Gaze"
+        },
+        "Djd2Ghgnu74QcdHq": {
+          "name": "Fear"
+        },
+        "6qvUZeTimud7ekV8": {
+          "name": "Eldritch Burst"
+        },
+        "9p8yotv4r7nt3NWl": {
+          "name": "Paralyzing Touch"
+        }
+      }
+    },
+    "mmLion0000000000": {
+      "name": "Lion",
+      "tokenName": "Lion",
+      "items": {
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmRunningLeap000": {
+          "name": "Running Leap"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmRoar0000000000": {
+          "name": "Roar"
+        }
+      }
+    },
+    "mmLizard00000000": {
+      "name": "Lizard",
+      "tokenName": "Lizard",
+      "items": {
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmMage0000000000": {
+      "name": "Mage",
+      "tokenName": "Mage",
+      "items": {
+        "zOYs3VFfobRJRpOh": {
+          "name": "Wand"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmArcaneBurst000": {
+          "name": "Arcane Burst"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmMistyStep00000": {
+          "name": "Misty Step"
+        },
+        "BtkwckQJktc8hRh0": {
+          "name": "Misty Step"
+        },
+        "mmProtectiveMagi": {
+          "name": "Protective Magic"
+        },
+        "AlYAtKsfv1ecczpO": {
+          "name": "Counterspell"
+        },
+        "YmZroxEDsVyUTwxp": {
+          "name": "Shield"
+        },
+        "jdJ9mSsHzJRBSwJK": {
+          "name": "Individuazione del Magico"
+        },
+        "bX7FoTCn4c1G1k5F": {
+          "name": "Light"
+        },
+        "kJxdj680Yr2u1vqp": {
+          "name": "Mage Armor"
+        },
+        "yBlKwkM3UNW4t3z0": {
+          "name": "Mage Hand"
+        },
+        "NBBMY4cvPDELwanu": {
+          "name": "Prestidigitation"
+        },
+        "7jrIuiiNO4BRkRCO": {
+          "name": "Fireball"
+        },
+        "gYeuuG0rUMIaWuTJ": {
+          "name": "Invisibility"
+        },
+        "Kcbgq6wAMhP5M8dq": {
+          "name": "Cone of Cold"
+        },
+        "1hWmQp1lkTFED6qg": {
+          "name": "Fly"
+        }
+      }
+    },
+    "mmMagmaMephit000": {
+      "name": "Magma Mephit",
+      "tokenName": "Magma Mephit",
+      "items": {
+        "mmDeathBurst0000": {
+          "name": "Death Burst"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        }
+      }
+    },
+    "mmMagmin00000000": {
+      "name": "Magmin",
+      "tokenName": "Magmin",
+      "items": {
+        "mmDeathBurst0000": {
+          "name": "Death Burst"
+        },
+        "mmTouch000000000": {
+          "name": "Touch"
+        },
+        "mmIgnitedIllumin": {
+          "name": "Ignited Illumination"
+        }
+      }
+    },
+    "mmMammoth0000000": {
+      "name": "Mammoth",
+      "tokenName": "Mammoth",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmGore0000000000": {
+          "name": "Gore"
+        },
+        "mmTrample0000000": {
+          "name": "Trample"
+        }
+      }
+    },
+    "mmManticore00000": {
+      "name": "Manticore",
+      "tokenName": "Manticore",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmTailSpike00000": {
+          "name": "Tail Spike"
+        }
+      }
+    },
+    "mmMarilith000000": {
+      "name": "Marilith",
+      "tokenName": "Marilith",
+      "items": {
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmDemonicRestora": {
+          "name": "Demonic Restoration"
+        },
+        "mmReactive000000": {
+          "name": "Reactive"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmPactBlade00000": {
+          "name": "Pact Blade"
+        },
+        "mmConstrict00000": {
+          "name": "Constrict"
+        },
+        "mmTeleport000000": {
+          "name": "Teleport"
+        },
+        "mmParry000000000": {
+          "name": "Parry"
+        }
+      }
+    },
+    "mmMastiff0000000": {
+      "name": "Mastiff",
+      "tokenName": "Mastiff",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmMedusa00000000": {
+      "name": "Medusa",
+      "tokenName": "Medusa",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmSnakeHair00000": {
+          "name": "Snake Hair"
+        },
+        "mmPoisonRay00000": {
+          "name": "Poison Ray"
+        },
+        "mmPetrifyingGaze": {
+          "name": "Petrifying Gaze"
+        }
+      }
+    },
+    "mmMerfolkSkirmis": {
+      "name": "Merfolk Skirmisher",
+      "tokenName": "Merfolk Skirmisher",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmOceanSpear0000": {
+          "name": "Ocean Spear"
+        }
+      }
+    },
+    "mmMerrow00000000": {
+      "name": "Merrow",
+      "tokenName": "Merrow",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmHarpoon0000000": {
+          "name": "Harpoon"
+        }
+      }
+    },
+    "mmMimic000000000": {
+      "name": "Mimic",
+      "tokenName": "Mimic",
+      "items": {
+        "mmAdhesive000000": {
+          "name": "Adhesive (Object Form Only)"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmPseudopod00000": {
+          "name": "Pseudopod"
+        },
+        "mmShapeshift0000": {
+          "name": "Shape-Shift"
+        }
+      }
+    },
+    "mmMinotaurOfBaph": {
+      "name": "Minotaur of Baphomet",
+      "tokenName": "Minotaur of Baphomet",
+      "items": {
+        "mmAbyssalGlaive0": {
+          "name": "Abyssal Glaive"
+        },
+        "mmGore0000000000": {
+          "name": "Gore"
+        }
+      }
+    },
+    "mmMinotaurSkelet": {
+      "name": "Minotaur Skeleton",
+      "tokenName": "Minotaur Skeleton",
+      "items": {
+        "mmGore0000000000": {
+          "name": "Gore"
+        },
+        "mmSlam0000000000": {
+          "name": "Slam"
+        }
+      }
+    },
+    "mmMule0000000000": {
+      "name": "Mule",
+      "tokenName": "Mule",
+      "items": {
+        "mmHooves00000000": {
+          "name": "Hooves"
+        },
+        "mmBeastOfBurden0": {
+          "name": "Beast of Burden"
+        }
+      }
+    },
+    "mmMummy000000000": {
+      "name": "Mummy",
+      "tokenName": "Mummy",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRottingFist000": {
+          "name": "Rotting Fist"
+        },
+        "mmDreadfulGlare0": {
+          "name": "Dreadful Glare"
+        }
+      }
+    },
+    "mmMummyLord00000": {
+      "name": "Mummy Lord",
+      "tokenName": "Mummy Lord",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmUndeadRestorat": {
+          "name": "Undead Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmRottingFist000": {
+          "name": "Rotting Fist"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "MNMv0vuxNlTLXjTJ": {
+          "name": "Dispel Magic"
+        },
+        "qJROiSCEROFUzokI": {
+          "name": "Thaumaturgy"
+        },
+        "TR4icqSOLRCzde5j": {
+          "name": "Animate Dead"
+        },
+        "4K4UcgI4iS2ecAzk": {
+          "name": "Harm"
+        },
+        "4cGulOY7E3mxCmBK": {
+          "name": "Insect Plague"
+        },
+        "d6GVHcFrHv83C7eS": {
+          "name": "Channel Negative Energy"
+        },
+        "kKIr4N3Az41AIdle": {
+          "name": "Glare"
+        },
+        "Hp6Uq0ZvymMIEGys": {
+          "name": "Whirlwind of Sand"
+        },
+        "SSc4GeA0NJxba8O4": {
+          "name": "Dread Command"
+        },
+        "KOWKJe3vIwDbWY0Y": {
+          "name": "Command"
+        },
+        "xhuz3Gwz1C5hyZLl": {
+          "name": "Necrotic Strike"
+        },
+        "mmDreadfulGlare0": {
+          "name": "Dreadful Glare"
+        }
+      }
+    },
+    "mmNalfeshnee0000": {
+      "name": "Nalfeshnee",
+      "tokenName": "Nalfeshnee",
+      "items": {
+        "mmDemonicRestora": {
+          "name": "Demonic Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmTeleport000000": {
+          "name": "Teleport"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmHorrorNimbus00": {
+          "name": "Horror Nimbus"
+        },
+        "mmPursuit0000000": {
+          "name": "Pursuit"
+        }
+      }
+    },
+    "mmNightHag000000": {
+      "name": "Night Hag",
+      "tokenName": "Night Hag",
+      "items": {
+        "mmCovenMagic0000": {
+          "name": "Coven Magic"
+        },
+        "CAt4VpfqLZJ9TChJ": {
+          "name": "Augury"
+        },
+        "n05XvhItAfMasHVO": {
+          "name": "Find Familiar"
+        },
+        "qTBTEe8TiMkQRtRA": {
+          "name": "Identify"
+        },
+        "tzTPtRBFyMpWOhSU": {
+          "name": "Locate Object"
+        },
+        "AyhfiE7iPVgNyFHW": {
+          "name": "Scrying"
+        },
+        "PwDsxDnZ9kOabx1Q": {
+          "name": "Unseen Servant"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmSoulBag0000000": {
+          "name": "Soul Bag"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmShapeshift0000": {
+          "name": "Shape-Shift"
+        },
+        "mmNightmareHaunt": {
+          "name": "Nightmare Haunting"
+        },
+        "MRauSCb3hN012Rrr": {
+          "name": "Dream"
+        },
+        "ufuNmpngOTibIKWB": {
+          "name": "Individuazione del Magico"
+        },
+        "q6QIeb22Jwvnb6cR": {
+          "name": "Etherealness"
+        },
+        "pCbNvhCgaWNbNwvp": {
+          "name": "Magic Missile"
+        },
+        "YL2yDZHhJnpRigTh": {
+          "name": "Phantasmal Killer"
+        },
+        "clJcTNavYURWKHjU": {
+          "name": "Plane Shift"
+        }
+      }
+    },
+    "mmNightmare00000": {
+      "name": "Nightmare",
+      "tokenName": "Nightmare",
+      "items": {
+        "mmConferFireResi": {
+          "name": "Confer Fire Resistance"
+        },
+        "mmIllumination00": {
+          "name": "Illumination"
+        },
+        "mmHooves00000000": {
+          "name": "Hooves"
+        },
+        "mmEtherealStride": {
+          "name": "Ethereal Stride"
+        }
+      }
+    },
+    "mmNoble000000000": {
+      "name": "Noble",
+      "tokenName": "Noble",
+      "items": {
+        "H6tdFfNcvLwgZx0I": {
+          "name": "Rapier"
+        },
+        "fytfUlVaPy0set0a": {
+          "name": "Breastplate"
+        },
+        "mmParry000000000": {
+          "name": "Parry"
+        }
+      }
+    },
+    "mmNothic00000000": {
+      "name": "Nothic",
+      "tokenName": "Nothic",
+      "items": {
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRottingGaze000": {
+          "name": "Rotting Gaze"
+        },
+        "mmWeirdInsight00": {
+          "name": "Weird Insight"
+        }
+      }
+    },
+    "mmOchreJelly0000": {
+      "name": "Ochre Jelly",
+      "tokenName": "Ochre Jelly",
+      "items": {
+        "mmAmorphous00000": {
+          "name": "Amorphous"
+        },
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmPseudopod00000": {
+          "name": "Pseudopod"
+        },
+        "mmSplit000000000": {
+          "name": "Split"
+        }
+      }
+    },
+    "mmOctopus0000000": {
+      "name": "Octopus",
+      "tokenName": "Octopus",
+      "items": {
+        "phbaoiCompressio": {
+          "name": "Compression"
+        },
+        "phbaoiWaterBreat": {
+          "name": "Water Breathing"
+        },
+        "phbaoiInkCloud1D": {
+          "name": "Ink Cloud"
+        },
+        "phbaoiTentacles0": {
+          "name": "Tentacles"
+        },
+        "mmCompression000": {
+          "name": "Compression"
+        },
+        "mmWaterBreathing": {
+          "name": "Water Breathing"
+        },
+        "mmTentacles00000": {
+          "name": "Tentacles"
+        }
+      }
+    },
+    "mmOgre0000000000": {
+      "name": "Ogre",
+      "tokenName": "Ogre",
+      "items": {
+        "vNimS5BXJHo8AgMY": {
+          "name": "Greatclub"
+        },
+        "W6jP2bjUuNYdfktM": {
+          "name": "Javelin"
+        }
+      }
+    },
+    "mmOgreZombie0000": {
+      "name": "Ogre Zombie",
+      "tokenName": "Ogre Zombie",
+      "items": {
+        "mmUndeadFortitud": {
+          "name": "Undead Fortitude"
+        },
+        "mmSlam0000000000": {
+          "name": "Slam"
+        }
+      }
+    },
+    "mmOni00000000000": {
+      "name": "Oni",
+      "tokenName": "Oni",
+      "items": {
+        "mmRegeneration00": {
+          "name": "Regeneration"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmNightmareRay00": {
+          "name": "Nightmare Ray"
+        },
+        "mmShapeshift0000": {
+          "name": "Shape-Shift"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmInvisibility00": {
+          "name": "Invisibility"
+        },
+        "7zCgLqwWT0prZxhy": {
+          "name": "Invisibility"
+        },
+        "Gi0ufKRt8vdWL2P5": {
+          "name": "Charm Person"
+        },
+        "C0ZqTJQdzy66V1aq": {
+          "name": "Darkness"
+        },
+        "h96XIGXbBIW0GlyM": {
+          "name": "Gaseous Form"
+        },
+        "eTAy0I912YwURW6x": {
+          "name": "Sleep"
+        }
+      }
+    },
+    "mmOtyugh00000000": {
+      "name": "Otyugh",
+      "tokenName": "Otyugh",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmTentacle000000": {
+          "name": "Tentacle"
+        },
+        "mmTentacleSlam00": {
+          "name": "Tentacle Slam"
+        }
+      }
+    },
+    "mmOwl00000000000": {
+      "name": "Owl",
+      "tokenName": "Owl",
+      "items": {
+        "mmFlyby000000000": {
+          "name": "Flyby"
+        },
+        "mmTalons00000000": {
+          "name": "Talons"
+        }
+      }
+    },
+    "mmOwlbear0000000": {
+      "name": "Owlbear",
+      "tokenName": "Owlbear",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        }
+      }
+    },
+    "mmPanther0000000": {
+      "name": "Panther",
+      "tokenName": "Panther",
+      "items": {
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmNimbleEscape00": {
+          "name": "Nimble Escape"
+        }
+      }
+    },
+    "mmPegasus0000000": {
+      "name": "Pegasus",
+      "tokenName": "Pegasus",
+      "items": {
+        "mmHooves00000000": {
+          "name": "Hooves"
+        }
+      }
+    },
+    "mmPhaseSpider000": {
+      "name": "Phase Spider",
+      "tokenName": "Phase Spider",
+      "items": {
+        "mmEtherealSight0": {
+          "name": "Ethereal Sight"
+        },
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmWebWalker00000": {
+          "name": "Web Walker"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmEtherealJaunt0": {
+          "name": "Ethereal Jaunt"
+        }
+      }
+    },
+    "mmPiranha0000000": {
+      "name": "Piranha",
+      "tokenName": "Piranha",
+      "items": {
+        "mmWaterBreathing": {
+          "name": "Water Breathing"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmPirate00000000": {
+      "name": "Pirate",
+      "tokenName": "Pirate",
+      "items": {
+        "MC6uJTSfGDW6jSdI": {
+          "name": "Dagger"
+        },
+        "4y9CrrA47dPASaoC": {
+          "name": "Leather Armor"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmEnthrallingPan": {
+          "name": "Enthralling Panache"
+        }
+      }
+    },
+    "mmPirateCaptain0": {
+      "name": "Pirate Captain",
+      "tokenName": "Pirate Captain",
+      "items": {
+        "SHobhYTtELnIVQHw": {
+          "name": "Rapier"
+        },
+        "y2po5bpBbyIFIuVO": {
+          "name": "Pistol"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmCaptainsCharm0": {
+          "name": "Captain's Charm"
+        },
+        "mmRiposte0000000": {
+          "name": "Riposte"
+        }
+      }
+    },
+    "mmPitFiend000000": {
+      "name": "Pit Fiend",
+      "tokenName": "Pit Fiend",
+      "items": {
+        "mmDiabolicalRest": {
+          "name": "Diabolical Restoration"
+        },
+        "mmFearAura000000": {
+          "name": "Fear Aura"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmDevilishClaw00": {
+          "name": "Devilish Claw"
+        },
+        "mmFieryMace00000": {
+          "name": "Fiery Mace"
+        },
+        "mmHellfireSpellc": {
+          "name": "Hellfire Spellcasting"
+        },
+        "VAZbEXPMFjy1i6tB": {
+          "name": "Fireball"
+        },
+        "5irtCzIrQGv5EGRw": {
+          "name": "Hold Monster"
+        },
+        "JoMfpvWvju6ILd45": {
+          "name": "Wall of Fire"
+        }
+      }
+    },
+    "mmPlanetar000000": {
+      "name": "Planetar",
+      "tokenName": "Planetar",
+      "items": {
+        "mmDivineAwarenes": {
+          "name": "Divine Awareness"
+        },
+        "mmExaltedRestora": {
+          "name": "Exalted Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRadiantSword00": {
+          "name": "Radiant Sword"
+        },
+        "mmHolyBurst00000": {
+          "name": "Holy Burst"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "NKJjjt9DcNYbSJNX": {
+          "name": "Detect Evil and Good"
+        },
+        "qi4FBfGudzDz6Lei": {
+          "name": "Commune"
+        },
+        "LcdboPtDut4HQJfr": {
+          "name": "Control Weather"
+        },
+        "fkctWMs3HtVhRarn": {
+          "name": "Dispel Evil and Good"
+        },
+        "sHGzr73GjWhM74N0": {
+          "name": "Raise Dead"
+        },
+        "ywmAOORQe290yHgp": {
+          "name": "Divine Aid"
+        },
+        "WWhaUIpBX0pg9wIY": {
+          "name": "Bless"
+        },
+        "7H9hxFRjh2YaEVHN": {
+          "name": "Dispel Magic"
+        },
+        "m13Jk0xxCRfVybrr": {
+          "name": "Healing Word"
+        },
+        "6WQAwKYqmxkMKSGL": {
+          "name": "Lesser Restoration"
+        },
+        "anpZyBksu302DAWs": {
+          "name": "Cure Wounds"
+        },
+        "zdreCsDiTh8AFj6w": {
+          "name": "Invisibility"
+        },
+        "0KRZWGRmZw1gbdm1": {
+          "name": "Lesser Restoration"
+        },
+        "ZZ5w3O15nYKw2PG8": {
+          "name": "Remove Curse"
+        }
+      }
+    },
+    "mmPlesiosaurus00": {
+      "name": "Plesiosaurus",
+      "tokenName": "Plesiosaurus",
+      "items": {
+        "mmHoldBreath0000": {
+          "name": "Hold Breath"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmPolarBear00000": {
+      "name": "Polar Bear",
+      "tokenName": "Polar Bear",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        }
+      }
+    },
+    "mmPony0000000000": {
+      "name": "Pony",
+      "tokenName": "Pony",
+      "items": {
+        "mmHooves00000000": {
+          "name": "Hooves"
+        }
+      }
+    },
+    "mmPriest00000000": {
+      "name": "Priest",
+      "tokenName": "Priest",
+      "items": {
+        "hRwqUlEyM9TjOmHy": {
+          "name": "Mace"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRadiantFlame00": {
+          "name": "Radiant Flame"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmDivineAid00000": {
+          "name": "Divine Aid"
+        },
+        "pTeocF4StpOtAxCp": {
+          "name": "Bless"
+        },
+        "08e7KqfpyJGkvCS4": {
+          "name": "Dispel Magic"
+        },
+        "dNeqcysBBxKDW1rB": {
+          "name": "Healing Word"
+        },
+        "91eijThR6aV99Tg5": {
+          "name": "Lesser Restoration"
+        },
+        "1F6pAxZqnn2QQhTm": {
+          "name": "Light"
+        },
+        "eyBhljnqMxfzc8px": {
+          "name": "Thaumaturgy"
+        },
+        "KreMwVUMFCVqmF01": {
+          "name": "Spiritual Weapon"
+        }
+      }
+    },
+    "mmPriestAcolyte0": {
+      "name": "Priest Acolyte",
+      "tokenName": "Priest Acolyte",
+      "items": {
+        "epMbuSm8Mv8vsbsu": {
+          "name": "Mace"
+        },
+        "mmRadiantFlame00": {
+          "name": "Radiant Flame"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "mmDivineAid00000": {
+          "name": "Divine Aid"
+        },
+        "RTN8hls1FRHQEPQh": {
+          "name": "Bless"
+        },
+        "9Qq8TeGKvHTiEfBc": {
+          "name": "Healing Word"
+        },
+        "Xuc1V3JdoGcGkuam": {
+          "name": "Sanctuary"
+        },
+        "BVG2rVWSQCWE2lc2": {
+          "name": "Light"
+        },
+        "UVhj7TP2lTUg0CEC": {
+          "name": "Thaumaturgy"
+        }
+      }
+    },
+    "mmPseudodragon00": {
+      "name": "Pseudodragon",
+      "tokenName": "Pseudodragon",
+      "items": {
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmSting000000000": {
+          "name": "Sting"
+        }
+      }
+    },
+    "mmPteranodon0000": {
+      "name": "Pteranodon",
+      "tokenName": "Pteranodon",
+      "items": {
+        "mmFlyby000000000": {
+          "name": "Flyby"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmPurpleWorm0000": {
+      "name": "Purple Worm",
+      "tokenName": "Purple Worm",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmTunneler000000": {
+          "name": "Tunneler"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmTailStinger000": {
+          "name": "Tail Stinger"
+        },
+        "mmSwallow0000000": {
+          "name": "Swallow"
+        }
+      }
+    },
+    "mmQuasit00000000": {
+      "name": "Quasit",
+      "tokenName": "Quasit",
+      "items": {
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmInvisibility00": {
+          "name": "Invisibility"
+        },
+        "32LONl1rUCtttKkg": {
+          "name": "Invisibility"
+        },
+        "mmShapeshift0000": {
+          "name": "Shape-Shift"
+        },
+        "mmScare000000000": {
+          "name": "Scare"
+        }
+      }
+    },
+    "mmRakshasa000000": {
+      "name": "Rakshasa",
+      "tokenName": "Rakshasa",
+      "items": {
+        "mmGreaterMagicRe": {
+          "name": "Greater Magic Resistance"
+        },
+        "mmFiendishRestor": {
+          "name": "Fiendish Restoration"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmCursedTouch000": {
+          "name": "Cursed Touch"
+        },
+        "mmBalefulCommand": {
+          "name": "Baleful Command"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "NYNd1RPTUYd9q3B0": {
+          "name": "Individuazione del Magico"
+        },
+        "duIWrVkA3cpC8SMI": {
+          "name": "Detect Thoughts"
+        },
+        "P9pEfb2M8QWWafZ5": {
+          "name": "Disguise Self"
+        },
+        "KFyubYZhoWyEyIHy": {
+          "name": "Mage Hand"
+        },
+        "5dkorSZBz98kUaVW": {
+          "name": "Illusione Minore"
+        },
+        "9dvsfxXMlg6XkvaM": {
+          "name": "Fly"
+        },
+        "J3Pzx3o5sXfl7xkc": {
+          "name": "Invisibility"
+        },
+        "Fz2TjfFYceN4mvkP": {
+          "name": "Major Image"
+        },
+        "0TJ5MrDshMoTQYgb": {
+          "name": "Plane Shift"
+        }
+      }
+    },
+    "mmRat00000000000": {
+      "name": "Rat",
+      "tokenName": "Rat",
+      "items": {
+        "mmAgile000000000": {
+          "name": "Agile"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmRaven000000000": {
+      "name": "Raven",
+      "tokenName": "Raven",
+      "items": {
+        "mmMimicry0000000": {
+          "name": "Mimicry"
+        },
+        "mmBeak0000000000": {
+          "name": "Beak"
+        }
+      }
+    },
+    "mmRedDragonWyrml": {
+      "name": "Red Dragon Wyrmling",
+      "tokenName": "Red Dragon Wyrmling",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        }
+      }
+    },
+    "mmReefShark00000": {
+      "name": "Reef Shark",
+      "tokenName": "Reef Shark",
+      "items": {
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmWaterBreathing": {
+          "name": "Water Breathing"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmRemorhaz000000": {
+      "name": "Remorhaz",
+      "tokenName": "Remorhaz",
+      "items": {
+        "mmHeatAura000000": {
+          "name": "Heat Aura"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmSwallow0000000": {
+          "name": "Swallow"
+        }
+      }
+    },
+    "mmRhinoceros0000": {
+      "name": "Rhinoceros",
+      "tokenName": "Rhinoceros",
+      "items": {
+        "mmGore0000000000": {
+          "name": "Gore"
+        }
+      }
+    },
+    "mmRidingHorse000": {
+      "name": "Riding Horse",
+      "tokenName": "Riding Horse",
+      "items": {
+        "mmHooves00000000": {
+          "name": "Hooves"
+        }
+      }
+    },
+    "mmRoc00000000000": {
+      "name": "Roc",
+      "tokenName": "Roc",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBeak0000000000": {
+          "name": "Beak"
+        },
+        "mmTalons00000000": {
+          "name": "Talons"
+        },
+        "mmSwoop000000000": {
+          "name": "Swoop"
+        }
+      }
+    },
+    "mmRoper000000000": {
+      "name": "Roper",
+      "tokenName": "Roper",
+      "items": {
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmTentacle000000": {
+          "name": "Tentacle"
+        },
+        "mmReel0000000000": {
+          "name": "Reel"
+        }
+      }
+    },
+    "mmRustMonster000": {
+      "name": "Rust Monster",
+      "tokenName": "Rust Monster",
+      "items": {
+        "mmIronScent00000": {
+          "name": "Iron Scent"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmAntennae000000": {
+          "name": "Antennae"
+        },
+        "mmDestroyMetal00": {
+          "name": "Destroy Metal"
+        },
+        "mmReflexiveAnten": {
+          "name": "Reflexive Antennae"
+        }
+      }
+    },
+    "mmSabertoothedTi": {
+      "name": "Saber-Toothed Tiger",
+      "tokenName": "Saber-Toothed Tiger",
+      "items": {
+        "mmRunningLeap000": {
+          "name": "Running Leap"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmNimbleEscape00": {
+          "name": "Nimble Escape"
+        }
+      }
+    },
+    "mmSahuaginWarrio": {
+      "name": "Sahuagin Warrior",
+      "tokenName": "Sahuagin Warrior",
+      "items": {
+        "mmBloodFrenzy000": {
+          "name": "Blood Frenzy"
+        },
+        "mmLimitedAmphibi": {
+          "name": "Limited Amphibiousness"
+        },
+        "mmSharkTelepathy": {
+          "name": "Shark Telepathy"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmAquaticCharge0": {
+          "name": "Aquatic Charge"
+        }
+      }
+    },
+    "mmSalamander0000": {
+      "name": "Salamander",
+      "tokenName": "Salamander",
+      "items": {
+        "mmFireAura000000": {
+          "name": "Fire Aura"
+        },
+        "mmFlameSpear0000": {
+          "name": "Flame Spear"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmConstrict00000": {
+          "name": "Constrict"
+        }
+      }
+    },
+    "mmSatyr000000000": {
+      "name": "Satyr",
+      "tokenName": "Satyr",
+      "items": {
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmHooves00000000": {
+          "name": "Hooves"
+        },
+        "mmMockery0000000": {
+          "name": "Mockery"
+        }
+      }
+    },
+    "mmScorpion000000": {
+      "name": "Scorpion",
+      "tokenName": "Scorpion",
+      "items": {
+        "mmSting000000000": {
+          "name": "Sting"
+        }
+      }
+    },
+    "mmScout000000000": {
+      "name": "Scout",
+      "tokenName": "Scout",
+      "items": {
+        "jdOlqVzYs89JuqTB": {
+          "name": "Shortsword"
+        },
+        "qhM3PIWgXdyRCeul": {
+          "name": "Longbow"
+        },
+        "4jODBvKGc3yYlOW2": {
+          "name": "Leather Armor"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        }
+      }
+    },
+    "mmSeaHag00000000": {
+      "name": "Sea Hag",
+      "tokenName": "Sea Hag",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmCovenMagic0000": {
+          "name": "Coven Magic"
+        },
+        "KBCnYF6BOwsvdFXq": {
+          "name": "Augury"
+        },
+        "6jQZZ1nlbvBOQtYl": {
+          "name": "Find Familiar"
+        },
+        "WyHL8BgJUYrQT6hV": {
+          "name": "Identify"
+        },
+        "3AiNvzLZE9VHnK9H": {
+          "name": "Locate Object"
+        },
+        "hmnIRrpaFhjOgdUE": {
+          "name": "Scrying"
+        },
+        "GPfGPa68QrAt1JIl": {
+          "name": "Unseen Servant"
+        },
+        "mmVileAppearance": {
+          "name": "Vile Appearance"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmDeathGlare0000": {
+          "name": "Death Glare"
+        },
+        "mmIllusoryAppear": {
+          "name": "Illusory Appearance"
+        },
+        "xFcYJfM0OoEYYQns": {
+          "name": "Disguise Self"
+        }
+      }
+    },
+    "mmSeahorse000000": {
+      "name": "Seahorse",
+      "tokenName": "Seahorse",
+      "items": {
+        "mmWaterBreathing": {
+          "name": "Water Breathing"
+        },
+        "mmBubbleDash0000": {
+          "name": "Bubble Dash"
+        }
+      }
+    },
+    "mmShadow00000000": {
+      "name": "Shadow",
+      "tokenName": "Shadow",
+      "items": {
+        "mmAmorphous00000": {
+          "name": "Amorphous"
+        },
+        "mmSunlightWeakne": {
+          "name": "Sunlight Weakness"
+        },
+        "mmDrainingSwipe0": {
+          "name": "Draining Swipe"
+        },
+        "mmShadowStealth0": {
+          "name": "Shadow Stealth"
+        }
+      }
+    },
+    "mmShamblingMound": {
+      "name": "Shambling Mound",
+      "tokenName": "Shambling Mound",
+      "items": {
+        "mmLightningAbsor": {
+          "name": "Lightning Absorption"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmChargedTendril": {
+          "name": "Charged Tendril"
+        },
+        "mmEngulf00000000": {
+          "name": "Engulf"
+        }
+      }
+    },
+    "mmShieldGuardian": {
+      "name": "Shield Guardian",
+      "tokenName": "Shield Guardian",
+      "items": {
+        "mmBound000000000": {
+          "name": "Bound"
+        },
+        "mmRegeneration00": {
+          "name": "Regeneration"
+        },
+        "mmSpellStoring00": {
+          "name": "Spell Storing"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmFist0000000000": {
+          "name": "Fist"
+        },
+        "mmProtection0000": {
+          "name": "Protection"
+        }
+      }
+    },
+    "mmShriekerFungus": {
+      "name": "Shrieker Fungus",
+      "tokenName": "Shrieker Fungus",
+      "items": {
+        "mmShriek00000000": {
+          "name": "Shriek"
+        }
+      }
+    },
+    "mmSilverDragonWy": {
+      "name": "Silver Dragon Wyrmling",
+      "tokenName": "Silver Dragon Wyrmling",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmColdBreath0000": {
+          "name": "Cold Breath"
+        },
+        "mmParalyzingBrea": {
+          "name": "Paralyzing Breath"
+        }
+      }
+    },
+    "mmSkeleton000000": {
+      "name": "Skeleton",
+      "tokenName": "Skeleton",
+      "items": {
+        "vEXMIYtUBn1SxPZD": {
+          "name": "Shortsword"
+        },
+        "kCpjX4Ys7VLJ25qi": {
+          "name": "Shortbow"
+        }
+      }
+    },
+    "mmSlaadTadpole00": {
+      "name": "Slaad Tadpole",
+      "tokenName": "Slaad Tadpole",
+      "items": {
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmSolar000000000": {
+      "name": "Solar",
+      "tokenName": "Solar",
+      "items": {
+        "mmDivineAwarenes": {
+          "name": "Divine Awareness"
+        },
+        "mmExaltedRestora": {
+          "name": "Exalted Restoration"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmSlayingBow0000": {
+          "name": "Slaying Bow"
+        },
+        "mmFlyingSword000": {
+          "name": "Flying Sword"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "ovdN9mRTyXP1j08C": {
+          "name": "Detect Evil and Good"
+        },
+        "1N2neNzwvXKVcU5x": {
+          "name": "Commune"
+        },
+        "0lf6wzfUsp3jTIti": {
+          "name": "Control Weather"
+        },
+        "kiSJTCgeflbQIcAL": {
+          "name": "Dispel Evil and Good"
+        },
+        "CqPrcjjGFXcwb6lK": {
+          "name": "Resurrection"
+        },
+        "mmBlindingGaze00": {
+          "name": "Blinding Gaze"
+        },
+        "mmRadiantTelepor": {
+          "name": "Radiant Teleport"
+        },
+        "jb9GlwVmpAclDUSd": {
+          "name": "Divine Aid"
+        },
+        "lNdiEuYQ2WarE6UR": {
+          "name": "Cure Wounds"
+        },
+        "Fmei7YO1waLBqeSJ": {
+          "name": "Lesser Restoration"
+        },
+        "UBpYC2J5kdms3616": {
+          "name": "Remove Curse"
+        }
+      }
+    },
+    "mmSpecter0000000": {
+      "name": "Specter",
+      "tokenName": "Specter",
+      "items": {
+        "mmIncorporealMov": {
+          "name": "Incorporeal Movement"
+        },
+        "mmSunlightSensit": {
+          "name": "Sunlight Sensitivity"
+        },
+        "mmLifeDrain00000": {
+          "name": "Life Drain"
+        }
+      }
+    },
+    "mmSphinxOfLore00": {
+      "name": "Sphinx of Lore",
+      "tokenName": "Sphinx of Lore",
+      "items": {
+        "mmInscrutable000": {
+          "name": "Inscrutable"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmMindrendingRoa": {
+          "name": "Mind-Rending Roar"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "3iFVzsqSf2WVQfPZ": {
+          "name": "Individuazione del Magico"
+        },
+        "leUcbtUfszTZvsrL": {
+          "name": "Identify"
+        },
+        "XSFpn9go4Lz1KDDZ": {
+          "name": "Mage Hand"
+        },
+        "5BhLlAXMXjt3FGgl": {
+          "name": "Illusione Minore"
+        },
+        "BcQlXdMvzWgF3rml": {
+          "name": "Prestidigitation"
+        },
+        "3QtVeoLFpQD2ZIZ6": {
+          "name": "Dispel Magic"
+        },
+        "IPZZTC6sjbIVCUVY": {
+          "name": "Legend Lore"
+        },
+        "jclLNcK4S0eIgQqs": {
+          "name": "Locate Object"
+        },
+        "I43UVsLdC2ERiWej": {
+          "name": "Plane Shift"
+        },
+        "qLsO05aCvad2nWG6": {
+          "name": "Remove Curse"
+        },
+        "n7uKSkGfYqj4FjU6": {
+          "name": "Tongues"
+        },
+        "mmArcaneProwl000": {
+          "name": "Arcane Prowl"
+        },
+        "mmWeightOfYears0": {
+          "name": "Weight of Years"
+        }
+      }
+    },
+    "mmSphinxOfValor0": {
+      "name": "Sphinx of Valor",
+      "tokenName": "Sphinx of Valor",
+      "items": {
+        "mmInscrutable000": {
+          "name": "Inscrutable"
+        },
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmRoar0000000000": {
+          "name": "Roar"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "2ndWwKbQG28cUDsw": {
+          "name": "Detect Evil and Good"
+        },
+        "fK99FtV5a8VoCNTl": {
+          "name": "Thaumaturgy"
+        },
+        "DfCLvZVa4EKzFByM": {
+          "name": "Individuazione del Magico"
+        },
+        "w3fU9CJNOK5kJtrb": {
+          "name": "Dispel Magic"
+        },
+        "BXk2z10EMxnzvN4W": {
+          "name": "Greater Restoration"
+        },
+        "sDcBqPl7Y7t7OD6n": {
+          "name": "Heroes' Feast"
+        },
+        "PsTixp9srIi2sCpI": {
+          "name": "Zone of Truth"
+        },
+        "mmArcaneProwl000": {
+          "name": "Arcane Prowl"
+        },
+        "mmWeightOfYears0": {
+          "name": "Weight of Years"
+        }
+      }
+    },
+    "mmSphinxOfWonder": {
+      "name": "Sphinx of Wonder",
+      "tokenName": "Sphinx of Wonder",
+      "items": {
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "uiOacfEeMdLH84D7": {
+          "name": "Burst of Ingenuity"
+        }
+      }
+    },
+    "mmSpider00000000": {
+      "name": "Spider",
+      "tokenName": "Spider",
+      "items": {
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmWebWalker00000": {
+          "name": "Web Walker"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmSpiritNaga0000": {
+      "name": "Spirit Naga",
+      "tokenName": "Spirit Naga",
+      "items": {
+        "mmFiendishRestor": {
+          "name": "Fiendish Restoration"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmNecroticRay000": {
+          "name": "Necrotic Ray"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "ppISVKQQqC18ap6D": {
+          "name": "Individuazione del Magico"
+        },
+        "Rd4Kg9SxqLxAALXU": {
+          "name": "Mage Hand"
+        },
+        "ga8WMfpmg6XsmKzG": {
+          "name": "Illusione Minore"
+        },
+        "l6QBJ7Y0NAqE3rnq": {
+          "name": "Water Breathing"
+        },
+        "0TYpeSGwwVhokYoU": {
+          "name": "Detect Thoughts"
+        },
+        "3fMt232wtzBUxB1m": {
+          "name": "Dimension Door"
+        },
+        "FPXJqMmeIZ9rTLFW": {
+          "name": "Hold Person"
+        },
+        "etbC3HZq7ExbtgmW": {
+          "name": "Lightning Bolt"
+        }
+      }
+    },
+    "mmSprite00000000": {
+      "name": "Sprite",
+      "tokenName": "Sprite",
+      "items": {
+        "mmNeedleSword000": {
+          "name": "Needle Sword"
+        },
+        "mmEnchantingBow0": {
+          "name": "Enchanting Bow"
+        },
+        "mmHeartSight0000": {
+          "name": "Heart Sight"
+        },
+        "mmInvisibility00": {
+          "name": "Invisibility"
+        },
+        "FAek73jM5CyQOO60": {
+          "name": "Invisibility"
+        }
+      }
+    },
+    "mmSpy00000000000": {
+      "name": "Spy",
+      "tokenName": "Spy",
+      "items": {
+        "cZowYloP5f2fxbtI": {
+          "name": "Shortsword"
+        },
+        "8XNaqNwy1n0AUrl5": {
+          "name": "Hand Crossbow"
+        },
+        "mmCunningAction0": {
+          "name": "Cunning Action"
+        }
+      }
+    },
+    "mmSteamMephit000": {
+      "name": "Steam Mephit",
+      "tokenName": "Steam Mephit",
+      "items": {
+        "mmBlurredForm000": {
+          "name": "Blurred Form"
+        },
+        "mmDeathBurst0000": {
+          "name": "Death Burst"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmSteamBreath000": {
+          "name": "Steam Breath"
+        }
+      }
+    },
+    "mmStirge00000000": {
+      "name": "Stirge",
+      "tokenName": "Stirge",
+      "items": {
+        "mmProboscis00000": {
+          "name": "Proboscis"
+        }
+      }
+    },
+    "mmStoneGiant0000": {
+      "name": "Stone Giant",
+      "tokenName": "Stone Giant",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmStoneClub00000": {
+          "name": "Stone Club"
+        },
+        "mmBoulder0000000": {
+          "name": "Boulder"
+        },
+        "mmDeflectMissile": {
+          "name": "Deflect Missile"
+        }
+      }
+    },
+    "mmStoneGolem0000": {
+      "name": "Stone Golem",
+      "tokenName": "Stone Golem",
+      "items": {
+        "mmImmutableForm0": {
+          "name": "Immutable Form"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmSlam0000000000": {
+          "name": "Slam"
+        },
+        "mmForceBolt00000": {
+          "name": "Force Bolt"
+        },
+        "mmSlow0000000000": {
+          "name": "Slow"
+        },
+        "rHwlDG85kUcrUFdg": {
+          "name": "Slow"
+        }
+      }
+    },
+    "mmStormGiant0000": {
+      "name": "Storm Giant",
+      "tokenName": "Storm Giant",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmStormSword0000": {
+          "name": "Storm Sword"
+        },
+        "mmThunderbolt000": {
+          "name": "Thunderbolt"
+        },
+        "mmLightningStorm": {
+          "name": "Lightning Storm"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "a7WqdxaUOqFULucH": {
+          "name": "Individuazione del Magico"
+        },
+        "FuybodXmPwcWpHYX": {
+          "name": "Light"
+        },
+        "P1YPgugYe3pgj9DW": {
+          "name": "Control Weather"
+        }
+      }
+    },
+    "mmSuccubus000000": {
+      "name": "Succubus",
+      "tokenName": "Succubus",
+      "items": {
+        "mmIncubusForm000": {
+          "name": "Incubus Form"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmFiendishTouch0": {
+          "name": "Fiendish Touch"
+        },
+        "mmCharm000000000": {
+          "name": "Charm"
+        },
+        "mmDrainingKiss00": {
+          "name": "Draining Kiss"
+        },
+        "mmShapeshift0000": {
+          "name": "Shape-Shift"
+        },
+        "ngMn9mjUa63VWbHY": {
+          "name": "Dominate Person"
+        }
+      }
+    },
+    "mmSwarmOfBats000": {
+      "name": "Swarm of Bats",
+      "tokenName": "Swarm of Bats",
+      "items": {
+        "mmSwarm000000000": {
+          "name": "Swarm"
+        },
+        "mmBites000000000": {
+          "name": "Bites"
+        }
+      }
+    },
+    "mmSwarmOfCrawlin": {
+      "name": "Swarm of Crawling Claws",
+      "tokenName": "Swarm of Crawling Claws",
+      "items": {
+        "mmSwarm000000000": {
+          "name": "Swarm"
+        },
+        "mmSwarmOfGraspin": {
+          "name": "Swarm of Grasping Hands"
+        }
+      }
+    },
+    "mmSwarmOfInsects": {
+      "name": "Swarm of Insects",
+      "tokenName": "Swarm of Insects",
+      "items": {
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmSwarm000000000": {
+          "name": "Swarm"
+        },
+        "mmBites000000000": {
+          "name": "Bites"
+        }
+      }
+    },
+    "mmSwarmOfPiranha": {
+      "name": "Swarm of Piranhas",
+      "tokenName": "Swarm of Piranhas",
+      "items": {
+        "mmSwarm000000000": {
+          "name": "Swarm"
+        },
+        "mmWaterBreathing": {
+          "name": "Water Breathing"
+        },
+        "mmBites000000000": {
+          "name": "Bites"
+        }
+      }
+    },
+    "mmSwarmOfRats000": {
+      "name": "Swarm of Rats",
+      "tokenName": "Swarm of Rats",
+      "items": {
+        "mmSwarm000000000": {
+          "name": "Swarm"
+        },
+        "mmBites000000000": {
+          "name": "Bites"
+        }
+      }
+    },
+    "mmSwarmOfRavens0": {
+      "name": "Swarm of Ravens",
+      "tokenName": "Swarm of Ravens",
+      "items": {
+        "mmSwarm000000000": {
+          "name": "Swarm"
+        },
+        "mmBeaks000000000": {
+          "name": "Beaks"
+        },
+        "mmCacophony00000": {
+          "name": "Cacophony"
+        }
+      }
+    },
+    "mmSwarmOfVenomou": {
+      "name": "Swarm of Venomous Snakes",
+      "tokenName": "Swarm of Venomous Snakes",
+      "items": {
+        "mmSwarm000000000": {
+          "name": "Swarm"
+        },
+        "mmBites000000000": {
+          "name": "Bites"
+        }
+      }
+    },
+    "mmTarrasque00000": {
+      "name": "Tarrasque",
+      "tokenName": "Tarrasque",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmReflectiveCara": {
+          "name": "Reflective Carapace"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmTail0000000000": {
+          "name": "Tail"
+        },
+        "mmThunderousBell": {
+          "name": "Thunderous Bellow"
+        },
+        "mmSwallow0000000": {
+          "name": "Swallow"
+        },
+        "mmOnslaught00000": {
+          "name": "Onslaught"
+        },
+        "kBI2qYix7GyXmhaD": {
+          "name": "World-Shaking Movement"
+        },
+        "0fYOr7IiLnAw7agN": {
+          "name": "Siege Monster"
+        }
+      }
+    },
+    "mmTiger000000000": {
+      "name": "Tiger",
+      "tokenName": "Tiger",
+      "items": {
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmNimbleEscape00": {
+          "name": "Nimble Escape"
+        }
+      }
+    },
+    "mmTough000000000": {
+      "name": "Tough",
+      "tokenName": "Tough",
+      "items": {
+        "g247cae7xSU9n39H": {
+          "name": "Mace"
+        },
+        "wY4qcHbGDew7U0jj": {
+          "name": "Heavy Crossbow"
+        },
+        "QTizUswaAvb6NFeK": {
+          "name": "Leather Armor"
+        },
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        }
+      }
+    },
+    "mmToughBoss00000": {
+      "name": "Tough Boss",
+      "tokenName": "Tough Boss",
+      "items": {
+        "iD5121TXziB6ZcSt": {
+          "name": "Warhammer"
+        },
+        "7MS7v84QoTYESVax": {
+          "name": "Heavy Crossbow"
+        },
+        "upFFa0po60XRIROc": {
+          "name": "Chain Mail"
+        },
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        }
+      }
+    },
+    "mmTreant00000000": {
+      "name": "Treant",
+      "tokenName": "Treant",
+      "items": {
+        "mmSiegeMonster00": {
+          "name": "Siege Monster"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmSlam0000000000": {
+          "name": "Slam"
+        },
+        "mmHailOfBark0000": {
+          "name": "Hail of Bark"
+        },
+        "lqG4KueiyzdOy01v": {
+          "name": "Animate Trees"
+        }
+      }
+    },
+    "mmTriceratops000": {
+      "name": "Triceratops",
+      "tokenName": "Triceratops",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmGore0000000000": {
+          "name": "Gore"
+        }
+      }
+    },
+    "mmTroll000000000": {
+      "name": "Troll",
+      "tokenName": "Troll",
+      "items": {
+        "mmLoathsomeLimbs": {
+          "name": "Loathsome Limbs"
+        },
+        "mmRegeneration00": {
+          "name": "Regeneration"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmCharge00000000": {
+          "name": "Charge"
+        }
+      }
+    },
+    "mmTrollLimb00000": {
+      "name": "Troll Limb",
+      "tokenName": "Troll Limb",
+      "items": {
+        "mmRegeneration00": {
+          "name": "Regeneration"
+        },
+        "mmTrollSpawn0000": {
+          "name": "Troll Spawn"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        }
+      }
+    },
+    "mmTyrannosaurusR": {
+      "name": "Tyrannosaurus Rex",
+      "tokenName": "Tyrannosaurus Rex",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmTail0000000000": {
+          "name": "Tail"
+        }
+      }
+    },
+    "mmUnicorn0000000": {
+      "name": "Unicorn",
+      "tokenName": "Unicorn",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmHooves00000000": {
+          "name": "Hooves"
+        },
+        "mmRadiantHorn000": {
+          "name": "Radiant Horn"
+        },
+        "mmSpellcasting00": {
+          "name": "Spellcasting"
+        },
+        "xsmcD9YZKCIEZ3kr": {
+          "name": "Detect Evil and Good"
+        },
+        "kYsTzM5cuWinvQqm": {
+          "name": "Druidcraft"
+        },
+        "DKRD4BpOE7xCo1AQ": {
+          "name": "Calm Emotions"
+        },
+        "liK9CYrnL3t4Ax8t": {
+          "name": "Dispel Evil and Good"
+        },
+        "wMKtTgo83ZrHpSdD": {
+          "name": "Entangle"
+        },
+        "KBC4PegvxoFmk1SU": {
+          "name": "Pass without Trace"
+        },
+        "tqXlS6FGdENkOvOt": {
+          "name": "Word of Recall"
+        },
+        "mmChargingHorn00": {
+          "name": "Charging Horn"
+        },
+        "mmShimmeringShie": {
+          "name": "Shimmering Shield"
+        },
+        "lWC2jp0sRaJILIwH": {
+          "name": "Unicorn's Blessing"
+        },
+        "LyYGPP2oL1c9vzvX": {
+          "name": "Cure Wounds"
+        },
+        "SHF3PcSeKLaM8UfY": {
+          "name": "Lesser Restoration"
+        }
+      }
+    },
+    "mmVampire0000000": {
+      "name": "Vampire",
+      "tokenName": "Vampire",
+      "items": {
+        "mmLegendaryResis": {
+          "name": "Resistenze Leggendarie"
+        },
+        "mmMistyEscape000": {
+          "name": "Misty Escape"
+        },
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattack (Vampire Form Only)"
+        },
+        "mmGraveStrike000": {
+          "name": "Grave Strike (Vampire Form Only)"
+        },
+        "mmBite0000000000": {
+          "name": "Bite (Bat or Vampire Form Only)"
+        },
+        "mmCharm000000000": {
+          "name": "Charm"
+        },
+        "7UhygzsYYtKfVJJ3": {
+          "name": "Charm Person"
+        },
+        "mmShapeshift0000": {
+          "name": "Shape-Shift"
+        },
+        "mmBeguile0000000": {
+          "name": "Beguile"
+        },
+        "IzS0oSSgTDp0oltT": {
+          "name": "Command"
+        },
+        "4jEKnNBcbZnPmifL": {
+          "name": "Deathless Strike"
+        },
+        "mmVampireWeaknes": {
+          "name": "Vampire Weakness"
+        }
+      }
+    },
+    "mmVampireFamilia": {
+      "name": "Vampire Familiar",
+      "tokenName": "Vampire Familiar",
+      "items": {
+        "mmVampiricConnec": {
+          "name": "Vampiric Connection"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmUmbralDagger00": {
+          "name": "Umbral Dagger"
+        },
+        "mmDeathlessAgili": {
+          "name": "Deathless Agility"
+        }
+      }
+    },
+    "mmVampireSpawn00": {
+      "name": "Vampire Spawn",
+      "tokenName": "Vampire Spawn",
+      "items": {
+        "mmSpiderClimb000": {
+          "name": "Spider Climb"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmDeathlessAgili": {
+          "name": "Deathless Agility"
+        },
+        "mmVampireWeaknes": {
+          "name": "Vampire Weakness"
+        }
+      }
+    },
+    "mmVenomousSnake0": {
+      "name": "Venomous Snake",
+      "tokenName": "Venomous Snake",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmVioletFungus00": {
+      "name": "Violet Fungus",
+      "tokenName": "Violet Fungus",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRottingTouch00": {
+          "name": "Rotting Touch"
+        }
+      }
+    },
+    "mmVrock000000000": {
+      "name": "Vrock",
+      "tokenName": "Vrock",
+      "items": {
+        "mmDemonicRestora": {
+          "name": "Demonic Restoration"
+        },
+        "mmMagicResistanc": {
+          "name": "Magic Resistance"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmShred000000000": {
+          "name": "Shred"
+        },
+        "mmSpores00000000": {
+          "name": "Spores"
+        },
+        "mmStunningScreec": {
+          "name": "Stunning Screech"
+        }
+      }
+    },
+    "mmVulture0000000": {
+      "name": "Vulture",
+      "tokenName": "Vulture",
+      "items": {
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmBeak0000000000": {
+          "name": "Beak"
+        }
+      }
+    },
+    "mmWarhorse000000": {
+      "name": "Warhorse",
+      "tokenName": "Warhorse",
+      "items": {
+        "mmHooves00000000": {
+          "name": "Hooves"
+        }
+      }
+    },
+    "mmWarhorseSkelet": {
+      "name": "Warhorse Skeleton",
+      "tokenName": "Warhorse Skeleton",
+      "items": {
+        "mmHooves00000000": {
+          "name": "Hooves"
+        }
+      }
+    },
+    "mmWarriorInfantr": {
+      "name": "Warrior Infantry",
+      "tokenName": "Warrior Infantry",
+      "items": {
+        "ol6ha2oiuhrynqx0": {
+          "name": "Spear"
+        },
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        }
+      }
+    },
+    "mmWarriorVeteran": {
+      "name": "Warrior Veteran",
+      "tokenName": "Warrior Veteran",
+      "items": {
+        "KkRkIIhD17sL5x30": {
+          "name": "Greatsword"
+        },
+        "0nNkeR6HNC1e2uQ3": {
+          "name": "Heavy Crossbow"
+        },
+        "HPMarS7U5pUxSyy2": {
+          "name": "Splint Armor"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmParry000000000": {
+          "name": "Parry"
+        }
+      }
+    },
+    "mmWaterElemental": {
+      "name": "Water Elemental",
+      "tokenName": "Water Elemental",
+      "items": {
+        "mmFreeze00000000": {
+          "name": "Freeze"
+        },
+        "mmWaterForm00000": {
+          "name": "Water Form"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmSlam0000000000": {
+          "name": "Slam"
+        },
+        "mmWhelm000000000": {
+          "name": "Whelm"
+        }
+      }
+    },
+    "mmWeasel00000000": {
+      "name": "Weasel",
+      "tokenName": "Weasel",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmWerebear000000": {
+      "name": "Werebear",
+      "tokenName": "Werebear",
+      "items": {
+        "JIRP6xpVCOyZotXc": {
+          "name": "Handaxe (Humanoid or Hybrid Form Only)"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite (Bear or Hybrid Form Only)"
+        },
+        "mmRend0000000000": {
+          "name": "Rend (Bear or Hybrid Form Only)"
+        },
+        "mmShapeshift0000": {
+          "name": "Shape-Shift"
+        }
+      }
+    },
+    "mmWereboar000000": {
+      "name": "Wereboar",
+      "tokenName": "Wereboar",
+      "items": {
+        "hhfnX7eT1ZFun8oQ": {
+          "name": "Javelin (Humanoid or Hybrid Form Only)"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmGore0000000000": {
+          "name": "Gore  (Boar or Hybrid Form Only)"
+        },
+        "mmTusk0000000000": {
+          "name": "Tusk (Boar or Hybrid Form Only)"
+        },
+        "mmShapeshift0000": {
+          "name": "Shape-Shift"
+        }
+      }
+    },
+    "mmWererat0000000": {
+      "name": "Wererat",
+      "tokenName": "Wererat",
+      "items": {
+        "hd3JZprvOwTX7QK1": {
+          "name": "Hand Crossbow (Humanoid or Hybrid Form Only)"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite (Rat or Hybrid Form Only)"
+        },
+        "mmScratch0000000": {
+          "name": "Scratch"
+        },
+        "mmShapeshift0000": {
+          "name": "Shape-Shift"
+        }
+      }
+    },
+    "mmWeretiger00000": {
+      "name": "Weretiger",
+      "tokenName": "Weretiger",
+      "items": {
+        "Spw5gbTlI2AKsGWd": {
+          "name": "Longbow (Humanoid or Hybrid Form Only)"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite (Tiger or Hybrid Form Only)"
+        },
+        "mmScratch0000000": {
+          "name": "Scratch"
+        },
+        "mmShapeshift0000": {
+          "name": "Shape-Shift"
+        },
+        "4XnVTvvmrKKbIP8n": {
+          "name": "Prowl (Tiger or Hybrid Form Only)"
+        }
+      }
+    },
+    "mmWerewolf000000": {
+      "name": "Werewolf",
+      "tokenName": "Werewolf",
+      "items": {
+        "mYM6o8kM9SDVm45w": {
+          "name": "Longbow"
+        },
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite (Wolf or Hybrid Form Only)"
+        },
+        "mmScratch0000000": {
+          "name": "Scratch"
+        },
+        "mmShapeshift0000": {
+          "name": "Shape-Shift"
+        }
+      }
+    },
+    "mmWhiteDragonWyr": {
+      "name": "White Dragon Wyrmling",
+      "tokenName": "White Dragon Wyrmling",
+      "items": {
+        "mmIceWalk0000000": {
+          "name": "Ice Walk"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmColdBreath0000": {
+          "name": "Cold Breath"
+        }
+      }
+    },
+    "mmWight000000000": {
+      "name": "Wight",
+      "tokenName": "Wight",
+      "items": {
+        "H1F8HwTAk3IA9UoP": {
+          "name": "Studded Leather Armor"
+        },
+        "mmSunlightSensit": {
+          "name": "Sunlight Sensitivity"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmNecroticSword0": {
+          "name": "Necrotic Sword"
+        },
+        "mmLifeDrain00000": {
+          "name": "Life Drain"
+        },
+        "mmNecroticBow000": {
+          "name": "Necrotic Bow"
+        }
+      }
+    },
+    "mmWillowisp00000": {
+      "name": "Will-o'-Wisp",
+      "tokenName": "Will-o'-Wisp",
+      "items": {
+        "mmEphemeral00000": {
+          "name": "Ephemeral"
+        },
+        "mmIllumination00": {
+          "name": "Illumination"
+        },
+        "mmIncorporealMov": {
+          "name": "Incorporeal Movement"
+        },
+        "mmVanish00000000": {
+          "name": "Vanish"
+        },
+        "YPy3wAfsPZ7cNJoJ": {
+          "name": "Consume Life"
+        },
+        "KSPu27tkSo11sWcw": {
+          "name": "Shock"
+        }
+      }
+    },
+    "mmWinterWolf0000": {
+      "name": "Winter Wolf",
+      "tokenName": "Winter Wolf",
+      "items": {
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmColdBreath0000": {
+          "name": "Cold Breath"
+        }
+      }
+    },
+    "mmWolf0000000000": {
+      "name": "Wolf",
+      "tokenName": "Wolf",
+      "items": {
+        "mmPackTactics000": {
+          "name": "Pack Tactics"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmWorg0000000000": {
+      "name": "Worg",
+      "tokenName": "Worg",
+      "items": {
+        "mmBite0000000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "mmWraith00000000": {
+      "name": "Wraith",
+      "tokenName": "Wraith",
+      "items": {
+        "mmIncorporealMov": {
+          "name": "Incorporeal Movement"
+        },
+        "mmSunlightSensit": {
+          "name": "Sunlight Sensitivity"
+        },
+        "mmLifeDrain00000": {
+          "name": "Life Drain"
+        },
+        "mmCreateSpecter0": {
+          "name": "Create Specter"
+        }
+      }
+    },
+    "mmWyvern00000000": {
+      "name": "Wyvern",
+      "tokenName": "Wyvern",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmSting000000000": {
+          "name": "Sting"
+        }
+      }
+    },
+    "mmXorn0000000000": {
+      "name": "Xorn",
+      "tokenName": "Xorn",
+      "items": {
+        "mmEarthGlide0000": {
+          "name": "Earth Glide"
+        },
+        "mmTreasureSense0": {
+          "name": "Treasure Sense"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmBite0000000000": {
+          "name": "Bite"
+        },
+        "mmClaw0000000000": {
+          "name": "Claw"
+        },
+        "mmCharge00000000": {
+          "name": "Charge"
+        }
+      }
+    },
+    "mmYoungBlackDrag": {
+      "name": "Young Black Dragon",
+      "tokenName": "Young Black Dragon",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmAcidBreath0000": {
+          "name": "Acid Breath"
+        }
+      }
+    },
+    "mmYoungBlueDrago": {
+      "name": "Young Blue Dragon",
+      "tokenName": "Young Blue Dragon",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmLightningBreat": {
+          "name": "Lightning Breath"
+        }
+      }
+    },
+    "mmYoungBrassDrag": {
+      "name": "Young Brass Dragon",
+      "tokenName": "Young Brass Dragon",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        },
+        "mmSleepBreath000": {
+          "name": "Sleep Breath"
+        }
+      }
+    },
+    "mmYoungBronzeDra": {
+      "name": "Young Bronze Dragon",
+      "tokenName": "Young Bronze Dragon",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmLightningBreat": {
+          "name": "Lightning Breath"
+        },
+        "mmRepulsionBreat": {
+          "name": "Repulsion Breath"
+        }
+      }
+    },
+    "mmYoungCopperDra": {
+      "name": "Young Copper Dragon",
+      "tokenName": "Young Copper Dragon",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmAcidBreath0000": {
+          "name": "Acid Breath"
+        },
+        "mmSlowingBreath0": {
+          "name": "Slowing Breath"
+        }
+      }
+    },
+    "mmYoungGoldDrago": {
+      "name": "Young Gold Dragon",
+      "tokenName": "Young Gold Dragon",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        },
+        "mmWeakeningBreat": {
+          "name": "Weakening Breath"
+        }
+      }
+    },
+    "mmYoungGreenDrag": {
+      "name": "Young Green Dragon",
+      "tokenName": "Young Green Dragon",
+      "items": {
+        "mmAmphibious0000": {
+          "name": "Amphibious"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmPoisonBreath00": {
+          "name": "Poison Breath"
+        }
+      }
+    },
+    "mmYoungRedDragon": {
+      "name": "Young Red Dragon",
+      "tokenName": "Young Red Dragon",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmFireBreath0000": {
+          "name": "Fire Breath"
+        }
+      }
+    },
+    "mmYoungSilverDra": {
+      "name": "Young Silver Dragon",
+      "tokenName": "Young Silver Dragon",
+      "items": {
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmColdBreath0000": {
+          "name": "Cold Breath"
+        },
+        "mmParalyzingBrea": {
+          "name": "Paralyzing Breath"
+        }
+      }
+    },
+    "mmYoungWhiteDrag": {
+      "name": "Young White Dragon",
+      "tokenName": "Young White Dragon",
+      "items": {
+        "mmIceWalk0000000": {
+          "name": "Ice Walk"
+        },
+        "mmMultiattack000": {
+          "name": "Multiattacco"
+        },
+        "mmRend0000000000": {
+          "name": "Rend"
+        },
+        "mmColdBreath0000": {
+          "name": "Cold Breath"
+        }
+      }
+    },
+    "mmZombie00000000": {
+      "name": "Zombie",
+      "tokenName": "Zombie",
+      "items": {
+        "mmUndeadFortitud": {
+          "name": "Undead Fortitude"
+        },
+        "mmSlam0000000000": {
+          "name": "Slam"
+        }
+      }
+    },
+    "phbConjuredEarth": {
+      "name": "Conjured Earth Elemental",
+      "tokenName": "Conjured Earth Elemental",
+      "items": {
+        "oJkALZTVLPy8TJSR": {
+          "name": "Earth Element"
+        }
+      }
+    },
+    "phbConjuredFireE": {
+      "name": "Conjured Fire Elemental",
+      "tokenName": "Conjured Fire Elemental",
+      "items": {
+        "M6i0fFdNQmWKA4BZ": {
+          "name": "Fire Element"
+        }
+      }
+    },
+    "phbConjuredWater": {
+      "name": "Conjured Water Elemental",
+      "tokenName": "Conjured Water Elemental",
+      "items": {
+        "BeXR1DiQaXVIpgxp": {
+          "name": "Water Element"
+        }
+      }
+    },
+    "phbDuplicate0000": {
+      "name": "Duplicate",
+      "tokenName": "Duplicate"
+    },
+    "phbInvisibleSens": {
+      "name": "Invisible Sensor",
+      "tokenName": "Invisible Sensor"
+    },
+    "phbSpectralAnima": {
+      "name": "Conjured Animals",
+      "tokenName": "Conjured Animals",
+      "items": {
+        "phbcftPackDamage": {
+          "name": "Pack Damage"
+        }
+      }
+    },
+    "phbhaoAnimatedOb": {
+      "name": "Huge Animated Object",
+      "tokenName": "Animated Object",
+      "items": {
+        "phbaoiSlam000000": {
+          "name": "Slam"
+        }
+      }
+    },
+    "phbiluCreature00": {
+      "name": "Illusory Creature",
+      "tokenName": "Illusory Creature"
+    },
+    "phbiluObject0000": {
+      "name": "Illusory Object",
+      "tokenName": "Illusory Object"
+    },
+    "phbiluSensory000": {
+      "name": "Illusory Phenomenon",
+      "tokenName": "Illusory Phenomenon"
+    },
+    "phblaoAnimatedOb": {
+      "name": "Large Animated Object",
+      "tokenName": "Animated Object",
+      "items": {
+        "phbaoiSlam000000": {
+          "name": "Slam"
+        }
+      }
+    },
+    "phbmaoAnimatedOb": {
+      "name": "Medium Animated Object",
+      "tokenName": "Animated Object",
+      "items": {
+        "phbaoiSlam000000": {
+          "name": "Slam"
+        }
+      }
+    },
+    "phbmobDraconicSp": {
+      "name": "Draconic Spirit",
+      "tokenName": "Draconic Spirit",
+      "items": {
+        "phbaoiSharedResi": {
+          "name": "Shared Resistances"
+        },
+        "phbaoiMultiattac": {
+          "name": "Multiattacco"
+        },
+        "phbaoiRend000000": {
+          "name": "Rend"
+        },
+        "phbaoiBreathWeap": {
+          "name": "Breath Weapon"
+        }
+      }
+    },
+    "phbmobFaithfulHo": {
+      "name": "Faithful Hound",
+      "tokenName": "Faithful Hound",
+      "items": {
+        "phbaoiBite000000": {
+          "name": "Bite"
+        }
+      }
+    },
+    "phbmobGalley0000": {
+      "name": "Galley",
+      "tokenName": "Galley"
+    },
+    "phbmobGiantInsec": {
+      "name": "Giant Insect",
+      "tokenName": "Giant Insect",
+      "items": {
+        "phbaoiSpiderClim": {
+          "name": "Spider Climb"
+        },
+        "phbaoiMultiattac": {
+          "name": "Multiattacco"
+        },
+        "phbaoiPoisonJab0": {
+          "name": "Poison Jab"
+        },
+        "phbaoiWebBoltSpi": {
+          "name": "Web Bolt"
+        },
+        "phbaoiVenomousSp": {
+          "name": "Venomous Spew"
+        }
+      }
+    },
+    "phbmobKeelboat00": {
+      "name": "Keelboat",
+      "tokenName": "Keelboat"
+    },
+    "phbmobLongship00": {
+      "name": "Longship",
+      "tokenName": "Longship"
+    },
+    "phbmobOtherworld": {
+      "name": "Otherworldly Steed",
+      "tokenName": "Otherworldly Steed",
+      "items": {
+        "phbaoiLifeBond00": {
+          "name": "Life Bond"
+        },
+        "phbaoiOtherworld": {
+          "name": "Otherworldly Slam"
+        },
+        "phbaoiFellGlareF": {
+          "name": "Fell Glare"
+        },
+        "phbaoiFeyStepFey": {
+          "name": "Fey Step"
+        },
+        "phbaoiHealingTou": {
+          "name": "Healing Touch"
+        }
+      }
+    },
+    "phbmobRowboat000": {
+      "name": "Rowboat",
+      "tokenName": "Rowboat"
+    },
+    "phbmobSailingShi": {
+      "name": "Sailing Ship",
+      "tokenName": "Sailing Ship"
+    },
+    "phbmobWarship000": {
+      "name": "Warship",
+      "tokenName": "Warship"
+    },
+    "phbostCelestial0": {
+      "name": "Celestial Steed",
+      "tokenName": "Otherworldly Steed",
+      "items": {
+        "phbaoiLifeBond00": {
+          "name": "Life Bond"
+        },
+        "phbaoiOtherworld": {
+          "name": "Otherworldly Slam"
+        },
+        "phbaoiHealingTou": {
+          "name": "Healing Touch"
+        }
+      }
+    },
+    "phbostFey0000000": {
+      "name": "Fey Steed",
+      "tokenName": "Otherworldly Steed",
+      "items": {
+        "phbaoiLifeBond00": {
+          "name": "Life Bond"
+        },
+        "phbaoiOtherworld": {
+          "name": "Otherworldly Slam"
+        },
+        "phbaoiFeyStepFey": {
+          "name": "Fey Step"
+        }
+      }
+    },
+    "phbostFiend00000": {
+      "name": "Fiend Steed",
+      "tokenName": "Otherworldly Steed",
+      "items": {
+        "phbaoiLifeBond00": {
+          "name": "Life Bond"
+        },
+        "phbaoiOtherworld": {
+          "name": "Otherworldly Slam"
+        },
+        "phbaoiFellGlareF": {
+          "name": "Fell Glare"
+        }
+      }
+    },
+    "phbsaoAnimatedOb": {
+      "name": "Small Animated Object",
+      "tokenName": "Animated Object",
+      "items": {
+        "phbaoiSlam000000": {
+          "name": "Slam"
+        }
+      }
+    },
+    "phbsplArcaneEye0": {
+      "name": "Arcane Eye",
+      "tokenName": "Arcane Eye",
+      "items": {
+        "phbaoiWizard0000": {
+          "name": "Move"
+        }
+      }
+    },
+    "phbsplBigbysHand": {
+      "name": "Arcane Hand",
+      "tokenName": "Bigby's Hand",
+      "items": {
+        "phbaoiClenchedFi": {
+          "name": "Clenched Fist"
+        },
+        "phbaoiForcefulHa": {
+          "name": "Forceful Hand"
+        },
+        "phbaoiGraspingHa": {
+          "name": "Grasping Hand"
+        },
+        "phbaoiInterposin": {
+          "name": "Interposing Hand"
+        }
+      }
+    },
+    "phbsplConjuredEl": {
+      "name": "Conjured Air Elemental",
+      "tokenName": "Conjured Air Elemental",
+      "items": {
+        "1sm4KQqflaDX7MEu": {
+          "name": "Air Element"
+        }
+      }
+    },
+    "phbsplConjuredFe": {
+      "name": "Conjured Fey",
+      "tokenName": "Conjured Fey",
+      "items": {
+        "phbaoiAttackAtta": {
+          "name": "Command"
+        }
+      }
+    },
+    "phbsplFlamingSph": {
+      "name": "Flaming Sphere",
+      "tokenName": "Flaming Sphere",
+      "items": {
+        "phbftFlamingSphe": {
+          "name": "Flames"
+        },
+        "phbaoiFlamingSph": {
+          "name": "Roll"
+        }
+      }
+    },
+    "phbsplFloatingDi": {
+      "name": "Floating Disk",
+      "tokenName": "Floating Disk",
+      "items": {
+        "KTWQy1Nv101ubAeN": {
+          "name": "Carry Weight Adjustment"
+        }
+      }
+    },
+    "phbsplGraspingVi": {
+      "name": "Grasping Vine",
+      "tokenName": "Grasping Vine",
+      "items": {
+        "phbaoiLevel4Conj": {
+          "name": "Vine Attack"
+        }
+      }
+    },
+    "phbsplGuardianof": {
+      "name": "Guardian of Faith",
+      "tokenName": "Guardian of Faith",
+      "items": {
+        "phbaoiLevel4Conj": {
+          "name": "Guarded Area"
+        }
+      }
+    },
+    "phbsplLight00000": {
+      "name": "Light",
+      "tokenName": "Light"
+    },
+    "phbsplMageHand00": {
+      "name": "Mage Hand",
+      "tokenName": "Mage Hand"
+    },
+    "phbsplMediumDanc": {
+      "name": "Dancing Light (Medium)",
+      "tokenName": "Dancing Light"
+    },
+    "phbsplMordSword0": {
+      "name": "Arcane Sword",
+      "tokenName": "Mordenkainen’s Sword",
+      "items": {
+        "phbftMordenkaine": {
+          "name": "Move and Attack"
+        }
+      }
+    },
+    "phbsplSecretChes": {
+      "name": "Secret Chest",
+      "tokenName": "Secret Chest"
+    },
+    "phbsplSpiritualW": {
+      "name": "Spiritual Weapon",
+      "tokenName": "Spiritual Weapon",
+      "items": {
+        "phbaoiAttackSpir": {
+          "name": "Move and Attack"
+        }
+      }
+    },
+    "phbsplTinyDancin": {
+      "name": "Dancing Light (Tiny)",
+      "tokenName": "Dancing Light"
+    },
+    "phbsplUnseenServ": {
+      "name": "Unseen Servant",
+      "tokenName": "Unseen Servant"
+    },
+    "phbsumPhantomSte": {
+      "name": "Phantom Steed",
+      "tokenName": "Riding Horse",
+      "items": {
+        "phbaoiHooves0000": {
+          "name": "Hooves"
+        }
+      }
+    },
+    "phbtaoAnimatedOb": {
+      "name": "Tiny Animated Object",
+      "tokenName": "Animated Object",
+      "items": {
+        "phbaoiSlam000000": {
+          "name": "Slam"
+        }
+      }
+    }
+  }
+}

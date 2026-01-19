@@ -1,4 +1,82 @@
 {
-	"label": "Talenti",
-	"entries": {}
+  "label": "Talenti",
+  "mapping": {
+    "description": "system.description.value"
+  },
+  "folders": {
+    "Origin Feats": "Talenti Origini",
+    "Epic Boon Feats": "Talenti Dono Epico",
+    "Fighting Style Feats": "Talenti Stile di Combattimento",
+    "General Feats": "Talenti Generali"
+  },
+  "entries": {
+    "phbBoonofCombatP": {
+      "name": "Dono delle Abilità di Combattimento",
+      "description": "<p>Il personaggio ottiene i seguenti benefici.</p><p><strong>Incremento dei punteggi di caratteristica.</strong> Il punteggio di una sua caratteristica a scelta aumenta di 1, fino a un massimo di 30.</p><p><strong>Mira impareggiabile.</strong> Quando il tiro per colpire del personaggio non va a segno, può comunque colpire il bersaglio. Una volta sfruttato questo beneficio, non può essere riutilizzato fino all'inizio del turno successivo del personaggio.</p>"
+    },
+    "phbBoonofDimensi": {
+      "name": "Dono del Viaggio Dimensionale",
+      "description": "<p>Il personaggio ottiene i seguenti benefici.</p><p><strong>Incremento dei punteggi di caratteristica.</strong> Il punteggio di una sua caratteristica a scelta aumenta di 1, fino a un massimo di 30.</p><p><strong>Passi fulminei.</strong> Subito dopo che il personaggio effettua un'azione di Attacco o Magia, può teletrasportarsi di massimo 9 metri in uno spazio libero che è in grado di vedere.</p>"
+    },
+    "phbBoonofFate000": {
+      "name": "Dono del fato",
+      "description": "<p>Il personaggio ottiene i seguenti benefici.</p><p><strong>Incremento dei punteggi di caratteristica.</strong> Il punteggio di una sua caratteristica a scelta aumenta di 1, fino a un massimo di 30.</p><p><strong>Fato migliorato.</strong> Quando il personaggio o un'altra creatura entro 18 metri da sé supera o fallisce una prova con d20, può tirare 2d4 e applicare il risultato ottenuto come bonus o penalità a tale prova con d20. Una volta utilizzato questo beneficio, non può più utilizzarlo finché non tira per l'iniziativa o non completa un riposo breve o lungo.</p>"
+    },
+    "phbBoonofIrresis": {
+      "name": "Dono dell'Offensiva Irresistibile",
+      "description": "<p>Il personaggio ottiene i seguenti benefici.</p><p><strong>Incremento dei punteggi di caratteristica.</strong> Il suo punteggio di Forza o Destrezza aumenta di 1, fino a un massimo di 30.</p><p><strong>Ignora difese.</strong> I danni contundenti, perforanti e taglienti inflitti dal personaggio ignorano sempre la resistenza.</p><p><strong>Colpo soverchiante.</strong> Quando tira per colpire con il d20 e ottiene un 20, il personaggio può infliggere una quantità di danni extra al bersaglio pari al punteggio di caratteristica incrementato da questo talento. Il danno aggiuntivo è dello stesso tipo di quello dell'attacco.</p><section id=\"secret-B9D2nT6vBjWr9JMV\" class=\"secret\"><p><strong>Nota Foundry</strong></p><p>Gli effetti di questo talento non sono automatizzati. Il danno aggiuntivo può essere inserito nel campo Bonus Situazionale della finestra di tiro danni.</p></section>"
+    },
+    "phbBoonofSpellRe": {
+      "name": "Dono del Richiamo degli Incantesimi",
+      "description": "<p>Il personaggio ottiene i seguenti benefici.</p><p><strong>Incremento dei punteggi di caratteristica.</strong> Il suo punteggio di Intelligenza, Saggezza o Carisma aumenta di 1, fino a un massimo di 30.</p><p><strong>Lancio libero.</strong> Quando lancia un incantesimo con uno slot di livello da 1 a 4, tira 1d4. Se il risultato corrisponde al livello dello slot, questo non verrà consumato.</p><section class=\"secret\" id=\"secret-KMAFFZCOzi6Cuemh\"><p><strong>Nota Foundry</strong></p><p>Se il risultato corrisponde, deseleziona l’opzione di Consumo quando utilizzi l’incantesimo.</p></section>"
+    },
+    "phbBoonofTruesig": {
+      "name": "Dono della Vista Pura",
+      "description": "<p>Il personaggio ottiene i seguenti benefici.</p><p><strong>Incremento dei punteggi di caratteristica.</strong> Il punteggio di una sua caratteristica a scelta aumenta di 1, fino a un massimo di 30.</p><p><strong>Vista pura.</strong> Il personaggio ottiene vista pura con un raggio di 18 metri.</p><section id=\"secret-MmPASAH8hA8METnP\" class=\"secret\"><p><strong>Nota Foundry</strong></p><p>Questa capacità include un Effetto Attivo che conferisce vista pura con un raggio di 18 metri.</p></section>"
+    },
+    "phbBoonoftheNigh": {
+      "name": "Dono dello Spirito Notturno",
+      "description": "<p>Il personaggio ottiene i seguenti benefici.</p><p><strong>Incremento dei punteggi di caratteristica.</strong> Il punteggio di una sua caratteristica a scelta aumenta di 1, fino a un massimo di 30.</p><p><strong>Fusione con le ombre.</strong> Finché si trova in un'area di oscurità o luce fioca, può diventare invisibile come azione bonus. Tale condizione termina subito dopo che il personaggio effettua un'azione, un'azione bonus o una reazione.</p><p><strong>Forma d'ombra.</strong> Finché si trova in un'area di oscurità o luce fioca, ha resistenza a tutti i tipi di danno, tranne quelli psichici e radiosi.</p><section id=\"secret-fpWHPSTNYUeGtg0w\" class=\"secret\"><p><strong>Nota Foundry</strong></p><p>L'Effetto Attivo <strong>Boon of the Night Spirit</strong> include le resistenze, ma deve essere attivato/disattivato manualmente nella scheda Effetti.</p><p>L'attività <strong>Fusione con le ombre</strong> include un Effetto Attivo che applica la condizione Invisibile.</p></section>"
+    },
+    "phbfstArchery000": {
+      "name": "Tiro",
+      "description": "<p><em>(prerequisito: privilegio Stile di combattimento)</em></p><p>Il personaggio ottiene un bonus di +2 ai tiri per colpire che effettua con le armi a distanza.</p><section id=\"secret-n13Z6zR2u0CiIA7D\" class=\"secret\"><p><strong>Nota Foundry</strong></p><p>Questa capacità include un Effetto Attivo che applica il bonus ai tiri per colpire con armi a distanza.</p></section>"
+    },
+    "phbfstDefense000": {
+      "name": "Difesa",
+      "description": "<p><em>(prerequisito: privilegio Stile di combattimento)</em></p><p>Finché il personaggio indossa un'armatura leggera, media o pesante, ottiene un +1 alla Classe Armatura.</p><section id=\"secret-y8skH0HHunT4I5NR\" class=\"secret\"><p><strong>Nota Foundry</strong></p><p>Questa capacità include un Effetto Attivo che fornisce il bonus alla Classe Armatura. Disattivalo quando il personaggio non indossa un'armatura.</p></section>"
+    },
+    "phbfstGreatWeapo": {
+      "name": "Combattere con Armi Possenti",
+      "description": "<p><em>(prerequisito: privilegio Stile di combattimento)</em></p><p>Quando tiri per i danni per un attacco effettuato con un'arma da mischia che il personaggio impugna a due mani, se il risultato ottenuto è 1 o 2, puoi invece considerarlo come un 3. L'arma deve possedere la proprietà a due mani o versatile affinché ottenga questo beneficio.</p><section id=\"secret-jkbP75uR9eNGIRN0\" class=\"secret\"><p><strong>Nota Foundry</strong></p><p>Questo effetto non è automatizzato.</p></section>"
+    },
+    "phbfstTwoWeaponF": {
+      "name": "Combattere con due armi",
+      "description": "<p><em>(prerequisito: privilegio Stile di combattimento)</em></p><p>Quando il personaggio effettua un attacco extra come risultato dell'uso di un'arma leggera, puoi aggiungere il suo modificatore di caratteristica al danno di quell'attacco a patto che non sia già stato aggiunto in altro modo.</p><section class=\"secret\" id=\"secret-hYptyfGCa0gLDQRT\"><p><strong>Nota Foundry</strong></p><p>Questa capacità non è automatizzata. Puoi aggiungere il modificatore nel campo Bonus Situazionale del tiro danni.</p></section>"
+    },
+    "phbftAbilityScor": {
+      "name": "Aumento dei punteggi di caratteristica",
+      "description": "<p><em>Talento Generale (prerequisito: 4º livello o superiore)</em></p><p>Aumenta un punteggio di caratteristica a tua scelta di 2, oppure aumenta due punteggi di caratteristica di 1. Questo talento non può incrementare un punteggio di caratteristica oltre il 20.</p><p><strong>Ripetibile.</strong> Questo talento è ottenibile più di una volta.</p>"
+    },
+    "phbftAlert000000": {
+      "name": "Allerta",
+      "description": "<p>Il personaggio ottiene i seguenti benefici.</p><p><strong>Competenza in iniziativa.</strong> Quando tiri per l'iniziativa, puoi aggiungere il bonus di competenza del personaggio al risultato del tiro.</p><p><strong>Scambio di iniziativa.</strong> Subito dopo aver tirato per l'iniziativa, puoi scambiare il risultato ottenuto con quello di un alleato consenziente durante il medesimo combattimento. Se il tuo personaggio o il suo alleato è &amp;Reference[Incapacitated], non è possibile eseguire lo scambio.</p><section id=\"secret-yzfXk3D5M1jv9ixH\" class=\"secret\"><p><strong>Nota Foundry</strong></p><p>Questa capacità applica automaticamente il bonus all'iniziativa del personaggio.</p></section>"
+    },
+    "phbftGrappler000": {
+      "name": "Lottatore",
+      "description": "<p><em>Talento Generale (prerequisito: 4º livello o superiore, Forza o Destrezza 13 o superiore)</em></p><p>Il personaggio ottiene i seguenti benefici.</p><p><strong>Incremento dei punteggi di caratteristica.</strong> Il suo punteggio di Forza o Destrezza aumenta di 1, fino a un massimo di 20.</p><p><strong>Colpisci e afferra.</strong> Quando il personaggio colpisce una creatura con un colpo senz'armi come parte di un'azione di Attacco nel proprio turno, può usare sia l'opzione Danni che Presa. Questo beneficio è utilizzabile una sola volta per turno.</p><p><strong>Attacco con vantaggio.</strong> Dispone di vantaggio ai tiri per colpire contro le creature che ha afferrato (&amp;Reference[Grappled]).</p><p><strong>Lottatore rapido.</strong> Il personaggio non deve spendere alcun movimento extra se sposta una creatura che ha afferrato che sia della sua stessa categoria di taglia o inferiore.</p><section class=\"secret\" id=\"secret-LAjjGo55LPacAy8v\"><p><strong>Nota Foundry</strong></p><p>Il vantaggio non è automatizzato.</p></section>"
+    },
+    "phbftMagicInitia": {
+      "name": "Iniziato alla magia",
+      "description": "<p>Il personaggio ottiene i seguenti benefici.</p><p><strong>Due trucchetti.</strong> Il personaggio apprende due trucchetti a scelta tratti dalla lista degli incantesimi da @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj]{chierico}, @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU]{druido} o @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{mago}. La caratteristica da incantatore per gli incantesimi di questo talento può essere Intelligenza, Saggezza o Carisma (scegli la caratteristica quando ottieni questo talento).</p><p><strong>Incantesimo di 1º livello.</strong> Scegli un incantesimo di 1º livello dalla stessa lista da cui hai selezionato i trucchetti forniti da questo talento. Tale incantesimo è sempre considerato come preparato. Il personaggio può lanciarlo una volta senza consumare uno slot incantesimo e ne recupera l'utilizzo in questo modo dopo aver completato un Riposo Lungo. Può anche lanciare l'incantesimo usando uno qualsiasi degli slot incantesimo a sua disposizione.</p><p><strong>Cambio incantesimo.</strong> Quando il personaggio ottiene un nuovo livello, puoi sostituire uno degli incantesimi scelti per questo talento con un altro dello stesso livello dalla lista prescelta.</p><p><strong>Ripetibile.</strong> Questo talento è ottenibile più di una volta, ma devi scegliere una lista degli incantesimi diversa a ogni selezione.</p>"
+    },
+    "phbftSavageAttac": {
+      "name": "Aggressore selvaggio",
+      "description": "<p>Il personaggio si è allenato per sferrare colpi particolarmente letali. Una volta per turno, quando colpisce un bersaglio con un'arma, puoi tirare due volte per i danni dell'arma e scegliere il risultato che preferisci.</p>"
+    },
+    "phbftSkilled0000": {
+      "name": "Abile",
+      "description": "<p>Il personaggio ottiene competenza in una combinazione di tre abilità o strumenti a scelta.<p></p><strong>Ripetibile.</strong> Questo talento è ottenibile più di una volta.</p>"
+    }
+  }
 }
