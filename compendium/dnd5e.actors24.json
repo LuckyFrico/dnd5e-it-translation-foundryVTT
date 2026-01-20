@@ -80,7 +80,7 @@
       "tokenName": "Avatar of Death",
       "items": {
         "dmgaoiIncorporea": {
-          "name": "Incorporeal Movement"
+          "name": "Movimento Incorporeo"
         },
         "dmgaoiMultiattac": {
           "name": "Multiattacco"
@@ -3034,7 +3034,7 @@
           "name": "Ethereal Sight"
         },
         "1sfETIOrk3lvfWbm": {
-          "name": "Incorporeal Movement"
+          "name": "Movimento Incorporeo"
         },
         "mmMultiattack000": {
           "name": "Multiattacco"
@@ -6103,7 +6103,7 @@
       "tokenName": "Specter",
       "items": {
         "mmIncorporealMov": {
-          "name": "Incorporeal Movement"
+          "name": "Movimento Incorporeo"
         },
         "mmSunlightSensit": {
           "name": "Sunlight Sensitivity"
@@ -7189,7 +7189,7 @@
           "name": "Illumination"
         },
         "mmIncorporealMov": {
-          "name": "Incorporeal Movement"
+          "name": "Movimento Incorporeo"
         },
         "mmVanish00000000": {
           "name": "Vanish"
@@ -7243,7 +7243,7 @@
       "tokenName": "Wraith",
       "items": {
         "mmIncorporealMov": {
-          "name": "Incorporeal Movement"
+          "name": "Movimento Incorporeo"
         },
         "mmSunlightSensit": {
           "name": "Sunlight Sensitivity"
