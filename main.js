@@ -307,3 +307,42 @@ Hooks.on("renderActorSheet", async function() {
 });
 
 console.log("Modulo dnd5e-it-translation inizializzato");
+
+Hooks.once("ready", async () => {
+  const MODULE_ID = "dnd5e-it-translation";
+  const VERSION_KEY = "shownVersion";
+
+  // Registra un'impostazione nascosta che memorizza l'ultima versione per cui è stato mostrato il messaggio
+  game.settings.register(MODULE_ID, VERSION_KEY, {
+    scope: "world",
+    config: false,
+    type: String,
+    default: ""
+  });
+
+  const module = game.modules.get(MODULE_ID);
+  const currentVersion = module?.version ?? "unknown";
+  const lastShownVersion = game.settings.get(MODULE_ID, VERSION_KEY);
+
+  // Se la versione è nuova (mai mostrata), crea il messaggio
+  if (currentVersion !== lastShownVersion) {
+    ChatMessage.create({
+      user: game.user.id,
+      speaker: { alias: "Traduzione Italiana Dungenons and Dragons" },
+      content: `<h4>Benvenuto nella traduzione italiana di D&D</h4>
+                <p><em>Versione attuale ${currentVersion}</em></p><p></p>
+                <p> Con questa versione del modulo avrai: </p>
+                <ul>
+                <li> Traduzione del core di sistema di D&D per Foundry VTT </li>
+                <li> Traduzione del compendio delle regole SRD per D&D versione 2014 legacy</li>
+                <li> Traduzione del compendio delle regole SRD per D&D versione 2024 modern</li>
+                <li> Una serie di macro per la conversione di scene, attori, incantesimi ed oggetti da sistema imperiale a sistema metrico!
+                <em> Nota: la gestione delle conversioni può essere fatta direttamente dalle Impostazioni del modulo!</em></li>
+                </ul>
+                <p>Per maggiori dettagli visita il nostro <a href="https://github.com/LuckyFrico/dnd5e-it-translation" target="_blank"> GitHub </a>.</p><p></p>
+                <p><em>Nota: attualmente la traduzione delle regole SRD per D&D 2024 non è ancora ultimata, ma sarà portata avanti con i prossimi aggiornamenti!</em></p>`
+    });
+
+    await game.settings.set(MODULE_ID, VERSION_KEY, currentVersion);
+  }
+});
