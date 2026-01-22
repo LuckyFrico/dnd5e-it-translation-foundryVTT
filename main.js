@@ -1,3 +1,40 @@
+const DELAY = 800;
+const FADE = 550;
+
+const senseLabels = {
+  blindsight: "Vista Cieca",
+  darkvision: "Scurovisione",
+  tremorsense: "Senso del Tremore",
+  truesight: "Visione del Vero",
+  special: "Speciale"
+};
+
+const typeLabels = {
+  aberration: "Aberrazione",
+  beast: "Bestia",
+  celestial: "Celestiale",
+  construct: "Costrutto",
+  dragon: "Drago",
+  elemental: "Elementale",
+  fey: "Fata",
+  fiend: "Immondo",
+  giant: "Gigante",
+  humanoid: "Umanoide",
+  monstrosity: "Mostruosità",
+  ooze: "Melma",
+  plant: "Pianta",
+  undead: "Non Morto"
+};
+
+const sizeLabels = {
+  tiny: "Minuscola",
+  sm: "Piccola",
+  med: "Media",
+  lg: "Grande",
+  huge: "Enorme",
+  grg: "Garganuesca"
+};
+
 var alignments = {
   "chaotic evil": "Caotico Malvagio",
   "chaotic neutral":"Caotico Neutrale",
@@ -70,6 +107,44 @@ function setEncumbranceData() {
   game.settings.set("dnd5e", "metricWeightUnits", convert);
 }
 
+function getSensiRows(actor) {
+  const senses = actor.system.attributes.senses;
+  const units = senses.units ?? "ft";
+
+  const rows = [];
+
+  // Sensi standard
+  for (const key of ["blindsight", "darkvision", "tremorsense", "truesight", "special"]) {
+    const value = senses[key];
+
+    if (!value || value === 0 || value === "") continue;
+
+    const label = senseLabels[key] ?? key;
+    rows.push(`<div class="row">${label}: ${value}${units}</div>`);
+  }
+
+  // Percezione Passiva
+  const passive = actor.system.skills.prc?.passive;
+  if (passive) {
+    rows.push(`<div class="row">Percezione Passiva: ${passive}</div>`);
+  }
+
+  return rows.join("");
+}
+
+function getTipo(actor) {
+  const raw = actor.system.details.type?.value;
+  if (!raw) return "";
+
+  return typeLabels[raw] ?? raw;
+}
+
+function getTaglia(actor) {
+  const raw = actor.system.traits.size;
+  if (!raw) return "";
+  return sizeLabels[raw] ?? raw;
+}
+
 class OpenCompendiumMenu extends FormApplication {
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
@@ -131,6 +206,17 @@ Hooks.once('init', () => {
     type: OpenCompendiumMenu,
     restricted: false
   });
+
+  // Impostazione popup attori
+   game.settings.register("dnd5e-it-translation", "enableActorPopout", {
+    name: "Abilita popup attori nei Diari",
+    hint: "Se disattivato, il popup degli attori non verrà mostrato al passaggio del mouse all'interno dei link dei diari.",
+    scope: "client",
+    config: true,
+    type: Boolean,
+    default: true
+  });
+
 
   // Registrazione Babele
   Babele.get().register({
@@ -345,4 +431,144 @@ Hooks.once("ready", async () => {
 
     await game.settings.set(MODULE_ID, VERSION_KEY, currentVersion);
   }
+});
+
+// popup attori su diari
+Hooks.on("ready", () => {
+  if (!game.settings.get("dnd5e-it-translation", "enableActorPopout")) return;
+  let hoverTimeout = null;
+  let currentLink = null;
+  let locked = false;
+  let currentPopout = null;
+
+  document.addEventListener("mouseover", event => {
+    const link = event.target.closest("a.content-link");
+    if (!link) return;
+
+    const uuid = link.dataset.uuid;
+    if (!uuid || !uuid.startsWith("Actor.")) return;
+
+    if (currentLink === link) return;
+    currentLink = link;
+
+    clearTimeout(hoverTimeout);
+
+    hoverTimeout = setTimeout(async () => {
+      if (locked) return;
+
+      const actor = await fromUuid(uuid);
+      if (!actor) return;
+
+      const pop = document.createElement("div");
+      pop.classList.add("uuid-hover-popout");
+      const bioRaw = actor.system.details?.biography?.value ?? ""; const bioHTML = await TextEditor.enrichHTML(bioRaw, { async: true });
+
+      pop.innerHTML = `
+        <div class="inner">
+        <img src="${actor.img}" />
+        <div class="header">
+            <h4 class="name">${actor.name}</h4>
+        </div>
+        <div class="bio">${bioHTML}</div>
+        <div class="footer">
+          <div class="row">${getTipo(actor)}</div>
+          <div class="row">${getTaglia(actor)}</div>
+          <div class="row">${actor.system.details.alignment}</div>
+          ${getSensiRows(actor)}
+        </div>
+        <div class="hint">Tato destro del mouse attiva/disattiva fissa popout</div>
+        </div>
+      `;
+
+      pop.querySelector("img").addEventListener("click", () => { 
+        new ImagePopout(actor.img, { 
+          title: actor.name, 
+          shareable: true 
+        }).render(true); 
+      });
+
+      pop.querySelector(".name").addEventListener("click", () => { 
+        actor.sheet.render(true); 
+      });
+
+      document.body.appendChild(pop);
+      currentPopout = pop;
+
+      const rect = link.getBoundingClientRect();
+      pop.style.visibility = "hidden";
+      pop.style.display = "block";
+
+      await new Promise(requestAnimationFrame); 
+      const popRect = pop.getBoundingClientRect();
+
+      let top = rect.top + (rect.height / 2) - (popRect.height / 2);
+
+      top = Math.max(10, Math.min(top, window.innerHeight - popRect.height - 10));
+
+      let left = rect.left - popRect.width - 15;
+
+      left = Math.max(10, left);
+
+      pop.style.top = `${top + window.scrollY}px`;
+      pop.style.left = `${left + window.scrollX}px`;
+
+      pop.style.visibility = "visible";
+
+      requestAnimationFrame(() => pop.classList.add("visible"));
+
+      const onLeave = () => {
+        if (locked) return;
+
+        pop.classList.remove("visible");
+        pop.classList.add("closing");
+
+        setTimeout(() => {
+          pop.remove();
+          currentPopout = null;
+        }, FADE);
+
+        link.removeEventListener("mouseleave", onLeave);
+        currentLink = null;
+      };
+
+      link.addEventListener("mouseleave", onLeave);
+
+      pop.addEventListener("contextmenu", e => {
+        e.preventDefault();
+        locked = !locked;
+
+        if (locked) {
+          pop.classList.add("locked");
+        } else {
+          pop.classList.remove("locked");
+          onLeave();
+        }
+      });
+
+      link.addEventListener("contextmenu", e => {
+        e.preventDefault();
+        if (!currentPopout) return;
+
+        locked = !locked;
+
+        if (locked) {
+          currentPopout.classList.add("locked");
+        } else {
+          currentPopout.classList.remove("locked");
+          onLeave();
+        }
+      });
+
+    }, DELAY);
+  });
+
+  document.addEventListener("mouseout", event => {
+    const link = event.target.closest("a.content-link");
+    if (!link) return;
+
+    if (!locked) {
+      clearTimeout(hoverTimeout);
+      currentLink = null;
+    }
+  });
 });
