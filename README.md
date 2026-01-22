@@ -41,3 +41,21 @@ Inoltre, per chi importa scene, incantesimi e attori, è stato aggiunto un Compe
 - attori
 al Sistema Metrico.
 
+### Popup Attori 
+Novità con la versione 2.2.0, l'aggiunta di un sistema per visualizzare l'anteprima degli Attori linkati nelle voci del Diario.
+
+![D&D5e](https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT/blob/main/.img/actor_popup_1.png)
+
+Passando con il mouse sopra al link UUID nella voce del diario, apparirà un popup che mostrerà alcune informazioni principali per il roleplay come la descrizione, il tipo di creatura, l'allinamento, i sensi e la percerzione passiva.
+Inoltre sarà possibile fissare il popup cliccando il tasto destro del mouse per poter leggere tutta la descrizione.
+
+Da questa finestra sarà poi possibile cliccare sull'immagine dell'Attore per aprirne il classico popup
+
+![D&D5e](https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT/blob/main/.img/actor_popup_2.png)
+
+oltre che cliccare sul nome dell'Attore per aprirne la scheda.
+
+![D&D5e](https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT/blob/main/.img/actor_popup_3.png)
+
+_Nota: è possibile disattivare il popup direttamente dalle impostazioni del modulo!_
+
