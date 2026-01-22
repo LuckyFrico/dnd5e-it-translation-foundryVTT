@@ -424,6 +424,7 @@ Hooks.once("ready", async () => {
                 <li> Traduzione del compendio delle regole SRD per D&D versione 2024 modern</li>
                 <li> Una serie di macro per la conversione di scene, attori, incantesimi ed oggetti da sistema imperiale a sistema metrico!
                 <em> Nota: la gestione delle conversioni può essere fatta direttamente dalle Impostazioni del modulo!</em></li>
+                <li> Un sistema di Popup personalizzato che permette la visualizzazione di alcune informazioni importanti degli Attori direttamente dai link UUID delle voci di Diario</li>
                 </ul>
                 <p>Per maggiori dettagli visita il nostro <a href="https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT" target="_blank"> GitHub </a>.</p><p></p>
                 <p><em>Nota: attualmente la traduzione delle regole SRD per D&D 2024 non è ancora ultimata, ma sarà portata avanti con i prossimi aggiornamenti!</em></p>`
