@@ -1,0 +1,129 @@
+/* POPOUT */
+.uuid-hover-popout {
+  position: absolute;
+  z-index: 9999;
+  background-image: url("/modules/dnd5e-it-translation/assets/ui/parchment.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+  background-color: transparent;
+  border: 2px solid #6f6c66;
+  padding: 8px;
+  max-width: 300px;
+  max-height: 550px;   
+  box-sizing: border-box;
+  border-radius: 6px;
+  box-shadow: 0 0 10px black;
+  opacity: 0;
+  transition: opacity 550ms ease, transform 550ms ease;
+  overflow: hidden;     
+}
+
+/* Fade-in */
+.uuid-hover-popout.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Fade-out */
+.uuid-hover-popout.closing {
+  opacity: 0;
+  transform: translateY(4px);
+}
+
+/* INNER CONTAINER */
+.uuid-hover-popout .inner {
+  display: flex;
+  flex-direction: column;
+  max-height: 534px;   
+}
+
+/* HINT MESSAGE */
+.uuid-hover-popout .hint {
+  font-size: 0.6em;
+  color: #888;
+  text-align: center;
+  margin-bottom: 6px;
+  opacity: 0.8;
+  padding: 0 4px;
+}
+
+/* HEADER */
+.uuid-hover-popout .header {
+  text-align: center;
+  margin-bottom: 6px;
+}
+
+.uuid-hover-popout .header .name {
+  font-size: 1.8em;
+  margin-bottom: 5px !important;
+  font-weight: bold;
+  color: #242424;
+}
+
+.uuid-hover-popout .name {
+  cursor: pointer;
+  transition:
+    color 300ms ease,
+    text-shadow 300ms ease;
+}
+
+.uuid-hover-popout .name:hover {
+  color: #8b0000;
+  text-shadow: 0 0 4px rgba(0,0,0,0.3);  
+}
+
+/* IMAGINE */
+.uuid-hover-popout img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  border: 3px solid #ba9056;
+  box-shadow: 0 0 10px #5e5e5e;
+  cursor: pointer;
+  transition: box-shadow 300ms ease;
+}
+
+.uuid-hover-popout img:hover {
+  box-shadow: 0 0 15px #252525;
+}
+
+/* BIO */
+.uuid-hover-popout .bio {
+  flex: 1 1 auto;      
+  min-height: 0;    
+  overflow-y: auto;   
+  font-size: 0.8em;
+  color: #242424;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 100%;
+  padding: 0 6px;
+}
+
+/* FOOTER */
+.uuid-hover-popout .footer {
+  display: flex; 
+  flex-wrap: wrap;
+  gap: 6px 6px;
+  margin-top: 8px;
+  padding: 6px 4px;
+  font-size: 0.75em;
+  color: #242424;
+  flex-shrink: 0;
+  text-transform: uppercase;
+}
+
+/* FOOTER VOICE*/
+.uuid-hover-popout .footer .row {
+  margin: 0; 
+  padding: 4px;
+  border: 1px dotted #242424; 
+  border-radius: 5px;
+  white-space: nowrap;
+}
