@@ -1,5 +1,83 @@
+// ============================================================================
+// DnD 5e - Traduzione Italina
+// File: main.js
+// ============================================================================
+
+Hooks.once("init", () => {
+  const praser = document.createElement("link");
+  praser.rel = "stylesheet";
+  praser.href = "modules/dnd5e-it-translation/styles/praser.css";
+  document.head.appendChild(praser);
+
+  const statblock = document.createElement("link");
+  statblock.rel = "stylesheet";
+  statblock.href = "modules/dnd5e-it-translation/styles/statblock.css";
+  document.head.appendChild(statblock);
+});
+
+
+// Caricamento altri file javascript
+import "./scripts/section-parser.js";
+import "./scripts/statblock-parser.js";
+import "./scripts/dnd-journal-styles.js";
+
 const DELAY = 800;
 const FADE = 550;
+
+const subtypeLabels = {
+  "Any Race": "Qualsiasi Razza",
+  Asimar: "Aasimar",
+  Bugbear: "Bugbear",
+  Centaur: "Centauro",
+  Changeling: "Mutaforma",
+  Deepgnome: "Gnomo delle Profondità",
+  Duergar: "Duergar",
+  Eladrin: "Eladrin",
+  Firbolg: "Firbolg",
+  Genasi: "Genasi",
+  Githyanki: "Githyanki",
+  Githzerai: "Githzerai",
+  Goblin: "Goblin",
+  Goliath: "Goliath",
+  Harengon: "Harengon",
+  Hobgoblin: "Hobgoblin",
+  Kalashtar: "Kalashtar",
+  Kenku: "Kenku",
+  Kobold: "Coboldo",
+  Lizardfolk: "Lucertoloide",
+  Minotaur: "Minotauro",
+  Orc: "Orco",
+  Satyr: "Satiro",
+  Seaelf: "Elfo del Mare",
+  Shadarkai: "Shadar-Kai",
+  Shifter: "Mutapelle",
+  Tabaxi: "Tabaxi",
+  Tiefling: "Tiefling",
+  Tortle: "Tortle",
+  Triton: "Tritone",
+  Yuanti: "Yuan-ti",
+  Warforged: "Forgiato",
+  Gnome: "Gnomo",
+  Dwarf: "Nano",
+  Elf: "Elfo",
+  Halfling: "Halfling",
+  Human: "Umano",
+  Dragonborn: "Dragonide",
+  Demon: "Demone",
+  Devil: "Diavolo",
+  Yugoloth: "Yugoloth",
+  Zombie: "Zombie",
+  Skeleton: "Scheletro",
+  Vampire: "Vampiro",
+  Lycanthrope: "Licantropo",
+  Werewolf: "Licantropo (Lupo Mannaro)",
+  Wererat: "Licantropo (Ratto Mannaro)",
+  Werebear: "Licantropo (Orso Mannaro)",
+  Merfolk: "Tritone",
+  Giant: "Gigante",
+  Goblinoid: "Goblinoide",
+  Shapechanger: "Mutaforma",
+};
 
 const senseLabels = {
   blindsight: "Vista Cieca",
@@ -17,7 +95,7 @@ const typeLabels = {
   dragon: "Drago",
   elemental: "Elementale",
   fey: "Fata",
-  fiend: "Immondo",
+  fiend: "Demone",
   giant: "Gigante",
   humanoid: "Umanoide",
   monstrosity: "Mostruosità",
@@ -51,6 +129,8 @@ var alignments = {
   "unaligned":"Senza Allineamento",
   "any non-lawful": "Qualsiasi non legale",
   "any": "Qualsiasi",
+  "Any Alignment": "Qualsiasi Allineamento",
+  "Any Non-Lawful Alignment": "Qualsiasi Allineamento non Legale",
 };
 
 var languages = {
@@ -91,6 +171,25 @@ var languages = {
   "understands common and giant but can't speak":"capisce il comune e il gigante ma non sa parlare",
   "cannot speak": "Non parla"
 };
+
+function getTipoCompleto(actor) {
+  const type = actor.system.details.type?.value;
+  const subtype = actor.system.details.type?.subtype;
+
+  if (!type) return "";
+
+  const tipo = typeLabels[type] ?? type;
+
+  if (!subtype || subtype === "") {
+    return tipo;
+  }
+
+  const subs = subtype.split(",").map(s => s.trim());
+
+  const subsTradotti = subs.map(s => subtypeLabels[s] ?? s);
+
+  return `${tipo} (${subsTradotti.join(", ")})`;
+}
 
 function roundToTwoDecimals(num) {
   return Math.round((Number(num) + Number.EPSILON) * 100) / 100;
@@ -217,6 +316,19 @@ Hooks.once('init', () => {
     default: true
   });
 
+  game.settings.register("dnd5e-it-translation", "journalStyle", {
+        name: "Stile dei Journal",
+        hint: "Seleziona lo stile grafico da applicare ai Journal.",
+        scope: "client",
+        config: true,
+        type: String,
+        choices: {
+            "default": "Default di sistema",
+            "dnd_2024": "D&D 2024 - Manuale Base"
+        },
+        default: "dnd_2024",
+        onChange: () => window.location.reload()
+    });
 
   // Registrazione Babele
   Babele.get().register({
@@ -425,8 +537,11 @@ Hooks.once("ready", async () => {
                 <li> Una serie di macro per la conversione di scene, attori, incantesimi ed oggetti da sistema imperiale a sistema metrico!
                 <em> Nota: la gestione delle conversioni può essere fatta direttamente dalle Impostazioni del modulo!</em></li>
                 <li> Un sistema di Popup personalizzato che permette la visualizzazione di alcune informazioni importanti degli Attori direttamente dai link UUID delle voci di Diario</li>
+                <li> Uno stile dei font dei Journal selezionabile identico a quello dei manuali della versione di D&D 2024</li>
+                <li> Un sistema per gestire la nidificazione di note attraverso un praser dedicato</li>
+                <li> Un sistema di blocchi preformattati per la migliore gestione delle note come: blocchi per parti da leggere dal GM ai giocatori, note per il GM, blocchi per citazioni ed uno statblock in pieno stile D&D 2024! <em> Nota: questi blocchi potranno essere richiamati facilmente nell'editor di testo con un menù creato ad hoc!</em></li>
                 </ul>
-                <p>Per maggiori dettagli visita il nostro <a href="https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT" target="_blank"> GitHub </a>.</p><p></p>
+                <p>Per maggiori dettagli e guide visita il nostro <a href="https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT" target="_blank"> GitHub </a>.</p><p></p>
                 <p><em>Nota: attualmente la traduzione delle regole SRD per D&D 2024 non è ancora ultimata, ma sarà portata avanti con i prossimi aggiornamenti!</em></p>`
     });
 
@@ -472,7 +587,7 @@ Hooks.on("ready", () => {
         </div>
         <div class="bio">${bioHTML}</div>
         <div class="footer">
-          <div class="row">${getTipo(actor)}</div>
+          <div class="row">${getTipoCompleto(actor)}</div>
           <div class="row">${getTaglia(actor)}</div>
           <div class="row">${actor.system.details.alignment}</div>
           ${getSensiRows(actor)}
@@ -572,4 +687,16 @@ Hooks.on("ready", () => {
       currentLink = null;
     }
   });
+});
+
+Hooks.once("ready", () => {
+    const style = game.settings.get("dnd5e-it-translation", "journalStyle");
+
+    if (style === "default") return;
+
+    const link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.href = `/modules/dnd5e-it-translation/styles/journal/${style}.css`;
+
+    document.head.appendChild(link);
 });
