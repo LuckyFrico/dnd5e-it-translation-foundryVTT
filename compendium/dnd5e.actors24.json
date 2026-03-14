@@ -3,38 +3,38 @@
   "folders": {
     "Aberration": "Abberrazioni",
     "Animated Objects": "Oggetti Animati",
-    "Beast": "Beast",
+    "Beast": "Bestie",
     "Celestial": "Celestiali",
     "Companions": "Famigli",
-    "Conjurations": "Conjurations",
-    "Conjured Elementals": "Conjured Elementals",
+    "Conjurations": "Evocazioni",
+    "Conjured Elementals": "Elementali Evocati",
     "Construct": "Costrutti",
     "Dragon": "Draghi",
     "Elemental": "Elementali",
-    "Fey": "Fey",
-    "Fiend": "Fiend",
+    "Fey": "Folletti",
+    "Fiend": "Demoni",
     "Giant": "Giganti",
     "Giant Insects": "Insetti Giganti",
     "Humanoid": "Umanoidi",
     "Magic Items": "Oggetti Magici",
     "Monstrosity": "Mostruosità",
-    "Ooze": "Ooze",
+    "Ooze": "Melme",
     "Otherworldly Steeds": "Otherworldly Steeds",
-    "Plant": "Piante",
-    "Summon Templates": "Summon Templates",
+    "Plant": "Vegetali",
+    "Summon Templates": "Modelli di Evocazioni",
     "Summons": "Evocazioni",
-    "Swarm": "Swarm",
+    "Swarm": "Sciami",
     "Undead": "Non Morti",
     "Vehicles": "Veicoli"
   },
   "entries": {
     "VBTtG9kjHNQstG0a": {
-      "name": "Airship",
-      "tokenName": "Airship"
+      "name": "Nave Volante",
+      "tokenName": "Nave Volante"
     },
     "dmg3x5CarpetofFl": {
-      "name": "Carpet of Flying (3 by 5 ft.)",
-      "tokenName": "Carpet of Flying",
+      "name": "Tappeto Volante (3 x 5 ft.)",
+      "tokenName": "Tappeto Volante",
       "items": {
         "jRXMMWyLsf3cPmSP": {
           "name": "Carry Weight Adjustment"
@@ -42,8 +42,8 @@
       }
     },
     "dmg4x6CarpetofFl": {
-      "name": "Carpet of Flying (4 by 6 ft.)",
-      "tokenName": "Carpet of Flying",
+      "name": "Tappeto Volante (4 x 6 ft.)",
+      "tokenName": "Tappeto Volante",
       "items": {
         "cdo7WnGawlzIo3MD": {
           "name": "Carry Weight Adjustment"
@@ -51,12 +51,12 @@
       }
     },
     "dmg5x7CarpetofFl": {
-      "name": "Carpet of Flying (5 by 7 ft.)",
-      "tokenName": "Carpet of Flying"
+      "name": "Tappeto Volante (5 x 7 ft.)",
+      "tokenName": "Tappeto Volante"
     },
     "dmg6x9CarpetofFl": {
-      "name": "Carpet of Flying (6 by 9 ft.)",
-      "tokenName": "Carpet of Flying",
+      "name": "Tappeto Volante (6 x 9 ft.)",
+      "tokenName": "Tappeto Volante",
       "items": {
         "kgZMlH9XtkOvSHqQ": {
           "name": "Carry Weight Adjustment"
@@ -64,8 +64,8 @@
       }
     },
     "dmgApparatusofKw": {
-      "name": "Apparatus of the Crab",
-      "tokenName": "Apparatus of the Crab",
+      "name": "Apparato del Granchio",
+      "tokenName": "Apparato del Granchio",
       "items": {
         "fmdWz6RQsUCHneZF": {
           "name": "Claw Attack"
@@ -76,8 +76,8 @@
       }
     },
     "dmgAvatarofDeath": {
-      "name": "Avatar of Death",
-      "tokenName": "Avatar of Death",
+      "name": "Avatar della Morte",
+      "tokenName": "Avatar della Morte",
       "items": {
         "dmgaoiIncorporea": {
           "name": "Movimento Incorporeo"
@@ -91,12 +91,12 @@
       }
     },
     "dmgGiantFly00000": {
-      "name": "Giant Fly",
-      "tokenName": "Giant Fly"
+      "name": "Mosca Gigante",
+      "tokenName": "Mosca Gigante"
     },
     "dmgGoatofTraveli": {
-      "name": "Goat of Traveling",
-      "tokenName": "Goat of Traveling",
+      "name": "Capra del Viaggiatore",
+      "tokenName": "Capra del Viaggiatore",
       "items": {
         "phbaoiHooves0000": {
           "name": "Hooves"
@@ -104,36 +104,36 @@
       }
     },
     "dmgIllusoryCreat": {
-      "name": "Illusory Creature",
-      "tokenName": "Illusory Creature"
+      "name": "Creatura Illusoria",
+      "tokenName": "Creatura Illusoria"
     },
     "dmggwsDancingSwo": {
-      "name": "Dancing Sword",
-      "tokenName": "Dancing Sword",
+      "name": "Spada Danzante",
+      "tokenName": "Spada Danzante",
       "items": {
         "W8EZZZznFN8X4gGD": {
           "name": "Greatsword"
         },
         "DPH6ngFfFJHdxMYe": {
-          "name": "Longsword"
+          "name": "Spada Lunga"
         },
         "dlSKamvVAPMCCTbC": {
           "name": "Rapier"
         },
         "aYun8JFJxhdpFw14": {
-          "name": "Scimitar"
+          "name": "Scimitarra"
         },
         "237FLmvncdVOhDKY": {
-          "name": "Shortsword"
+          "name": "Spada Corta"
         }
       }
     },
     "dmgqftFloatingWh": {
-      "name": "Floating Whip",
-      "tokenName": "Floating Whip",
+      "name": "Frusta Fluttuante",
+      "tokenName": "Frusta Fluttuante",
       "items": {
         "JczWMhh6A5JU8yfN": {
-          "name": "Melee Spell Attack"
+          "name": "Attacco magico in mischia"
         }
       }
     },
@@ -142,19 +142,19 @@
       "tokenName": "Aboleth",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmEldritchRestor": {
-          "name": "Eldritch Restoration"
+          "name": "Ristoro Occulto"
         },
         "mmLegendaryResis": {
           "name": "Resistenze Leggendarie"
         },
         "mmMucusCloud0000": {
-          "name": "Mucus Cloud"
+          "name": "Nube di Muco"
         },
         "mmProbingTelepat": {
-          "name": "Probing Telepathy"
+          "name": "Sonda Telepatica"
         },
         "mmTentacle000000": {
           "name": "Tentacle"
@@ -163,7 +163,7 @@
           "name": "Multiattacco"
         },
         "yiiKNaJ2svcUWqLi": {
-          "name": "Dominate Mind"
+          "name": "Domina Mente"
         },
         "7gP0oX3L1RKRaBGH": {
           "name": "Consume Memories"
@@ -177,11 +177,11 @@
       }
     },
     "mmAdultBlackDrag": {
-      "name": "Adult Black Dragon",
-      "tokenName": "Adult Black Dragon",
+      "name": "Drago Nero Adulto",
+      "tokenName": "Drago Nero Adulto",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmLegendaryResis": {
           "name": "Resistenze Leggendarie"
@@ -228,8 +228,8 @@
       }
     },
     "mmAdultBlueDrago": {
-      "name": "Adult Blue Dragon",
-      "tokenName": "Adult Blue Dragon",
+      "name": "Drago Blu Adulto",
+      "tokenName": "Drago Blu Adulto",
       "items": {
         "mmLegendaryResis": {
           "name": "Resistenze Leggendarie"
@@ -330,11 +330,11 @@
       }
     },
     "mmAdultBronzeDra": {
-      "name": "Adult Bronze Dragon",
-      "tokenName": "Adult Bronze Dragon",
+      "name": "Drago di Bronzo Adulto",
+      "tokenName": "Drago di Bronzo Adulto",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmLegendaryResis": {
           "name": "Resistenze Leggendarie"
@@ -444,14 +444,14 @@
       }
     },
     "mmAdultGoldDrago": {
-      "name": "Adult Gold Dragon",
-      "tokenName": "Adult Gold Dragon",
+      "name": "Drago Dorato Adulto",
+      "tokenName": "Drago Dorato Adulto",
       "items": {
         "mmLegendaryResis": {
           "name": "Resistenze Leggendarie"
         },
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmMultiattack000": {
           "name": "Multiattacco"
@@ -502,7 +502,7 @@
       "tokenName": "Adult Green Dragon",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmLegendaryResis": {
           "name": "Resistenze Leggendarie"
@@ -562,13 +562,13 @@
           "name": "Commanding Presence"
         },
         "XdmqM6EC8IQGORA7": {
-          "name": "Command"
+          "name": "Comando"
         },
         "mmSpellcasting00": {
           "name": "Spellcasting"
         },
         "96FsmcQizygzJObm": {
-          "name": "Command"
+          "name": "Comando"
         },
         "XSQvtfHscntDlwUz": {
           "name": "Individuazione del Magico"
@@ -712,7 +712,7 @@
       "tokenName": "Ancient Black Dragon",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmLegendaryResis": {
           "name": "Resistenze Leggendarie"
@@ -877,7 +877,7 @@
       "tokenName": "Ancient Bronze Dragon",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmLegendaryResis": {
           "name": "Resistenze Leggendarie"
@@ -1000,7 +1000,7 @@
       "tokenName": "Ancient Gold Dragon",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmLegendaryResis": {
           "name": "Resistenze Leggendarie"
@@ -1057,7 +1057,7 @@
       "tokenName": "Ancient Green Dragon",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmLegendaryResis": {
           "name": "Resistenze Leggendarie"
@@ -1123,7 +1123,7 @@
           "name": "Commanding Presence"
         },
         "Odow2YaRaUYFKNtX": {
-          "name": "Command"
+          "name": "Comando"
         },
         "mmFieryRays00000": {
           "name": "Fiery Rays"
@@ -1135,7 +1135,7 @@
           "name": "Pounce"
         },
         "TJGECkkcnYNAPgU4": {
-          "name": "Command"
+          "name": "Comando"
         },
         "Syml5vFGmUBRQETy": {
           "name": "Individuazione del Magico"
@@ -1321,7 +1321,7 @@
       "tokenName": "Archelon",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmMultiattack000": {
           "name": "Multiattacco"
@@ -1414,7 +1414,7 @@
       "tokenName": "Assassin",
       "items": {
         "jLa5l9pntsTVrMKH": {
-          "name": "Shortsword"
+          "name": "Spada Corta"
         },
         "dL4668G7zXeC5zyY": {
           "name": "Light Crossbow"
@@ -1531,7 +1531,7 @@
       "tokenName": "Bandit",
       "items": {
         "otGT32geRnrgVe3j": {
-          "name": "Scimitar"
+          "name": "Scimitarra"
         },
         "0qG1ZLUPB2MrHV8B": {
           "name": "Light Crossbow"
@@ -1546,7 +1546,7 @@
       "tokenName": "Bandit Captain",
       "items": {
         "w3cX0piuU875Hc2M": {
-          "name": "Scimitar"
+          "name": "Scimitarra"
         },
         "2TB9ZSIbtbi4UtSv": {
           "name": "Pistol"
@@ -1681,7 +1681,7 @@
       "tokenName": "Black Dragon Wyrmling",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmRend0000000000": {
           "name": "Rend"
@@ -1810,7 +1810,7 @@
           "name": "Multiattacco"
         },
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmRend0000000000": {
           "name": "Rend"
@@ -1906,7 +1906,7 @@
           "name": "Component Pouch"
         },
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmSpeakWithFrogs": {
           "name": "Speak with Frogs and Toads"
@@ -1945,7 +1945,7 @@
       "tokenName": "Bullywug Warrior",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmSpeakWithFrogs": {
           "name": "Speak with Frogs and Toads"
@@ -2068,7 +2068,7 @@
       "tokenName": "Chuul",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmSenseMagic0000": {
           "name": "Sense Magic"
@@ -2278,7 +2278,7 @@
       "tokenName": "Crab",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmClaw0000000000": {
           "name": "Claw"
@@ -2332,7 +2332,7 @@
           "name": "Thaumaturgy"
         },
         "uW5SgMN0N4BGrkkl": {
-          "name": "Command"
+          "name": "Comando"
         },
         "usukVMEiBvOYV5GI": {
           "name": "Hold Person"
@@ -2521,7 +2521,7 @@
       "tokenName": "Dragon Turtle",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmMultiattack000": {
           "name": "Multiattacco"
@@ -2950,7 +2950,7 @@
       "tokenName": "Frog",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmStandingLeap00": {
           "name": "Standing Leap"
@@ -3160,7 +3160,7 @@
       "tokenName": "Giant Crab",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmClaw0000000000": {
           "name": "Claw"
@@ -3223,7 +3223,7 @@
       "tokenName": "Giant Frog",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmStandingLeap00": {
           "name": "Standing Leap"
@@ -3388,7 +3388,7 @@
       "tokenName": "Giant Toad",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmStandingLeap00": {
           "name": "Standing Leap"
@@ -3574,7 +3574,7 @@
       "tokenName": "Goblin Boss",
       "items": {
         "8gwXLDcYj3mk6Kr3": {
-          "name": "Scimitar"
+          "name": "Scimitarra"
         },
         "XbNHC5OBGT6VQF40": {
           "name": "Shortbow"
@@ -3613,7 +3613,7 @@
       "tokenName": "Goblin Warrior",
       "items": {
         "9RULzqhnPi3lqw1u": {
-          "name": "Scimitar"
+          "name": "Scimitarra"
         },
         "wKUi0YkXW5KapyxP": {
           "name": "Shortbow"
@@ -3634,7 +3634,7 @@
       "tokenName": "Gold Dragon Wyrmling",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmMultiattack000": {
           "name": "Multiattacco"
@@ -3685,7 +3685,7 @@
       "tokenName": "Green Dragon Wyrmling",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmMultiattack000": {
           "name": "Multiattacco"
@@ -3703,7 +3703,7 @@
       "tokenName": "Green Hag",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmCovenMagic0000": {
           "name": "Coven Magic"
@@ -3814,7 +3814,7 @@
           "name": "Javelin"
         },
         "CneRFiVxRtCmo8Pl": {
-          "name": "Longsword"
+          "name": "Spada Lunga"
         },
         "Hv9oVmAZO34IYvkp": {
           "name": "Breastplate"
@@ -4021,7 +4021,7 @@
       "tokenName": "Hobgoblin Warrior",
       "items": {
         "ZVPzldPQh1kkz2q3": {
-          "name": "Longsword"
+          "name": "Spada Lunga"
         },
         "SU2FqPW4L3nfnRif": {
           "name": "Longbow"
@@ -4330,7 +4330,7 @@
       "tokenName": "Kraken",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmLegendaryResis": {
           "name": "Resistenze Leggendarie"
@@ -4342,7 +4342,7 @@
           "name": "Multiattacco"
         },
         "mmTentacle000000": {
-          "name": "Tentacle"
+          "name": "Tentacolo"
         },
         "mmFling000000000": {
           "name": "Fling"
@@ -4720,7 +4720,7 @@
       "tokenName": "Merfolk Skirmisher",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmOceanSpear0000": {
           "name": "Ocean Spear"
@@ -4732,7 +4732,7 @@
       "tokenName": "Merrow",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmMultiattack000": {
           "name": "Multiattacco"
@@ -4867,7 +4867,7 @@
           "name": "Dread Command"
         },
         "KOWKJe3vIwDbWY0Y": {
-          "name": "Command"
+          "name": "Comando"
         },
         "xhuz3Gwz1C5hyZLl": {
           "name": "Necrotic Strike"
@@ -5143,7 +5143,7 @@
           "name": "Bite"
         },
         "mmTentacle000000": {
-          "name": "Tentacle"
+          "name": "Tentacolo"
         },
         "mmTentacleSlam00": {
           "name": "Tentacle Slam"
@@ -5734,7 +5734,7 @@
           "name": "Bite"
         },
         "mmTentacle000000": {
-          "name": "Tentacle"
+          "name": "Tentacolo"
         },
         "mmReel0000000000": {
           "name": "Reel"
@@ -5854,7 +5854,7 @@
       "tokenName": "Scout",
       "items": {
         "jdOlqVzYs89JuqTB": {
-          "name": "Shortsword"
+          "name": "Spada Corta"
         },
         "qhM3PIWgXdyRCeul": {
           "name": "Longbow"
@@ -5872,7 +5872,7 @@
       "tokenName": "Sea Hag",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmCovenMagic0000": {
           "name": "Coven Magic"
@@ -6016,7 +6016,7 @@
       "tokenName": "Skeleton",
       "items": {
         "vEXMIYtUBn1SxPZD": {
-          "name": "Shortsword"
+          "name": "Spada Corta"
         },
         "kCpjX4Ys7VLJ25qi": {
           "name": "Shortbow"
@@ -6328,7 +6328,7 @@
       "tokenName": "Spy",
       "items": {
         "cZowYloP5f2fxbtI": {
-          "name": "Shortsword"
+          "name": "Spada Corta"
         },
         "8XNaqNwy1n0AUrl5": {
           "name": "Hand Crossbow"
@@ -6415,7 +6415,7 @@
       "tokenName": "Storm Giant",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmMultiattack000": {
           "name": "Multiattacco"
@@ -6835,7 +6835,7 @@
           "name": "Beguile"
         },
         "IzS0oSSgTDp0oltT": {
-          "name": "Command"
+          "name": "Comando"
         },
         "4jEKnNBcbZnPmifL": {
           "name": "Deathless Strike"
@@ -7300,7 +7300,7 @@
       "tokenName": "Young Black Dragon",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmMultiattack000": {
           "name": "Multiattacco"
@@ -7351,7 +7351,7 @@
       "tokenName": "Young Bronze Dragon",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmMultiattack000": {
           "name": "Multiattacco"
@@ -7393,7 +7393,7 @@
           "name": "Multiattacco"
         },
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmRend0000000000": {
           "name": "Rend"
@@ -7411,7 +7411,7 @@
       "tokenName": "Young Green Dragon",
       "items": {
         "mmAmphibious0000": {
-          "name": "Amphibious"
+          "name": "Anfibio"
         },
         "mmMultiattack000": {
           "name": "Multiattacco"
@@ -7758,7 +7758,7 @@
       "tokenName": "Conjured Fey",
       "items": {
         "phbaoiAttackAtta": {
-          "name": "Command"
+          "name": "Comando"
         }
       }
     },
@@ -7802,12 +7802,12 @@
       }
     },
     "phbsplLight00000": {
-      "name": "Light",
-      "tokenName": "Light"
+      "name": "Luce",
+      "tokenName": "Luce"
     },
     "phbsplMageHand00": {
-      "name": "Mage Hand",
-      "tokenName": "Mage Hand"
+      "name": "Mano Magica",
+      "tokenName": "Mano Magica"
     },
     "phbsplMediumDanc": {
       "name": "Dancing Light (Medium)",

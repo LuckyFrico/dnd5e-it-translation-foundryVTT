@@ -51,8 +51,8 @@
       "description": "<p>The [[lookup @name lowercase]] can move through a space as narrow as 1 inch without expending extra movement to do so.</p>"
     },
     "mmAmphibious0000": {
-      "name": "Amphibious",
-      "description": "<p>The [[lookup @name lowercase]] can breathe air and water.</p>"
+      "name": "Anfibio",
+      "description": "<p class=\"feature\">Il [[lookup @name lowercase]] può respirare in aria e in acqua.</p>"
     },
     "mmAnimateTrees00": {
       "name": "Animate Trees",
@@ -395,8 +395,8 @@
       "description": "<p class=\"feature\">The [[lookup @name lowercase]] knows if it hears a lie.</p>"
     },
     "mmDominateMind00": {
-      "name": "Dominate Mind",
-      "description": "<p><em>Wisdom Saving Throw:</em> DC [[lookup @save.dc.value activity=zdXAMnjaOcsVmLZP]], one [[lookup @target.affects.type activity=zdXAMnjaOcsVmLZP]] the [[lookup @name lowercase]] can see within [[lookup @range.value activity=zdXAMnjaOcsVmLZP]] feet.</p><p><em>Failure:</em> The target has the &amp;Reference[Charmed apply=false] condition until the [[lookup @name lowercase]] dies or is on a different plane of existence from the target. While Charmed, the target acts as an ally to the [[lookup @name lowercase]] and is under its control while within [[lookup @target.template.size activity=zdXAMnjaOcsVmLZP]] feet of it. In addition, the [[lookup @name lowercase]] and the target can communicate telepathically with each other over any distance.</p><p>The target repeats the save whenever it takes damage as well as after every 24 hours it spends at least 1 mile away from the [[lookup @name lowercase]], ending the effect on itself on a success.</p>"
+      "name": "Domina Mente",
+      "description": "<p><em>Tiro salvezza su Saggezza:</em> CD [[lookup @save.dc.value activity=zdXAMnjaOcsVmLZP]], una [[lookup @target.affects.type activity=zdXAMnjaOcsVmLZP]] che il [[lookup @name lowercase]] è in grado di vedere entro [[lookup @range.value activity=zdXAMnjaOcsVmLZP]] metri.</p><p><em>Fallimento:</em> la creatura ha la condizione &Reference[Charmed apply=false] finché il [[lookup @name lowercase]] muore o si sposta su un piano di esistenza diverso da quello del bersaglio. Finché è affascinato, il bersaglio agisce come un alleato del [[lookup @name lowercase]] ed è sotto il suo controllo finché si trova entro [[lookup @target.template.size activity=zdXAMnjaOcsVmLZP]] metri da esso. Inoltre, il [[lookup @name lowercase]] e il bersaglio possono comunicare telepaticamente tra loro a qualsiasi distanza.</p><p>Il bersaglio ripete il tiro salvezza ogni volta che subisce danni e ogni volta che trascorre 24 ore ad almeno 1,5 chilometri di distanza dal [[lookup @name lowercase]] e, se lo supera, l'effetto svanisce.</p>"
     },
     "mmDraconicOrigin": {
       "name": "Draconic Origin",
@@ -431,8 +431,8 @@
       "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]].</p>"
     },
     "mmEldritchRestor": {
-      "name": "Eldritch Restoration",
-      "description": "<p class=\"feature\">If destroyed, the [[lookup @name lowercase]] gains a new body in [[/r 5d10]] days, reviving with all its Hit Points in the Far Realm or another location chosen by the DM.</p>"
+      "name": "Ristoro Occulto",
+      "description": "<p class=\"feature\">Se viene annientato, il [[lookup @name lowercase]] ottiene un nuovo corpo dopo [[/r 5d10]] giorni, tornando in vita con tutti i suoi punti ferita nel Reame Remoto o in un altro luogo a scelta del GM.</p>"
     },
     "mmElementalResto": {
       "name": "Elemental Restoration",
@@ -759,16 +759,16 @@
       "description": "<p class=\"feature\">The [[lookup @name lowercase]]'s jump distance is determined using its Dexterity rather than its Strength.</p>"
     },
     "mmLash0000000000": {
-      "name": "Lash",
-      "description": "<p class=\"feature\">The [[lookup @name lowercase]] makes one Tentacle attack.</p>"
+      "name": "Sferzata",
+      "description": "<p class=\"feature\">Il [[lookup @name lowercase]] effettua un attacco Tentacolo.</p>"
     },
     "mmLeap0000000000": {
       "name": "Leap",
       "description": "<p>The [[lookup @name lowercase]] jumps up to [[lookup @range.value activity=C28C43DeD8iFtZMe]] feet by [[lookup @activation.condition activity=C28C43DeD8iFtZMe]].</p>"
     },
     "mmLegendaryResis": {
-      "name": "Legendary Resistance",
-      "description": "<p>If the [[lookup @name lowercase]] fails a saving throw, it can choose to succeed instead.</p>"
+      "name": "Resistenza leggendaria",
+      "description": "<p>Se [[lookup @name lowercase]] fallisce un tiro salvezza, può scegliere di superarlo comunque.</p>"
     },
     "mmLifeDrain00000": {
       "name": "Life Drain",
@@ -855,8 +855,8 @@
       "description": "<p class=\"feature\"><em>Wisdom Saving Throw:</em> DC [[lookup @save.dc.value activity=s5CMus4LOXBkt1Wn]], [[lookup @target.affects.labels.statblock activity=s5CMus4LOXBkt1Wn]] the [[lookup @name lowercase]] can see within [[lookup @range.value activity=s5CMus4LOXBkt1Wn]] <span style=\"font-family:'Roboto Condensed', sans-serif\">feet.</span> <em>Failure:</em> [[/damage average]] damage.</p>"
     },
     "mmMucusCloud0000": {
-      "name": "Mucus Cloud",
-      "description": "<p class=\"feature\">While underwater, the [[lookup @name lowercase]] is surrounded by mucus.</p><p class=\"feature\"><em>Constitution Saving Throw:</em> DC 14, each [[lookup @target.affects.type activity=clFFG8uDBSFzxIo8]] in a [[lookup @target.template.size activity=clFFG8uDBSFzxIo8]]-[[lookup @target.template.units activity=clFFG8uDBSFzxIo8]] Emanation originating from the [[lookup @name lowercase]] at the end of the [[lookup @name lowercase]]'s turn. <em>Failure:</em> The target is cursed. Until the curse ends, the target's skin becomes slimy, the target can breathe air and water, and it can't regain Hit Points unless it is underwater.</p><p class=\"feature\">While the cursed creature is outside a body of water, the creature takes [[/damage average activity=JrxCVyCOsBAMVZS7]] damage at the end of every 10 minutes unless moisture is applied to its skin before those minutes have passed.</p>"
+      "name": "Nube di Muco",
+      "description": "<p class=\"feature\">Finché si trova sott'acqua, il [[lookup @name lowercase]] è circondato da uno strato di muco.</p><p class=\"feature\"><em>Tiro salvezza su Costituzione:</em> CD 14, tutte le [[lookup @target.affects.type activity=clFFG8uDBSFzxIo8]] in un'emanazione di [[lookup @target.template.size activity=clFFG8uDBSFzxIo8]] [[lookup @target.template.units activity=clFFG8uDBSFzxIo8]] di cui il [[lookup @name lowercase]] è il punto di origine, alla fine del turno del [[lookup @name lowercase]]. <em>Fallimento:</em> il bersaglio è maledetto. Finché la maledizione perdura, la pelle del bersaglio diventa viscida, il bersaglio può respirare in aria e in acqua e non può recuperare Punti Ferita a meno che non si trovi sott'acqua.</p><p class=\"feature\">Finché la creatura maledetta si trova fuori da un corpo d'acqua, subisce [[/damage average activity=JrxCVyCOsBAMVZS7]] danni alla fine di ogni 10 minuti, a meno che non venga applicata umidità sulla sua pelle prima dello scadere di quel tempo.</p>"
     },
     "mmMultiattack000": {
       "name": "Multiattacco",
@@ -1011,8 +1011,8 @@
       "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]].</p>"
     },
     "mmPsychicDrain00": {
-      "name": "Psychic Drain",
-      "description": "<p class=\"feature\">If the [[lookup @name lowercase]] has at least one creature Charmed or Grappled, it uses Consume Memories and regains [[/healing average]].</p>"
+      "name": "Risucchio Psochico",
+      "description": "<p class=\"feature\">Se il [[lookup @name lowercase]] ha affascinato o afferrato almeno una creatura, utilizza Consuma Ricordi e recupera [[/healing average]].</p>"
     },
     "mmPummel00000000": {
       "name": "Pummel",
