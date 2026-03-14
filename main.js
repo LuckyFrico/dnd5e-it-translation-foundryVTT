@@ -538,7 +538,7 @@ Hooks.once("ready", async () => {
                 <em> Nota: la gestione delle conversioni può essere fatta direttamente dalle Impostazioni del modulo!</em></li>
                 <li> Un sistema di Popup personalizzato che permette la visualizzazione di alcune informazioni importanti degli Attori direttamente dai link UUID delle voci di Diario</li>
                 <li> Uno stile dei font dei Journal selezionabile identico a quello dei manuali della versione di D&D 2024</li>
-                <li> Un sistema per gestire la nidificazione di note attraverso un praser dedicato</li>
+                <li> Un sistema per richiamare intere sezioni di testo tra le note dei diari! <em> Nota: basterà inserire tramite drag&drop l'UUID della nota o della sezione della nota all'interno dell'editor e sostituire il "@UUID" con la dicitura "@Section". Questo permetterà di richiamare il testo della sezione interessata nella nuova nota creata!</em></li>
                 <li> Un sistema di blocchi preformattati per la migliore gestione delle note come: blocchi per parti da leggere dal GM ai giocatori, note per il GM, blocchi per citazioni ed uno statblock in pieno stile D&D 2024! <em> Nota: questi blocchi potranno essere richiamati facilmente nell'editor di testo con un menù creato ad hoc!</em></li>
                 </ul>
                 <p>Per maggiori dettagli e guide visita il nostro <a href="https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT" target="_blank"> GitHub </a>.</p><p></p>
