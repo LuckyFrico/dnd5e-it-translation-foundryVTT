@@ -1,1 +1,82 @@
+@font-face {
+    font-family: "Bookinsanity";
+    src: url("/modules/dnd5e-it-translation/fonts/dnd2024/Bookinsanity.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
 
+@font-face {
+    font-family: "Bookinsanity";
+    src: url("/modules/dnd5e-it-translation/fonts/dnd2024/Bookinsanity Italic.woff2") format("woff2");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Bookinsanity";
+    src: url("/modules/dnd5e-it-translation/fonts/dnd2024/Bookinsanity Bold.woff2") format("woff2");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Bookinsanity";
+    src: url("/modules/dnd5e-it-translation/fonts/dnd2024/Bookinsanity Bold Italic.woff2") format("woff2");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "MrEavesSmallCaps";
+    src: url("/modules/dnd5e-it-translation/fonts/dnd2024/Mr Eaves Small Caps.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "NodestoCapsCondensed";
+    src: url("/modules/dnd5e-it-translation/fonts/dnd2024/Nodesto Caps Condensed.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "NodestoCapsWide";
+    src: url("/modules/dnd5e-it-translation/fonts/dnd2024/Nodesto Caps Wide.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "ScalaSans";
+    src: url("/modules/dnd5e-it-translation/fonts/dnd2024/Scaly Sans.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.journal-entry-page {
+    font-family: "Bookinsanity", serif !important;
+    letter-spacing: 0.02em !important;
+}
+
+.journal-entry-page h1 {
+    font-family: "NodestoCapsCondensed", serif !important;
+    font-weight: normal !important;
+}
+
+.journal-entry-page h2,
+.journal-entry-page h3,
+.journal-entry-page h4,
+.journal-entry-page h5,
+.journal-entry-page h6 {
+    font-family: "MrEavesSmallCaps", serif !important;
+    font-weight: normal !important;
+}
+
+.journal-entry-page h2 {
+    border-bottom: 2px solid #ad8756 !important;
+}
+
+.dnd-readaloud p {
+    font-family: "ScalaSans", sans-serif !important;
+    letter-spacing: normal !important;
+}
