@@ -56,6 +56,23 @@ Da questa finestra sarà poi possibile cliccare sull'immagine dell'Attore per ap
 oltre che cliccare sul nome dell'Attore per aprirne la scheda.
 
 ![D&D5e](https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT/blob/main/.img/actor_popup_3.png)
-
 _Nota: è possibile disattivare il popup direttamente dalle impostazioni del modulo!_
+
+### Journal Styles
+E' stata aggiunta la possibilità di gestire, tramite il menù delle impostazioni, lo stile di visualizzazione delle note.
+Attualmente è disponibile la scelta tra "default" - che mantiene il formato nativo di foundry - o "D&D 2024" che implementa uno stile per le note del diario simile a quello dei manuali di D&D 2024.
+_Nota: è possibile gestire questa opzione dalle impostazioni del modulo! Inolre in futuro sarnno aggiunti altri stili!_
+
+### Joural Blocks
+E'stata aggiunta anche la possibilità di creare alcuni blocchi preformattati da poter inserire nelle note. Nell'editor di testo sarà presente un menù, affianco alla gestione della formattazione del testo, in cui poter scegliere tra:
+- Blocco ideato per parti di testo da leggere ai giocatori come avviene per i manuali d'avventura di D&D
+- Blocco di testo con note per il Dungeon Master
+- Blocco di testo per citazioni da parte di personaggi e/o NPC
+- Statblock semi-completo richiamato direttamente tramite UUID dell'attore presente nel mondo
+_Nota: in futuro sarnno aggiunti altri blocchi, se avete richieste particolari aprite pure una Issue!_
+
+### Journal Notes Link
+Aggiunta la possibilità di richiamare intere sezioni di testo tra le note dei diari. Basterà inserire tramite drag&drop l'UUID della nota o della sezione della nota all'interno dell'editor e sostituire il "@UUID" con la dicitura "@Section". Questo permetterà di richiamare il testo della sezione interessata nella nuova nota creata!
+
+
 
