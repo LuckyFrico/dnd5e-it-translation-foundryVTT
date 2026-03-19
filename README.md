@@ -3,6 +3,10 @@ Traduzione italiana per il sistema D&amp;D 5e in Foundry VTT
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2FLuckyFrico%2Fdnd5e-it-translation-foundryVTT%2Freleases%2Flatest%2Fdownload%2Fmodule.json&query=version&style=for-the-badge&logo=databricks&logoColor=violet&label=Latest%20version%20available&color=violet)
 
+Se vuoi supportare il mio lavoro
+
+<a href="https://www.buymeacoffee.com/LuckyFrico"><img src="https://img.buymeacoffee.com/button-api/?text=Support&emoji=&slug=LuckyFrico&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 ## Installazione
 1. All'interno di Foundry, selezionare la scheda Moduli Aggiuntivi.
 2. Clicca su Installa modulo e incolla il seguente indirizzo: https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT/releases/latest/download/module.json
