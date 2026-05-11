@@ -542,7 +542,11 @@ Hooks.once("ready", async () => {
                 <li> Un sistema di blocchi preformattati per la migliore gestione delle note come: blocchi per parti da leggere dal GM ai giocatori, note per il GM, blocchi per citazioni ed uno statblock in pieno stile D&D 2024! <em> Nota: questi blocchi potranno essere richiamati facilmente nell'editor di testo con un menù creato ad hoc!</em></li>
                 </ul>
                 <p>Per maggiori dettagli e guide visita il nostro <a href="https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT" target="_blank"> GitHub </a>.</p><p></p>
-                <p><em>Nota: attualmente la traduzione delle regole SRD per D&D 2024 non è ancora ultimata, ma sarà portata avanti con i prossimi aggiornamenti!</em></p>`
+                <p><em>Nota: attualmente la traduzione delle regole SRD per D&D 2024 non è ancora ultimata, ma sarà portata avanti con i prossimi aggiornamenti!</em></p>
+                <p></p>
+                <p>Se ti piace questo modulo e vuoi supportarmi</p>
+                <a href="https://www.buymeacoffee.com/LuckyFrico"><img src="https://img.buymeacoffee.com/button-api/?text=Support&emoji=&slug=LuckyFrico&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+                <p></p>`
     });
 
     await game.settings.set(MODULE_ID, VERSION_KEY, currentVersion);
