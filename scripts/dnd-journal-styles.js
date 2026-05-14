@@ -47,28 +47,33 @@ Hooks.on("getProseMirrorMenuDropDowns", (menu, dropdowns) => {
         action: "dnd-it-gm-hint",
         cmd: async () => {
           const html = await foundry.applications.handlebars.renderTemplate(
-          `modules/${MODULE_ID}/templates/gm-hint.html`
+            `modules/${MODULE_ID}/templates/gm-hint.html`
           );
           insertHTML(menu.view, html);
         }
       },
       {
         title: "Epigrafe",
-        description: "Inserisce un riquadro per una citazione presa da un testo o un personaggio",
+        description: "Inserisce un riquadro per una citazione",
         action: "dnd-it-cite",
         cmd: async () => {
           const html = await foundry.applications.handlebars.renderTemplate(
-          `modules/${MODULE_ID}/templates/epigrafe.html`
+            `modules/${MODULE_ID}/templates/epigrafe.html`
           );
           insertHTML(menu.view, html);
         }
-      },
-      {
-        title: "Statblock",
-        description: "Scegli un attore e inserisci automaticamente il suo Statblock",
-        action: "dnd-it-statblock",
-        cmd: async () => {
-          const actors = game.actors.contents;
+      }
+    ]
+  };
+
+  // SOLO se l’utente è GM
+  if (game.user.isGM) {
+    dropdowns.dndJournal.entries.push({
+      title: "Statblock",
+      description: "Scegli un attore e inserisci automaticamente il suo Statblock",
+      action: "dnd-it-statblock",
+      cmd: async () => {
+        const actors = game.actors.contents;
 
         new Dialog({
           title: "Inserisci Statblock",
@@ -80,23 +85,21 @@ Hooks.on("getProseMirrorMenuDropDowns", (menu, dropdowns) => {
               </select>
             </div>
           `,
-        buttons: {
-          ok: {
-            label: "Inserisci",
-            callback: html => {
-              const uuid = html.find("#dnd-it-statblock-select").val();
-              const tag = `@Statblock[${uuid}]`;
-
-              insertHTML(menu.view, `<p>${tag}</p>`);
-            }
-          },
-          cancel: { label: "Annulla" }
+          buttons: {
+            ok: {
+              label: "Inserisci",
+              callback: html => {
+                const uuid = html.find("#dnd-it-statblock-select").val();
+                const tag = `@Statblock[${uuid}]`;
+                insertHTML(menu.view, `<p>${tag}</p>`);
+              }
+            },
+            cancel: { label: "Annulla" }
           }
-          }).render(true);
-        }
+        }).render(true);
       }
-    ]
-  };
+    });
+  }
 });
 
 Hooks.once("ready", () => {
