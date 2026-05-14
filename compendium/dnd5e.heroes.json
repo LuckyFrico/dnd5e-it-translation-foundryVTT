@@ -34,18 +34,42 @@
             "converter":"token"
         }
     },
-    "entries": [
-        { "id": "Akra (Dragonborn Cleric)", "name": "Akra (Chierico Dragonide)" },
-        { "id": "Aoth (Human Druid)", "name": "Aoth (Druido Umano)" },
-        { "id": "Beiro (Half-Elf Bard)", "name": "Beiro (Bardo Mezzelfo)" },
-        { "id": "Krusk (Half-Orc Paladin)", "name": "Krusk (Paladino Mezzorco)" },
-        { "id": "Merric (Halfling Barbarian)", "name": "Merric (Barbaro Halfling)" },
-        { "id": "Morthos (Tiefling Sorcerer)", "name": "Morthos (Stregone Tiefling)" },
-        { "id": "Perrin (Halfling Monk)", "name": "Perrin (Monaco Halfling)"},
-        { "id": "Quillathe (Elf Ranger)", "name": "Quillathe (Ranger Elfo)"},
-        { "id": "Randal (Human Fighter)", "name": "Randal (Guerriero Umano)" },
-        { "id": "Riswynn (Dwarf Rogue)", "name": "Riswynn (Ladro Nano)" },
-        { "id": "Sefris (Half-Elf Warlock)", "name": "Sefris (Warlock Mezzelfo)" },
-        { "id": "Zanna (Gnome Wizard)", "name": "Zanna (Mago Gnomo)" }
-    ]
+    "entries": {
+        "Akra (Dragonborn Cleric)":{
+            "name": "Akra (Chierico Dragonide)" 
+        },
+        "Aoth (Human Druid)":{
+            "name": "Aoth (Druido Umano)" 
+        },
+        "Beiro (Half-Elf Bard)":{
+            "name": "Beiro (Bardo Mezzelfo)" 
+        },
+        "Krusk (Half-Orc Paladin)":{
+            "name": "Krusk (Paladino Mezzorco)" 
+        },
+        "Merric (Halfling Barbarian)":{
+            "name": "Merric (Barbaro Halfling)" 
+        },
+        "Morthos (Tiefling Sorcerer)":{
+            "name": "Morthos (Stregone Tiefling)" 
+        },
+        "Perrin (Halfling Monk)":{
+            "name": "Perrin (Monaco Halfling)"
+        },
+        "Quillathe (Elf Ranger)":{
+            "name": "Quillathe (Ranger Elfo)"
+        },
+        "Randal (Human Fighter)":{
+            "name": "Randal (Guerriero Umano)" 
+        },
+        "Riswynn (Dwarf Rogue)":{
+            "name": "Riswynn (Ladro Nano)"
+        },
+        "Sefris (Half-Elf Warlock)":{
+            "name": "Sefris (Warlock Mezzelfo)" 
+        },
+        "Zanna (Gnome Wizard)":{
+            "name": "Zanna (Mago Gnomo)" 
+        }
+    }
 }

@@ -11,6 +11,18 @@
         },
         "materials": "data.materials.value"
     },
+    "folders": {
+    "Cantrip": "Trucchetti",
+    "1st Level": "1° Livello",
+    "2nd Level": "2° Livello",
+    "3nd Level": "3° Livello",
+    "4th Level": "4° Livello",
+    "5th Level": "5° Livello",
+    "6th Level": "6° Livello",
+    "7th Level": "7° Livello",
+    "8th Level": "8° Livello",
+    "9th Level": "9° Livello"
+    },
     "entries": {
         "Acid Arrow": {
             "name": "Freccia Acida",
