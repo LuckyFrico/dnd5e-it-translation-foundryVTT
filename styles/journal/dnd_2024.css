@@ -53,9 +53,21 @@
     font-style: normal;
 }
 
-.journal-entry-page {
-    font-family: "Bookinsanity", serif !important;
-    letter-spacing: 0.02em !important;
+:root {
+    /* Font */
+    --dnd-2024-title-cond: "NodestoCapsCondensed", serif;
+    --dnd-2024-title-wide: "NodestoCapsWide", serif;
+    --dnd-2024-header-cond: "MrEavesSmallCaps", serif;
+    --dnd-2024-main-txt: "ScalaSans", sans-serif;
+    --dnd-2024-secondary-txt: "Bookinsanity", serif;
+}
+
+/* Journal */
+
+.journal-entry-page,
+.journal-entry-page p {
+    font-family: var(--dnd-2024-main-txt);
+    letter-spacing: 0.02em;
 }
 
 .journal-entry-page h1 {
@@ -68,7 +80,7 @@
 .journal-entry-page h4,
 .journal-entry-page h5,
 .journal-entry-page h6 {
-    font-family: "MrEavesSmallCaps", serif !important;
+    font-family: var(--dnd-2024-header-cond) !important;
     font-weight: normal !important;
 }
 
@@ -77,6 +89,67 @@
 }
 
 .dnd-readaloud p {
-    font-family: "ScalaSans", sans-serif !important;
+    font-family: var(--dnd-2024-secondary-txt) !important;
     letter-spacing: normal !important;
 }
+
+.dnd-readaloud blockquote {
+    font-family: var(--dnd-2024-secondary-txt) !important;
+    border-left: none;
+    margin-left: 0px;
+}
+
+/* Dnd Sheet Actor */
+
+.dnd5e2.sheet.actor.npc .sheet-header .document-name {
+    font-family: var(--dnd-2024-title-wide) !important
+}
+
+.dnd5e2.sheet.actor.npc .sheet-header .labels {
+    font-family: var(--dnd-2024-header-cond) !important
+}
+
+.dnd5e2.sheet.actor.npc .sheet-body .main-content .sidebar .pills-group .pill {
+    font-family: var(--dnd-2024-main-txt) !important;
+}
+
+.dnd5e2 .card .header h3, .dnd5e2 .card .header h4 {
+    font-family: var(--dnd-2024-main-txt) !important;
+}
+
+.dnd5e2 .items-section .items-header .item-header, .dnd5e2 .items-section .item .item-header,
+.dnd5e2 .roboto-upper,
+.editor-content {
+    font-family: var(--dnd-2024-main-txt) !important;
+}
+
+/* Chat Message */
+
+.chat-message h1,
+.chat-message h2,
+.chat-message h3,
+.chat-message h4,
+.chat-message h5,
+.chat-message h6 {
+    font-family: var(--dnd-2024-title-wide);
+    font-weight: bold;
+    line-height: 20px;
+    font-size: 23px
+}
+
+.message .message-header .title {
+    font-family: var(--dnd-2024-header-cond);
+}
+
+.message,
+.message .message-header .subtitle,
+.dnd5e2 .name-stacked .title,
+.dnd5e2 .chat-card .description .details,
+.dice-result .dice-total { 
+    font-family: var(--dnd-2024-main-txt);
+}
+
+.dice-result .dice-tooltip .dice .total .value {
+    font-family: var(--dnd-2024-main-txt) !important;
+}
+
