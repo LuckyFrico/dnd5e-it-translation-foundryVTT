@@ -246,7 +246,7 @@ function getTaglia(actor) {
 
 class OpenCompendiumMenu extends FormApplication {
   static get defaultOptions() {
-    return mergeObject(super.defaultOptions, {
+    return foundry.utils.mergeObject(super.defaultOptions, {
       id: "open-compendium-menu",
       title: "Macro del Modulo",
       width: 100,
@@ -347,17 +347,17 @@ Hooks.once('init', () => {
       "range": (range) => {
         if (!convertEnabled() || !range) return range;
         if (range.units === "ft") {
-          return mergeObject(range, {
+          return foundry.utils.mergeObject(range, {
             value: footsToMeters(range.value),
             long: footsToMeters(range.long),
             units: "m"
           });
         }
         if (range.units === "mi") {
-          return mergeObject(range, {
-            value: milesToMeters(range.value),
-            long: milesToMeters(range.long),
-            units: "km"
+          return foundry.utils.mergeObject(range, {
+            value: footsToMeters(range.value),
+            long: footsToMeters(range.long),
+            units: "m"
           });
         }
         return range;
@@ -368,7 +368,7 @@ Hooks.once('init', () => {
         let units = movement.units;
         if (units === 'ft') { convert = footsToMeters; units = "m"; }
         if (units === 'ml') { convert = milesToMeters; units = "m"; }
-        return mergeObject(movement, {
+        return foundry.utils.mergeObject(movement, {
           burrow: convert(movement.burrow),
           climb: convert(movement.climb),
           fly: convert(movement.fly),
@@ -378,7 +378,7 @@ Hooks.once('init', () => {
         });
       },
       "token": (token) => {
-        return mergeObject(token, {
+        return foundry.utils.mergeObject(token, {
           dimSight: footsToMeters(token.dimSight),
           brightSight: footsToMeters(token.brightSight)
         });
